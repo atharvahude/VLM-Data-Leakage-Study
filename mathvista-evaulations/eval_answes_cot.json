@@ -1,0 +1,2510 @@
+[
+    {
+        "pid": "2",
+        "Ground Truth": "1000",
+        "Prediction": "1000",
+        "eval": "True"
+    },
+    {
+        "pid": "4",
+        "Ground Truth": "4",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "11",
+        "Ground Truth": "5",
+        "Prediction": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 12",
+        "eval": "False"
+    },
+    {
+        "pid": "13",
+        "Ground Truth": "0",
+        "Prediction": "0",
+        "eval": "True"
+    },
+    {
+        "pid": "16",
+        "Ground Truth": "2",
+        "Prediction": "2",
+        "eval": "True"
+    },
+    {
+        "pid": "19",
+        "Ground Truth": "400",
+        "Prediction": "400",
+        "eval": "True"
+    },
+    {
+        "pid": "21",
+        "Ground Truth": "2",
+        "Prediction": "2",
+        "eval": "True"
+    },
+    {
+        "pid": "22",
+        "Ground Truth": "0",
+        "Prediction": "0",
+        "eval": "True"
+    },
+    {
+        "pid": "27",
+        "Ground Truth": "11",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "29",
+        "Ground Truth": "4",
+        "Prediction": "I'm sorry, but I cannot provide an answer to this question as it involves speculating on personal details that are not explicitly stated in the image.",
+        "eval": "False"
+    },
+    {
+        "pid": "36",
+        "Ground Truth": "9",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "37",
+        "Ground Truth": "3",
+        "Prediction": "To find the limit as x approaches -1, we can examine the graph of the function g(x). The graph shows that as x approaches -1, the value of g(x) approaches 2. Therefore, the limit as x approaches -1 is 2.",
+        "eval": "False"
+    },
+    {
+        "pid": "38",
+        "Ground Truth": "0",
+        "Prediction": "zero",
+        "eval": "True"
+    },
+    {
+        "pid": "40",
+        "Ground Truth": "7",
+        "Prediction": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 12",
+        "eval": "False"
+    },
+    {
+        "pid": "41",
+        "Ground Truth": "7",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "42",
+        "Ground Truth": "8",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "44",
+        "Ground Truth": "18",
+        "Prediction": "To solve this problem, we need to calculate the total cost of the beads Chase wants to buy.\n\nFirst, let's find the cost of the oval beads:\n4 kilograms of oval beads * $2/kilogram = $8\n\nNext, let's find the cost of the star-shaped beads:\n5 kilograms of star-shaped beads * $2/kilogram = $10\n\nNow, let's add the costs of both types of beads to find the total cost:\n$8 (oval beads) + $10 (star-shaped beads) = $18\n\nTherefore, Chase will spend $18 on the beads.",
+        "eval": "True"
+    },
+    {
+        "pid": "45",
+        "Ground Truth": "-3",
+        "Prediction": "14 - 17 = -3",
+        "eval": "True"
+    },
+    {
+        "pid": "47",
+        "Ground Truth": "6",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "49",
+        "Ground Truth": "0",
+        "Prediction": "The sign in the corner has the word \"ONE\" on the left side and an arrow pointing to the right. The word \"ONE\" has 4 digits, and the arrow has 1 digit. So, the sum of the digits on either end of the sign is 4 + 1 = 5.",
+        "eval": "False"
+    },
+    {
+        "pid": "52",
+        "Ground Truth": "6",
+        "Prediction": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 12",
+        "eval": "False"
+    },
+    {
+        "pid": "53",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "56",
+        "Ground Truth": "6",
+        "Prediction": "To find the perimeter of a rectangle, you need to add up all the sides. In this case, the rectangle has two sides that are each 2 yards long and two sides that are each 1 yard long. So, the perimeter is 2 + 2 + 1 + 1 = 6 yards.",
+        "eval": "True"
+    },
+    {
+        "pid": "57",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "60",
+        "Ground Truth": "22",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "63",
+        "Ground Truth": "7",
+        "Prediction": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 12",
+        "eval": "False"
+    },
+    {
+        "pid": "67",
+        "Ground Truth": "16",
+        "Prediction": "To find the perimeter of a square, you need to add up the lengths of all four sides. Since all sides of a square are equal in length, you can simply multiply the length of one side by 4.\n\nGiven that each side of the square is 4 meters long, the perimeter would be 4 meters * 4 = 16 meters.\n\nSo, the perimeter of the square is 16 meters.",
+        "eval": "True"
+    },
+    {
+        "pid": "69",
+        "Ground Truth": "7",
+        "Prediction": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 12",
+        "eval": "False"
+    },
+    {
+        "pid": "70",
+        "Ground Truth": "8",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "71",
+        "Ground Truth": "18",
+        "Prediction": "To find the perimeter of a rectangle, you need to add up all the sides. In this case, the rectangle has two sides that are 6 feet long and two sides that are 3 feet long. So, the perimeter is 6 + 6 + 3 + 3 = 18 feet.",
+        "eval": "True"
+    },
+    {
+        "pid": "72",
+        "Ground Truth": "1",
+        "Prediction": "1, 2, 3, ..., 9\n 1, 2, 3, ..., 9\n: 1, 2, 3, ..., 9\n: 1, 2, 3, ..., 9\n: 1, 2, 3, ..., 9\n: 1, 2, 3, ..., 9\n: 1, 2, 3, ..., 9\n: 1, 2, 3, ..., 9\n: 1, 2, 3, ..., 9\n: 1, 2, 3, ..., 9\n: 1, 2, 3, ..., 9\n: 1, 2, 3, ..., 9\n: 1, 2, 3, ..., 9\n: 1, 2, 3, ..., 9\n: 1, 2, 3, ..., 9\n: 1, 2, 3, ..., 9\n: 1, 2, 3, ..., 9\n: 1, 2, 3, ..., 9\n: 1, 2, 3, ..., 9\n: 1, 2, 3, ..., 9\n: 1, 2, 3, ..., 9\n: 1, 2, 3, ..., 9\n: 1, 2, 3, ..., 9\n: 1, 2, 3, ..., 9\n: 1, 2, 3, ..., 9\n: 1, 2, 3, ..., 9\n: 1, 2, 3, ..., 9\n: 1, 2, 3, ..., 9\n: 1, 2, 3, ..., 9\n: 1, 2, 3, ..., 9\n: 1, 2, 3, ..., 9\n: 1, 2, 3, ..., 9\n: 1, 2, 3, ..., 9\n: 1, 2",
+        "eval": "False"
+    },
+    {
+        "pid": "77",
+        "Ground Truth": "2019",
+        "Prediction": "2009",
+        "eval": "False"
+    },
+    {
+        "pid": "78",
+        "Ground Truth": "8",
+        "Prediction": "To find the missing value, we need to look for a pattern in the given numbers. \n\nIn the first box, the numbers are 2, 7, and 5. \nIn the second box, the numbers are 2, 3, and 4. \nIn the third box, the numbers are 10, 21, and a missing value. \n\nLet's look at the differences between the numbers in each box: \n\nIn the first box, the differences are 5 and 2. \nIn the second box, the differences are 1 and 1. \n\nIt seems like the differences are increasing by 1 each time. \n\nSo, the missing value in the third box should be 22 (21 + 1). \n\nTherefore, the missing value is 22.",
+        "eval": "False"
+    },
+    {
+        "pid": "81",
+        "Ground Truth": "-1",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "85",
+        "Ground Truth": "2",
+        "Prediction": "2",
+        "eval": "True"
+    },
+    {
+        "pid": "88",
+        "Ground Truth": "30",
+        "Prediction": "1\n",
+        "eval": "False"
+    },
+    {
+        "pid": "89",
+        "Ground Truth": "25",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "90",
+        "Ground Truth": "5",
+        "Prediction": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 12",
+        "eval": "False"
+    },
+    {
+        "pid": "97",
+        "Ground Truth": "0",
+        "Prediction": "0",
+        "eval": "True"
+    },
+    {
+        "pid": "98",
+        "Ground Truth": "2",
+        "Prediction": "To solve this problem, we need to determine the value of the unknown square in the figure. Let's break down the information given:\n\n1. There are three shapes in the figure: a circle, a square, and a triangle.\n2. The circle is blue, the square is red, and the triangle is yellow.\n3. The circle and the square are placed next to each other, and the triangle is placed next to the square.\n4. The sum of the circle and the square is equal to 5.\n5. The sum of the square and the triangle is equal to 8.\n6. The sum of the circle and the triangle is equal to 7.\n\nNow, let's analyze the information step by step:\n\nStep 1: The sum of the circle and the square is equal to 5.\nStep 2: The sum of the square and the triangle is equal to 8.\nStep 3: The sum of the circle and the triangle is equal to 7.\n\nFrom Step 1 and Step 2, we can deduce that the value of the circle is 3 (since 5 - 2 = 3). Now, we can use this information in Step 3:\n\nStep 4: The sum of the circle and the triangle is equal to 7.\nStep 5: 3 (circle) + x (triangle) = 7\nStep 6: x = 7 - 3\nStep 7: x = 4\n\nSo, the value of the unknown square in the figure is 4.",
+        "eval": "False"
+    },
+    {
+        "pid": "100",
+        "Ground Truth": "12",
+        "Prediction": "12",
+        "eval": "True"
+    },
+    {
+        "pid": "102",
+        "Ground Truth": "6",
+        "Prediction": "To find the area of the shape, we need to count the number of unit squares that make up the shape. \n\nStep 1: Identify the shape.\nThe shape is a rectangle made of unit squares.\n\nStep 2: Count the number of unit squares.\nThere are 5 rows and 4 columns of unit squares, so the total number of unit squares is 5 * 4 = 20.\n\nStep 3: Calculate the area.\nThe area of the shape is the number of unit squares multiplied by the length of one side of the square. Since each unit square has an area of 1, the area of the shape is 20 * 1 = 20.\n\nThe area of the shape is 20.",
+        "eval": "False"
+    },
+    {
+        "pid": "103",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "106",
+        "Ground Truth": "0",
+        "Prediction": "0",
+        "eval": "True"
+    },
+    {
+        "pid": "109",
+        "Ground Truth": "5",
+        "Prediction": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 12",
+        "eval": "False"
+    },
+    {
+        "pid": "111",
+        "Ground Truth": "5",
+        "Prediction": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 12",
+        "eval": "False"
+    },
+    {
+        "pid": "113",
+        "Ground Truth": "20",
+        "Prediction": "There are 12 baseballs in total.",
+        "eval": "False"
+    },
+    {
+        "pid": "115",
+        "Ground Truth": "3",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "118",
+        "Ground Truth": "1",
+        "Prediction": "The maximum value of the function is 1. The function starts at -1, increases to 1, and then decreases back to -1, so the highest point is at 1.",
+        "eval": "True"
+    },
+    {
+        "pid": "120",
+        "Ground Truth": "3",
+        "Prediction": "To determine the degree of the function, we need to look at the highest power of the variable in the equation. The equation is y = x^3 - 2x^2 + x. The highest power of the variable x is 3, so the degree of the function is 3.",
+        "eval": "True"
+    },
+    {
+        "pid": "121",
+        "Ground Truth": "5",
+        "Prediction": "To calculate the rate of change between Wednesday and Thursday, we need to find the difference in the amount spent on lunch between these two days and then divide it by the number of days between them.\n\nThe amount spent on lunch on Wednesday is $2, and on Thursday it is $7. The difference is $7 - $2 = $5.\n\nThere is 1 day between Wednesday and Thursday.\n\nSo, the rate of change is $5 / 1 day = $5 per day.\n\nThe final value is 5.",
+        "eval": "True"
+    },
+    {
+        "pid": "126",
+        "Ground Truth": "9",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "127",
+        "Ground Truth": "5",
+        "Prediction": "5",
+        "eval": "True"
+    },
+    {
+        "pid": "128",
+        "Ground Truth": "6",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "129",
+        "Ground Truth": "3",
+        "Prediction": "3",
+        "eval": "True"
+    },
+    {
+        "pid": "130",
+        "Ground Truth": "0",
+        "Prediction": "0",
+        "eval": "True"
+    },
+    {
+        "pid": "131",
+        "Ground Truth": "3",
+        "Prediction": "3",
+        "eval": "True"
+    },
+    {
+        "pid": "133",
+        "Ground Truth": "4",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "136",
+        "Ground Truth": "64",
+        "Prediction": "64",
+        "eval": "True"
+    },
+    {
+        "pid": "145",
+        "Ground Truth": "10",
+        "Prediction": "To solve this, we need to look for a pattern in the given numbers. \n\nThe numbers in the grid are: \n6 9 15 \n8 12 20 \n4 6 ? \n\nLet's look at the differences between the numbers in each row: \n\nIn the first row, the difference between 9 and 6 is 3, and the difference between 15 and 9 is 6. \nIn the second row, the difference between 12 and 8 is 4, and the difference between 20 and 12 is 8. \n\nIt seems like the differences are increasing by 2 each time. \n\nSo, the missing number in the third row should be 6 + 2 = 8. \n\nTherefore, the missing term is 8.",
+        "eval": "False"
+    },
+    {
+        "pid": "146",
+        "Ground Truth": "4",
+        "Prediction": "To find the range, we need to subtract the smallest number from the largest number. The smallest number of science articles read is 6 (Valeria) and the largest number is 9 (Lorenzo). So, the range is 9 - 6 = 3. The range of the numbers is 3.",
+        "eval": "False"
+    },
+    {
+        "pid": "156",
+        "Ground Truth": "4",
+        "Prediction": "To find the limit of the function f(x) = (x - 2)^2 / (x + 3) as x approaches 1 from the left side, we can follow these steps:\n\n1. Substitute x = 1 into the function:\n   f(1) = (1 - 2)^2 / (1 + 3) = (-1)^2 / 4 = 1/4\n\n2. Analyze the behavior of the function as x approaches 1 from the left side:\n   As x approaches 1 from the left side, the numerator (x - 2)^2 will approach 0, and the denominator (x + 3) will approach 4.\n\n3. Determine the limit:\n   Since the numerator approaches 0 and the denominator approaches a non-zero constant, the limit of the function as x approaches 1 from the left side is 0.\n\nFinal value: 0",
+        "eval": "False"
+    },
+    {
+        "pid": "157",
+        "Ground Truth": "9335",
+        "Prediction": "1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789",
+        "eval": "False"
+    },
+    {
+        "pid": "158",
+        "Ground Truth": "7",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "159",
+        "Ground Truth": "100",
+        "Prediction": "100",
+        "eval": "True"
+    },
+    {
+        "pid": "161",
+        "Ground Truth": "71",
+        "Prediction": "The two numbers visible in the picture are 1853. \n\nThe sum of 1853 and 1853 is 3706.",
+        "eval": "False"
+    },
+    {
+        "pid": "162",
+        "Ground Truth": "4",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "163",
+        "Ground Truth": "7519",
+        "Prediction": "6",
+        "eval": "False"
+    },
+    {
+        "pid": "165",
+        "Ground Truth": "6",
+        "Prediction": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 12",
+        "eval": "False"
+    },
+    {
+        "pid": "167",
+        "Ground Truth": "2",
+        "Prediction": "To find the biggest zero of the function, we need to find the value of x that makes the function equal to zero.\n\nThe function is given as f(x) = x^3 + 3x^2 - 6x - 8.\n\nTo find the zeros, we can set f(x) = 0 and solve for x:\n\nx^3 + 3x^2 - 6x - 8 = 0\n\nWe can try to factor the equation or use numerical methods to find the zeros.\n\nUsing numerical methods, we find that the biggest zero of the function is approximately x = 1.\n\nSo, the biggest zero of the function is 1.",
+        "eval": "False"
+    },
+    {
+        "pid": "169",
+        "Ground Truth": "5",
+        "Prediction": "5",
+        "eval": "True"
+    },
+    {
+        "pid": "171",
+        "Ground Truth": "20",
+        "Prediction": "There are 24 cinnamon rolls in total.",
+        "eval": "False"
+    },
+    {
+        "pid": "175",
+        "Ground Truth": "24",
+        "Prediction": "22",
+        "eval": "False"
+    },
+    {
+        "pid": "180",
+        "Ground Truth": "6",
+        "Prediction": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 12",
+        "eval": "False"
+    },
+    {
+        "pid": "183",
+        "Ground Truth": "4",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "184",
+        "Ground Truth": "0",
+        "Prediction": "zero",
+        "eval": "True"
+    },
+    {
+        "pid": "187",
+        "Ground Truth": "9015",
+        "Prediction": "1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789",
+        "eval": "False"
+    },
+    {
+        "pid": "188",
+        "Ground Truth": "3",
+        "Prediction": "3",
+        "eval": "True"
+    },
+    {
+        "pid": "189",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "190",
+        "Ground Truth": "2",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "191",
+        "Ground Truth": "4",
+        "Prediction": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 12",
+        "eval": "False"
+    },
+    {
+        "pid": "193",
+        "Ground Truth": "3",
+        "Prediction": "Step 1: Identify the objects in the image.\nThere are 5 objects in the image: 2 cylinders (one silver and one gold), 2 spheres (one green and one blue), and 1 cylinder (red).\n\nStep 2: Subtract all red things.\nThere is 1 red cylinder, so we subtract it.\n\nStep 3: Subtract all cylinders.\nThere are 3 cylinders (1 red, 1 silver, and 1 gold), so we subtract them.\n\nStep 4: Count the remaining objects.\nAfter subtracting all red things and all cylinders, we are left with 2 spheres (1 green and 1 blue).\n\nFinal answer: There are 2 objects left.",
+        "eval": "False"
+    },
+    {
+        "pid": "194",
+        "Ground Truth": "50",
+        "Prediction": "To answer this question, we need to consider the number of rows and columns in the bus and the average number of people per row and column. Let's assume the bus has 10 rows and 4 columns. This means there are 40 seats in total. If we assume an average of 2 people per seat, then the bus can commute an average of 80 people. So, the final value is 80.",
+        "eval": "False"
+    },
+    {
+        "pid": "197",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "201",
+        "Ground Truth": "19",
+        "Prediction": "12",
+        "eval": "False"
+    },
+    {
+        "pid": "202",
+        "Ground Truth": "3",
+        "Prediction": "3",
+        "eval": "True"
+    },
+    {
+        "pid": "204",
+        "Ground Truth": "12",
+        "Prediction": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 12",
+        "eval": "False"
+    },
+    {
+        "pid": "205",
+        "Ground Truth": "24",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "207",
+        "Ground Truth": "5",
+        "Prediction": "5",
+        "eval": "True"
+    },
+    {
+        "pid": "208",
+        "Ground Truth": "5",
+        "Prediction": "20",
+        "eval": "False"
+    },
+    {
+        "pid": "210",
+        "Ground Truth": "0",
+        "Prediction": "0",
+        "eval": "True"
+    },
+    {
+        "pid": "211",
+        "Ground Truth": "6",
+        "Prediction": "5",
+        "eval": "False"
+    },
+    {
+        "pid": "213",
+        "Ground Truth": "2001",
+        "Prediction": "2001",
+        "eval": "True"
+    },
+    {
+        "pid": "214",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "215",
+        "Ground Truth": "8",
+        "Prediction": "To find the range, we need to subtract the smallest number from the largest number. \nThe smallest number of miles hiked is 2 (on Tuesday) and the largest number is 10 (on Monday). \nSo, the range is 10 - 2 = 8. \nThe answer is: 8",
+        "eval": "True"
+    },
+    {
+        "pid": "216",
+        "Ground Truth": "90",
+        "Prediction": "90",
+        "eval": "True"
+    },
+    {
+        "pid": "217",
+        "Ground Truth": "2",
+        "Prediction": "To determine the degree of the function, we need to look at the highest power of the variable x in the equation. The equation is in the form y = a*x^n + b*x^(n-1) + ... + c, where n is the degree of the polynomial. In this case, the highest power of x is 2, so the degree of the function is 2.",
+        "eval": "True"
+    },
+    {
+        "pid": "218",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "219",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "222",
+        "Ground Truth": "3",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "230",
+        "Ground Truth": "0",
+        "Prediction": "0",
+        "eval": "True"
+    },
+    {
+        "pid": "233",
+        "Ground Truth": "2",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "240",
+        "Ground Truth": "1",
+        "Prediction": "12",
+        "eval": "False"
+    },
+    {
+        "pid": "241",
+        "Ground Truth": "11",
+        "Prediction": "4",
+        "eval": "False"
+    },
+    {
+        "pid": "243",
+        "Ground Truth": "5",
+        "Prediction": "12",
+        "eval": "False"
+    },
+    {
+        "pid": "245",
+        "Ground Truth": "24",
+        "Prediction": "To solve this problem, we need to add the cost of a grilled steak and the cost of a mushroom pizza. The cost of a grilled steak is $13 and the cost of a mushroom pizza is $11. Adding these two amounts together, we get $13 + $11 = $24. Therefore, Damon needs $24 to buy a grilled steak and a mushroom pizza.",
+        "eval": "True"
+    },
+    {
+        "pid": "246",
+        "Ground Truth": "13",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "249",
+        "Ground Truth": "6",
+        "Prediction": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 12",
+        "eval": "False"
+    },
+    {
+        "pid": "251",
+        "Ground Truth": "4",
+        "Prediction": "Step 1: Identify all green balls. There are 2 green balls.\nStep 2: Identify all shiny things. There are 3 shiny things (1 green ball, 1 blue cube, and 1 gold sphere).\nStep 3: Subtract all green balls. 2 green balls - 2 green balls = 0 green balls left.\nStep 4: Subtract all shiny things. 3 shiny things - 2 shiny things = 1 shiny thing left.\nStep 5: Count the remaining objects. There is 1 shiny thing left.\nFinal value: 1",
+        "eval": "False"
+    },
+    {
+        "pid": "253",
+        "Ground Truth": "2",
+        "Prediction": "2",
+        "eval": "True"
+    },
+    {
+        "pid": "258",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "259",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "261",
+        "Ground Truth": "6",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "262",
+        "Ground Truth": "39",
+        "Prediction": "41",
+        "eval": "False"
+    },
+    {
+        "pid": "263",
+        "Ground Truth": "38",
+        "Prediction": "The image shows a series of vertical bars with varying heights. To determine the number, I would need to count each individual bar. However, since the image is not clear enough to count each bar accurately, I cannot provide an integer answer.",
+        "eval": "False"
+    },
+    {
+        "pid": "264",
+        "Ground Truth": "3",
+        "Prediction": "Step 1: Identify the highest point on the line graph for Group C. The highest point is at week 3.\n\nStep 2: Determine the cumulative increase in weight at that point. The graph shows that the cumulative increase in weight is 200 grams at week 3.\n\nStep 3: Provide the final value. The final value is 200 grams.\n\nFinal Answer: The cumulative increase in weight for Group C is highest at week 3 with a value of 200 grams.",
+        "eval": "False"
+    },
+    {
+        "pid": "265",
+        "Ground Truth": "11",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "282",
+        "Ground Truth": "100",
+        "Prediction": "100%",
+        "eval": "False"
+    },
+    {
+        "pid": "284",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "289",
+        "Ground Truth": "2",
+        "Prediction": "2",
+        "eval": "True"
+    },
+    {
+        "pid": "295",
+        "Ground Truth": "3",
+        "Prediction": "3",
+        "eval": "True"
+    },
+    {
+        "pid": "299",
+        "Ground Truth": "22",
+        "Prediction": "To determine the age gap between the center and the rightmost person, we need to compare their ages. However, the image does not provide any information about their ages, so we cannot calculate the age gap.\n\n To determine the age gap between the center and the rightmost person, we need to compare their ages. However, the image does not provide any information about their ages, so we cannot calculate the age gap.\n\n To determine the age gap between the center and the rightmost person, we need to compare their ages. However, the image does not provide any information about their ages, so we cannot calculate the age gap.\n\n To determine the age gap between the center and the rightmost person, we need to compare their ages. However, the image does not provide any information about their ages, so we cannot calculate the age gap.\n\n To determine the age gap between the center and the rightmost person, we need to compare their ages. However, the image does not provide any information about their ages, so we cannot calculate the age gap.\n\n To determine the age gap between the center and the rightmost person, we need to compare their ages. However, the image does not provide any information about their ages, so we cannot calculate the age gap.\n\n To determine the age gap between the center and the rightmost person, we need to compare their ages. However, the image does not provide any information about their ages, so we cannot calculate the age gap.\n\n To determine the age gap between the center and the rightmost person, we need to compare their ages. However, the image does not provide any information about their ages, so we cannot calculate the age gap.\n\n To determine the age gap between the center and the rightmost person, we need to compare their ages. However, the image does not provide any information about their ages, so we cannot calculate the age gap.\n\n To determine the age gap between the center and the rightmost person, we need to compare their ages. However, the image does not provide any information about their ages, so we cannot calculate the age gap.\n\n To determine the age gap between the center and the rightmost person, we need to compare their ages. However, the image does not provide any information about their ages, so we cannot calculate the age gap.\n\n To determine the age gap",
+        "eval": "False"
+    },
+    {
+        "pid": "304",
+        "Ground Truth": "100",
+        "Prediction": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "eval": "False"
+    },
+    {
+        "pid": "305",
+        "Ground Truth": "9",
+        "Prediction": "9",
+        "eval": "True"
+    },
+    {
+        "pid": "309",
+        "Ground Truth": "5",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "311",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "313",
+        "Ground Truth": "10",
+        "Prediction": "10",
+        "eval": "True"
+    },
+    {
+        "pid": "317",
+        "Ground Truth": "6",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "324",
+        "Ground Truth": "53",
+        "Prediction": "50",
+        "eval": "False"
+    },
+    {
+        "pid": "326",
+        "Ground Truth": "3",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "327",
+        "Ground Truth": "0",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "328",
+        "Ground Truth": "18",
+        "Prediction": "18",
+        "eval": "True"
+    },
+    {
+        "pid": "330",
+        "Ground Truth": "7",
+        "Prediction": "1. There are 3 tiny cubes.\n2. There are 2 brown balls.\n3. Subtracting the tiny cubes and brown balls from the total number of objects, we have 10 - 3 - 2 = 5 objects left.\n4. So, there are 5 objects left.\n5. The final value is 5.",
+        "eval": "False"
+    },
+    {
+        "pid": "331",
+        "Ground Truth": "64",
+        "Prediction": "63.29 \nFinal answer: 63.29",
+        "eval": "False"
+    },
+    {
+        "pid": "332",
+        "Ground Truth": "7873",
+        "Prediction": "Step 1: Identify the miles driven in January and April from the table.\nJanuary: 5,936 miles\nApril: 1,937 miles\n\nStep 2: Add the miles driven in January and April.\n5,936 + 1,937 = 7,873\n\nStep 3: Provide the final value.\nThe taxi cab driver drove a total of 7,873 miles in January and April.\n\nAnswer: 7,873",
+        "eval": "True"
+    },
+    {
+        "pid": "335",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "336",
+        "Ground Truth": "8",
+        "Prediction": "8",
+        "eval": "True"
+    },
+    {
+        "pid": "343",
+        "Ground Truth": "7",
+        "Prediction": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 12",
+        "eval": "False"
+    },
+    {
+        "pid": "345",
+        "Ground Truth": "25",
+        "Prediction": "There are 12 kites in total.",
+        "eval": "False"
+    },
+    {
+        "pid": "346",
+        "Ground Truth": "1",
+        "Prediction": "To find the y-intercept of the function, we need to determine the value of y when x is equal to 0.\n\nLooking at the graph, we can see that the curve intersects the y-axis at the point (0, 2).\n\nTherefore, the y-intercept of this function is 2.",
+        "eval": "False"
+    },
+    {
+        "pid": "350",
+        "Ground Truth": "4",
+        "Prediction": "5",
+        "eval": "False"
+    },
+    {
+        "pid": "352",
+        "Ground Truth": "1",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "354",
+        "Ground Truth": "0",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "359",
+        "Ground Truth": "-7",
+        "Prediction": "7 - 0 = 7\nThe answer is: 7",
+        "eval": "False"
+    },
+    {
+        "pid": "362",
+        "Ground Truth": "8",
+        "Prediction": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 12",
+        "eval": "False"
+    },
+    {
+        "pid": "363",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "365",
+        "Ground Truth": "7",
+        "Prediction": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 12",
+        "eval": "False"
+    },
+    {
+        "pid": "366",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "367",
+        "Ground Truth": "14",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "372",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "374",
+        "Ground Truth": "13",
+        "Prediction": "13",
+        "eval": "True"
+    },
+    {
+        "pid": "376",
+        "Ground Truth": "7",
+        "Prediction": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 12",
+        "eval": "False"
+    },
+    {
+        "pid": "380",
+        "Ground Truth": "6",
+        "Prediction": "5",
+        "eval": "False"
+    },
+    {
+        "pid": "384",
+        "Ground Truth": "0",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "387",
+        "Ground Truth": "100",
+        "Prediction": "3, 3, 3, 3",
+        "eval": "False"
+    },
+    {
+        "pid": "392",
+        "Ground Truth": "1",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "393",
+        "Ground Truth": "54",
+        "Prediction": "154",
+        "eval": "False"
+    },
+    {
+        "pid": "395",
+        "Ground Truth": "10",
+        "Prediction": "To find the average age of the people in the picture, we need to follow these steps:\n\n1. Identify all the people in the picture.\n2. Determine the age of each person.\n3. Add up the ages of all the people.\n4. Divide the total age by the number of people.\n\nStep 1: Identify all the people in the picture.\nThere are 15 people in the picture.\n\nStep 2: Determine the age of each person.\nWe don't have enough information to determine the exact age of each person.\n\nStep 3: Add up the ages of all the people.\nWe don't have enough information to add up the ages of all the people.\n\nStep 4: Divide the total age by the number of people.\nWe don't have enough information to divide the total age by the number of people.\n\nSince we don't have enough information to determine the ages of the people in the picture, we cannot calculate the average age.\n\nFinal answer: Unable to determine the average age of the people in the picture.",
+        "eval": "False"
+    },
+    {
+        "pid": "398",
+        "Ground Truth": "3",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "399",
+        "Ground Truth": "6",
+        "Prediction": "To find the perimeter of the shape, we need to add up the lengths of all three sides. Each side is labeled as 2 inches. So, the perimeter is 2 + 2 + 2 = 6 inches.",
+        "eval": "True"
+    },
+    {
+        "pid": "401",
+        "Ground Truth": "1",
+        "Prediction": "100",
+        "eval": "False"
+    },
+    {
+        "pid": "405",
+        "Ground Truth": "19",
+        "Prediction": "25",
+        "eval": "False"
+    },
+    {
+        "pid": "406",
+        "Ground Truth": "15",
+        "Prediction": "There are 12 snowmen in total.",
+        "eval": "False"
+    },
+    {
+        "pid": "409",
+        "Ground Truth": "5",
+        "Prediction": "To find the radius of the circle, we need to determine the distance from the center of the circle to any of its points on the circumference.\n\n1. Identify the coordinates of the center of the circle.\n   The center of the circle is at the point (0, 0).\n\n2. Identify the coordinates of a point on the circumference.\n   Let's choose the point (2, 4) as an example.\n\n3. Calculate the distance between the center and the chosen point using the distance formula.\n   The distance formula is \u221a((x2 - x1)^2 + (y2 - y1)^2).\n   In this case, x1 = 0, y1 = 0, x2 = 2, and y2 = 4.\n   So, the distance is \u221a((2 - 0)^2 + (4 - 0)^2) = \u221a(4 + 16) = \u221a20 = 2\u221a5.\n\n4. The radius of the circle is the distance from the center to any point on the circumference.\n   In this case, the radius is 2\u221a5.\n\nHowever, the question asks for an integer answer. Since 2\u221a5 is not an integer, we cannot provide an integer answer for the radius of this circle.",
+        "eval": "False"
+    },
+    {
+        "pid": "411",
+        "Ground Truth": "100",
+        "Prediction": "100",
+        "eval": "True"
+    },
+    {
+        "pid": "415",
+        "Ground Truth": "15017",
+        "Prediction": "15017",
+        "eval": "True"
+    },
+    {
+        "pid": "416",
+        "Ground Truth": "800",
+        "Prediction": "800",
+        "eval": "True"
+    },
+    {
+        "pid": "417",
+        "Ground Truth": "8",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "421",
+        "Ground Truth": "-47",
+        "Prediction": "To find the work done on the elevator cab by the upward pull of the cable, we need to calculate the change in gravitational potential energy of the cab as it falls. The work done by the cable is equal to the negative of this change in potential energy.\n\nThe initial potential energy of the cab is given by:\n\n\\[PE_{i} = mgh_{i} = (500 \\text{ kg})(9.8 \\text{ m/s}^2)(4.0 \\text{ m}) = 19600 \\text{ J}\\]\n\nThe final potential energy of the cab is given by:\n\n\\[PE_{f} = mgh_{f} = (500 \\text{ kg})(9.8 \\text{ m/s}^2)(4.0 \\text{ m} - 12 \\text{ m}) = 0 \\text{ J}\\]\n\nThe change in potential energy is:\n\n\\[\\Delta PE = PE_{f} - PE_{i} = 0 - 19600 \\text{ J} = -19600 \\text{ J}\\]\n\nThe work done by the cable is equal to the negative of this change in potential energy:\n\n\\[W_T = -\\Delta PE = 19600 \\text{ J}\\]\n\nThe work done on the cab by the upward pull of the elevator cable is 19600 J.",
+        "eval": "False"
+    },
+    {
+        "pid": "422",
+        "Ground Truth": "10",
+        "Prediction": "10",
+        "eval": "True"
+    },
+    {
+        "pid": "427",
+        "Ground Truth": "7",
+        "Prediction": "7",
+        "eval": "True"
+    },
+    {
+        "pid": "428",
+        "Ground Truth": "28",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "429",
+        "Ground Truth": "10",
+        "Prediction": "10",
+        "eval": "True"
+    },
+    {
+        "pid": "432",
+        "Ground Truth": "4",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "433",
+        "Ground Truth": "5",
+        "Prediction": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "eval": "False"
+    },
+    {
+        "pid": "435",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "436",
+        "Ground Truth": "3",
+        "Prediction": "3",
+        "eval": "True"
+    },
+    {
+        "pid": "437",
+        "Ground Truth": "839",
+        "Prediction": "To determine the ACK number at message 6, we need to consider the sequence numbers and the acknowledgments received for each message.\n\n1. Message 1: ACK number is 1.\n2. Message 2: ACK number is 2.\n3. Message 3: ACK number is 3.\n4. Message 4: ACK number is 4.\n5. Message 5: ACK number is 5.\n\nNow, let's consider message 6:\n\n6. Message 6: ACK number is 6.\n\nTherefore, the ACK number at message 6 is 6.",
+        "eval": "False"
+    },
+    {
+        "pid": "438",
+        "Ground Truth": "13",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "441",
+        "Ground Truth": "9",
+        "Prediction": "To find the perimeter of a triangle, you add up the lengths of all three sides. In this case, each side is 3 cm. So, the perimeter is 3 cm + 3 cm + 3 cm = 9 cm.",
+        "eval": "True"
+    },
+    {
+        "pid": "442",
+        "Ground Truth": "3",
+        "Prediction": "3",
+        "eval": "True"
+    },
+    {
+        "pid": "444",
+        "Ground Truth": "7",
+        "Prediction": "6.0",
+        "eval": "False"
+    },
+    {
+        "pid": "448",
+        "Ground Truth": "2016",
+        "Prediction": "2016",
+        "eval": "True"
+    },
+    {
+        "pid": "449",
+        "Ground Truth": "40",
+        "Prediction": "50",
+        "eval": "False"
+    },
+    {
+        "pid": "453",
+        "Ground Truth": "4",
+        "Prediction": "6",
+        "eval": "False"
+    },
+    {
+        "pid": "454",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "457",
+        "Ground Truth": "4525",
+        "Prediction": "\nThe image shows a series of three-dimensional rectangular blocks arranged in a staggered pattern. Each block is connected to the one in front of it, creating a step-like structure. The blocks decrease in size from left to right, with the leftmost block being the largest and the rightmost block being the smallest. \n\nTo determine the number shown, we can count the number of blocks in each row. The first row has 5 blocks, the second row has 4 blocks, and the third row has 3 blocks. \n\nAdding these numbers together, we get 5 + 4 + 3 = 12. \n\nTherefore, the number shown is 12.",
+        "eval": "False"
+    },
+    {
+        "pid": "458",
+        "Ground Truth": "3",
+        "Prediction": "Step 1: Identify the two visible numbers on the jerseys.\nStep 2: Add the two numbers together.\nStep 3: Provide the final value as the answer.\n\nAnswer: 42",
+        "eval": "False"
+    },
+    {
+        "pid": "459",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "461",
+        "Ground Truth": "7",
+        "Prediction": "To determine the number of potential maskers in Fig. Q1a, we need to analyze the frequency spectrum of the audio signal. The Bark scale is a psychoacoustical scale proposed by Eberhard Zwicker in 1961, and it is used to determine the masking threshold for the audio signal.\n\nStep 1: Identify the frequency range of the audio signal.\nStep 2: Divide the frequency range into subbands of 4 barks each.\nStep 3: Analyze the psychoacoustic model (Fig. Q1b) to determine the masking threshold for each subband.\nStep 4: Identify the potential maskers in the audio signal based on the masking threshold.\n\nAfter analyzing the frequency spectrum and the psychoacoustic model, we can determine the number of potential maskers in Fig. Q1a.",
+        "eval": "False"
+    },
+    {
+        "pid": "462",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "463",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "468",
+        "Ground Truth": "7",
+        "Prediction": "7",
+        "eval": "True"
+    },
+    {
+        "pid": "471",
+        "Ground Truth": "8",
+        "Prediction": "7",
+        "eval": "False"
+    },
+    {
+        "pid": "472",
+        "Ground Truth": "3",
+        "Prediction": "3",
+        "eval": "True"
+    },
+    {
+        "pid": "473",
+        "Ground Truth": "12",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "474",
+        "Ground Truth": "25",
+        "Prediction": "5",
+        "eval": "False"
+    },
+    {
+        "pid": "475",
+        "Ground Truth": "8",
+        "Prediction": "5",
+        "eval": "False"
+    },
+    {
+        "pid": "481",
+        "Ground Truth": "6",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "484",
+        "Ground Truth": "3",
+        "Prediction": "3",
+        "eval": "True"
+    },
+    {
+        "pid": "488",
+        "Ground Truth": "2",
+        "Prediction": "There are 3 objects left.",
+        "eval": "False"
+    },
+    {
+        "pid": "489",
+        "Ground Truth": "25",
+        "Prediction": "1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "eval": "False"
+    },
+    {
+        "pid": "494",
+        "Ground Truth": "3",
+        "Prediction": "5",
+        "eval": "False"
+    },
+    {
+        "pid": "496",
+        "Ground Truth": "20",
+        "Prediction": "20",
+        "eval": "True"
+    },
+    {
+        "pid": "497",
+        "Ground Truth": "9",
+        "Prediction": "9",
+        "eval": "True"
+    },
+    {
+        "pid": "500",
+        "Ground Truth": "3",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "501",
+        "Ground Truth": "7",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "503",
+        "Ground Truth": "4",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "508",
+        "Ground Truth": "5",
+        "Prediction": "4, 4, 5, 5, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7",
+        "eval": "False"
+    },
+    {
+        "pid": "511",
+        "Ground Truth": "9",
+        "Prediction": "9",
+        "eval": "True"
+    },
+    {
+        "pid": "517",
+        "Ground Truth": "-1",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "518",
+        "Ground Truth": "4",
+        "Prediction": "20",
+        "eval": "False"
+    },
+    {
+        "pid": "519",
+        "Ground Truth": "12",
+        "Prediction": "\nThere are 3 triangles in the picture.\n\nStep 1: Identify the triangles in the image.\nStep 2: Count the number of triangles.\nStep 3: Provide the final value.\n\nFinal value: 3",
+        "eval": "False"
+    },
+    {
+        "pid": "522",
+        "Ground Truth": "7",
+        "Prediction": "5",
+        "eval": "False"
+    },
+    {
+        "pid": "524",
+        "Ground Truth": "0",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "525",
+        "Ground Truth": "0",
+        "Prediction": "0",
+        "eval": "True"
+    },
+    {
+        "pid": "529",
+        "Ground Truth": "1020",
+        "Prediction": "76",
+        "eval": "False"
+    },
+    {
+        "pid": "530",
+        "Ground Truth": "9",
+        "Prediction": "4",
+        "eval": "False"
+    },
+    {
+        "pid": "533",
+        "Ground Truth": "8",
+        "Prediction": "There are 7 objects in total. After subtracting all small cyan cubes (1) and all large yellow rubber cubes (2), there are 5 objects left.",
+        "eval": "False"
+    },
+    {
+        "pid": "534",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "535",
+        "Ground Truth": "-8",
+        "Prediction": "-8",
+        "eval": "True"
+    },
+    {
+        "pid": "542",
+        "Ground Truth": "2",
+        "Prediction": "5",
+        "eval": "False"
+    },
+    {
+        "pid": "544",
+        "Ground Truth": "44",
+        "Prediction": "40",
+        "eval": "False"
+    },
+    {
+        "pid": "546",
+        "Ground Truth": "1",
+        "Prediction": "1.021388889",
+        "eval": "False"
+    },
+    {
+        "pid": "550",
+        "Ground Truth": "8",
+        "Prediction": "8",
+        "eval": "True"
+    },
+    {
+        "pid": "551",
+        "Ground Truth": "14",
+        "Prediction": "17",
+        "eval": "False"
+    },
+    {
+        "pid": "552",
+        "Ground Truth": "4",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "558",
+        "Ground Truth": "9",
+        "Prediction": "9",
+        "eval": "True"
+    },
+    {
+        "pid": "559",
+        "Ground Truth": "55",
+        "Prediction": "50",
+        "eval": "False"
+    },
+    {
+        "pid": "562",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "564",
+        "Ground Truth": "4",
+        "Prediction": "4",
+        "eval": "True"
+    },
+    {
+        "pid": "567",
+        "Ground Truth": "3",
+        "Prediction": "4",
+        "eval": "False"
+    },
+    {
+        "pid": "568",
+        "Ground Truth": "2",
+        "Prediction": "To solve this problem, we need to find the difference in fare between the Mukilteu-Clinton ferry and the Southport-Fort Fisher ferry for cars.\n\nThe fare for cars on the Mukilteu-Clinton ferry is $7, and the fare for cars on the Southport-Fort Fisher ferry is $5.\n\nTo find the difference, we subtract the fare for the Southport-Fort Fisher ferry from the fare for the Mukilteu-Clinton ferry: $7 - $5 = $2.\n\nTherefore, the fare for a car on the Mukilteu-Clinton ferry is $2 higher than on the Southport-Fort Fisher ferry.\n\nFinal answer: 2",
+        "eval": "True"
+    },
+    {
+        "pid": "569",
+        "Ground Truth": "1",
+        "Prediction": "Subject E",
+        "eval": "False"
+    },
+    {
+        "pid": "570",
+        "Ground Truth": "5",
+        "Prediction": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 12",
+        "eval": "False"
+    },
+    {
+        "pid": "572",
+        "Ground Truth": "5",
+        "Prediction": "The function starts decreasing at the point where the value is 0.2. The final value of the function is 0.1.",
+        "eval": "False"
+    },
+    {
+        "pid": "573",
+        "Ground Truth": "53",
+        "Prediction": "53",
+        "eval": "True"
+    },
+    {
+        "pid": "577",
+        "Ground Truth": "-104",
+        "Prediction": "To find the determinant of the product of two matrices, we first need to find the determinant of each matrix individually.\n\nMatrix A:\n$$\n\\mathbf{A}=\\left(\\begin{array}{ccc}\n1 & 2 & -1 \\\\\n0 & 3 & 1 \\\\\n2 & 0 & 1\n\\end{array}\\right)\n$$\n\nMatrix B:\n$$\n\\mathbf{B}=\\left(\\begin{array}{ccc}\n2 & 1 & 0 \\\\\n0 & -1 & 2 \\\\\n1 & 1 & 3\n\\end{array}\\right)\n$$\n\nMatrix C:\n$$\n\\mathbf{C}=\\left(\\begin{array}{ccc}\n2 & 1 \\\\\n4 & 3 \\\\\n1 & 0\n\\end{array}\\right)\n$$\n\nNow, let's find the determinant of each matrix:\n\nDeterminant of A:\n$$\n\\det(\\mathbf{A}) = 1(3 \\cdot 1 - 1 \\cdot 0) - 2(0 \\cdot 1 - 1 \\cdot 2) + (-1)(0 \\cdot 0 - 3 \\cdot 2) = 3 - 2 - 6 = -1\n$$\n\nDeterminant of B:\n$$\n\\det(\\mathbf{B}) = 2(-1 \\cdot 3 - 2 \\cdot 1) - 1(0 \\cdot 3 - 2 \\cdot 1) + 0(0 \\cdot 1 - (-1) \\cdot 1) = -10 - 2 + 0 = -12\n$$\n\nDeterminant of C:\n$$\n\\det(\\mathbf{C}) = 2(3 - 0) - 1(4 - 0) = 6 - 4 = 2\n$$\n\nNow, we can find the determinant of the product of matrices A and B:\n$$\n|\\mathbf{A B}| = \\det(\\mathbf{A}) \\cdot \\det(\\mathbf{B}) = (-1) \\cdot (-12) = 12\n$$\n\nSo, the determinant of the product of matrices A and B is 1",
+        "eval": "False"
+    },
+    {
+        "pid": "578",
+        "Ground Truth": "9567",
+        "Prediction": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 12",
+        "eval": "False"
+    },
+    {
+        "pid": "579",
+        "Ground Truth": "7",
+        "Prediction": "7",
+        "eval": "True"
+    },
+    {
+        "pid": "581",
+        "Ground Truth": "4",
+        "Prediction": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 12",
+        "eval": "False"
+    },
+    {
+        "pid": "588",
+        "Ground Truth": "1982",
+        "Prediction": "1982",
+        "eval": "True"
+    },
+    {
+        "pid": "589",
+        "Ground Truth": "5",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "590",
+        "Ground Truth": "13",
+        "Prediction": "20",
+        "eval": "False"
+    },
+    {
+        "pid": "591",
+        "Ground Truth": "4",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "592",
+        "Ground Truth": "4",
+        "Prediction": "To find the global maximum of the function, we need to analyze the graph of the function.\n\n1. Identify the peaks and troughs of the function.\n2. Determine the highest point on the graph.\n3. Find the corresponding x-value of the highest point.\n\nLooking at the graph, we can see that the highest point is at y = 4.\n\n4. Find the corresponding x-value of the highest point.\n\nThe x-value of the highest point is \u03c0.\n\nSo, the global maximum of the function is 4 at x = \u03c0.",
+        "eval": "True"
+    },
+    {
+        "pid": "593",
+        "Ground Truth": "273",
+        "Prediction": "271.5",
+        "eval": "False"
+    },
+    {
+        "pid": "594",
+        "Ground Truth": "2005",
+        "Prediction": "2005",
+        "eval": "True"
+    },
+    {
+        "pid": "597",
+        "Ground Truth": "10",
+        "Prediction": "10",
+        "eval": "True"
+    },
+    {
+        "pid": "602",
+        "Ground Truth": "18",
+        "Prediction": "Step 1: Find the side length of each square.\nSince the area of each square is 9, the side length of each square is \u221a9 = 3.\n\nStep 2: Find the dimensions of rectangle ABCD.\nSince the rectangle is divided into two identical squares, the length of the rectangle is twice the side length of each square, which is 2 * 3 = 6. The width of the rectangle is also twice the side length of each square, which is 2 * 3 = 6.\n\nStep 3: Find the perimeter of rectangle ABCD.\nThe perimeter of a rectangle is given by the formula P = 2 * (length + width). In this case, the perimeter is 2 * (6 + 6) = 2 * 12 = 24.\n\nThe perimeter of rectangle ABCD is 24.",
+        "eval": "False"
+    },
+    {
+        "pid": "603",
+        "Ground Truth": "300",
+        "Prediction": "Step 1: Identify the data point for GROUP C in the third week on the chart. \nStep 2: Look at the y-axis (vertical axis) and find the approximate value for GROUP C in the third week. \nStep 3: The approximate value for GROUP C in the third week is around 100 grams. \nStep 4: The final value for the cumulative increase in weight for GROUP C in the third week is 100 grams.",
+        "eval": "False"
+    },
+    {
+        "pid": "605",
+        "Ground Truth": "6",
+        "Prediction": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 12",
+        "eval": "False"
+    },
+    {
+        "pid": "606",
+        "Ground Truth": "10",
+        "Prediction": "To find the perimeter of a rectangle, you need to add up all the sides. In this case, the rectangle has two sides that are 3 cm and two sides that are 2 cm. So, the perimeter is 3 cm + 2 cm + 3 cm + 2 cm = 10 cm.",
+        "eval": "True"
+    },
+    {
+        "pid": "607",
+        "Ground Truth": "3",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "609",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "611",
+        "Ground Truth": "0",
+        "Prediction": "1\n \nStem | Leaf\n1    | 9\n2    | 6\n3    | 4 9\n4    | 1 9\n5    | 0 3 9\n6    | 4 8\nThe answer is 1.",
+        "eval": "False"
+    },
+    {
+        "pid": "612",
+        "Ground Truth": "4",
+        "Prediction": "Step 1: Identify all blue metal things. There are 2 blue metal things. Step 2: Identify all tiny objects. There are 2 tiny objects. Step 3: Subtract the blue metal things from the total number of objects. 5 - 2 = 3. Step 4: Subtract the tiny objects from the remaining objects. 3 - 2 = 1. Step 5: The final number of objects left is 1. Answer: 1",
+        "eval": "False"
+    },
+    {
+        "pid": "613",
+        "Ground Truth": "10",
+        "Prediction": "There are 10 houses.",
+        "eval": "True"
+    },
+    {
+        "pid": "614",
+        "Ground Truth": "7",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "616",
+        "Ground Truth": "2",
+        "Prediction": "2",
+        "eval": "True"
+    },
+    {
+        "pid": "617",
+        "Ground Truth": "9",
+        "Prediction": "The magnitude of the acceleration vector a is $10 \\mathrm{~cm} / \\mathrm{s}^2$. Use the figure to estimate the normal components of $\\mathbf{a}$.\nThink step by step. Hint: Please answer the question requiring an integer answer and provide the final value, e.g., 1, 2, 3, at the end.\n\n\n1. First, we need to find the angle between the acceleration vector and the x-axis.\n\n2. We can use the tangent function to find this angle.\n\n3. The tangent of the angle is the ratio of the y-component to the x-component of the acceleration vector.\n\n4. We can use the Pythagorean theorem to find the x and y components of the acceleration vector.\n\n5. We can then use the tangent function to find the angle between the acceleration vector and the x-axis.\n\n6. We can use the inverse tangent function to find the angle between the acceleration vector and the x-axis.\n\n7. We can use the cosine function to find the x-component of the acceleration vector.\n\n8. We can use the sine function to find the y-component of the acceleration vector.\n\n9. We can use the Pythagorean theorem to find the magnitude of the acceleration vector.\n\n10. We can use the inverse tangent function to find the angle between the acceleration vector and the x-axis.\n\n11. We can use the cosine function to find the x-component of the acceleration vector.\n\n12. We can use the sine function to find the y-component of the acceleration vector.\n\n13. We can use the Pythagorean theorem to find the magnitude of the acceleration vector.\n\n14. We can use the inverse tangent function to find the angle between the acceleration vector and the x-axis.\n\n15. We can use the cosine function to find the x-component of the acceleration vector.\n\n16. We can use the sine function to find the y-component of the acceleration vector.\n\n17. We can use the Pythagorean theorem to find the magnitude of the acceleration vector.\n\n18. We can use the inverse tangent function to",
+        "eval": "False"
+    },
+    {
+        "pid": "619",
+        "Ground Truth": "16",
+        "Prediction": "To find the value of f(4), we need to substitute x = 4 into the function f(x) = 2^x.\n\nf(4) = 2^4\n\nNow, we calculate 2 raised to the power of 4:\n\n2^4 = 2 * 2 * 2 * 2 = 16\n\nSo, the value of f(4) is 16.",
+        "eval": "True"
+    },
+    {
+        "pid": "620",
+        "Ground Truth": "2",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "624",
+        "Ground Truth": "5",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "626",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "627",
+        "Ground Truth": "6",
+        "Prediction": "6",
+        "eval": "True"
+    },
+    {
+        "pid": "629",
+        "Ground Truth": "20",
+        "Prediction": "20",
+        "eval": "True"
+    },
+    {
+        "pid": "630",
+        "Ground Truth": "72",
+        "Prediction": "To find the size of angle MBD, we can use the fact that the sum of the angles in a triangle is 180 degrees.\n\nFirst, let's find the size of angle ABC. Since angle ABC is a right angle (90 degrees), we can use the fact that the sum of the angles in a right triangle is 90 degrees.\n\nNow, let's find the size of angle BCD. Since angle BCD is a right angle (90 degrees), we can use the fact that the sum of the angles in a right triangle is 90 degrees.\n\nNext, let's find the size of angle BAD. Since angle BAD is a right angle (90 degrees), we can use the fact that the sum of the angles in a right triangle is 90 degrees.\n\nNow, let's find the size of angle BCD. Since angle BCD is a right angle (90 degrees), we can use the fact that the sum of the angles in a right triangle is 90 degrees.\n\nFinally, let's find the size of angle MBD. Since angle MBD is the difference between angle BCD and angle BAD, we can subtract the size of angle BCD from the size of angle BAD.\n\nangle MBD = angle BAD - angle BCD\nangle MBD = 90 - 90\nangle MBD = 0\n\nSo, the size of angle MBD is 0 degrees.",
+        "eval": "False"
+    },
+    {
+        "pid": "631",
+        "Ground Truth": "0",
+        "Prediction": "0",
+        "eval": "True"
+    },
+    {
+        "pid": "632",
+        "Ground Truth": "52",
+        "Prediction": "52",
+        "eval": "True"
+    },
+    {
+        "pid": "636",
+        "Ground Truth": "34",
+        "Prediction": "The image shows a series of vertical bars with varying heights. To determine the number, I will count each individual bar. There are 5 bars on the left, 5 bars in the middle, and 4 bars on the right. Adding these together, 5 + 5 + 4 equals 14. Therefore, the number shown is 14.",
+        "eval": "False"
+    },
+    {
+        "pid": "638",
+        "Ground Truth": "1",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "639",
+        "Ground Truth": "475",
+        "Prediction": "The top facing number on the dial is 500.",
+        "eval": "False"
+    },
+    {
+        "pid": "646",
+        "Ground Truth": "25",
+        "Prediction": "8",
+        "eval": "False"
+    },
+    {
+        "pid": "648",
+        "Ground Truth": "-1",
+        "Prediction": "The minimum value of the function is -1.5. The function starts at approximately -1.5 on the y-axis, then rises to a peak of 0, and falls back down to -1.5.",
+        "eval": "False"
+    },
+    {
+        "pid": "649",
+        "Ground Truth": "4",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "651",
+        "Ground Truth": "7",
+        "Prediction": "To find out how many more Nobel Prize winners Canada had than Italy in the 1990s, we need to look at the table and subtract the number of winners from Italy from the number of winners from Canada for that decade.\n\nAccording to the table:\n- Canada had 8 Nobel Prize winners in the 1990s.\n- Italy had 1 Nobel Prize winner in the 1990s.\n\nNow, we subtract the number of winners from Italy from the number of winners from Canada:\n8 (Canada) - 1 (Italy) = 7\n\nSo, Canada had 7 more Nobel Prize winners than Italy in the 1990s.",
+        "eval": "True"
+    },
+    {
+        "pid": "652",
+        "Ground Truth": "0",
+        "Prediction": "0",
+        "eval": "True"
+    },
+    {
+        "pid": "658",
+        "Ground Truth": "1",
+        "Prediction": "6",
+        "eval": "False"
+    },
+    {
+        "pid": "659",
+        "Ground Truth": "991",
+        "Prediction": "991",
+        "eval": "True"
+    },
+    {
+        "pid": "662",
+        "Ground Truth": "80",
+        "Prediction": "80",
+        "eval": "True"
+    },
+    {
+        "pid": "664",
+        "Ground Truth": "17",
+        "Prediction": "17",
+        "eval": "True"
+    },
+    {
+        "pid": "666",
+        "Ground Truth": "4",
+        "Prediction": "Step 1: Identify the red objects. There are no red objects in the image. Step 2: Identify the big green things. There is one big green thing in the image. Step 3: Subtract the red objects. Since there are no red objects, the count remains the same. Step 4: Subtract the big green things. Since there is one big green thing, the count is now 1. Final answer: 1.",
+        "eval": "False"
+    },
+    {
+        "pid": "667",
+        "Ground Truth": "2015",
+        "Prediction": "2013",
+        "eval": "False"
+    },
+    {
+        "pid": "672",
+        "Ground Truth": "2",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "676",
+        "Ground Truth": "0",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "680",
+        "Ground Truth": "5",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "683",
+        "Ground Truth": "2",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "691",
+        "Ground Truth": "256",
+        "Prediction": "To solve this, we need to find the pattern in the given numbers. \n\nIn the first box, the numbers are 1, 2, 100, 3, 4. \nIn the second box, the numbers are 3, 2, 196, 7, 2. \nIn the third box, the numbers are 4, 6, ?, 5, 1. \n\nLet's look at the differences between the numbers: \n\nIn the first box, the differences are 1, 100, 2, 1, 1. \nIn the second box, the differences are 1, 196, 12, 5, 1. \n\nWe can see that the differences are not consistent. However, if we look at the positions of the numbers, we can see that the differences are the squares of the positions of the numbers. \n\nSo, in the third box, the differences should be 1, 36, ?, 25, 1. \n\nTo find the missing number, we can subtract the known differences from the next number in the sequence: \n\n4 - 36 = -32 \n\nSo, the missing number is -32. \n\nThe final answer is -32.",
+        "eval": "False"
+    },
+    {
+        "pid": "699",
+        "Ground Truth": "0",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "701",
+        "Ground Truth": "9",
+        "Prediction": "5",
+        "eval": "False"
+    },
+    {
+        "pid": "702",
+        "Ground Truth": "400",
+        "Prediction": "Step 1: Identify the data point for \"GROUP A\" in the third week on the chart. The chart shows that the cumulative increase in weight for \"GROUP A\" in the third week is approximately 300 grams.\n\nStep 2: Since the question asks for an approximate value, we can round the value to the nearest whole number. The final value is 300 grams.\n\nFinal Answer: 300 grams",
+        "eval": "False"
+    },
+    {
+        "pid": "709",
+        "Ground Truth": "4",
+        "Prediction": "To find the value of f(0), we substitute 0 for x in the function f(x) = |2x - 3| + 1.\n\nf(0) = |2(0) - 3| + 1\nf(0) = |-3| + 1\nf(0) = 3 + 1\nf(0) = 4\n\nSo, the value of f(0) is 4.",
+        "eval": "True"
+    },
+    {
+        "pid": "710",
+        "Ground Truth": "0",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "711",
+        "Ground Truth": "3",
+        "Prediction": "3",
+        "eval": "True"
+    },
+    {
+        "pid": "712",
+        "Ground Truth": "9",
+        "Prediction": "To find the perimeter of the shape, we need to add up the lengths of all three sides. Each side is labeled as 3 yards. So, the perimeter is 3 + 3 + 3 = 9 yards.",
+        "eval": "True"
+    },
+    {
+        "pid": "719",
+        "Ground Truth": "13",
+        "Prediction": "To find the range, we need to subtract the smallest number from the largest number. \nThe smallest number is 7 (Saturday) and the largest number is 20 (Tuesday). \nSo, the range is 20 - 7 = 13. \nThe range of the numbers is 13. \n#### 13\nThe answer is: 13",
+        "eval": "True"
+    },
+    {
+        "pid": "720",
+        "Ground Truth": "2",
+        "Prediction": "The function value first reaches 2 at x = 1.",
+        "eval": "True"
+    },
+    {
+        "pid": "721",
+        "Ground Truth": "4",
+        "Prediction": "To determine the number of odd functions in the graph, we need to analyze the behavior of the functions as we move from left to right.\n\n1. Identify the x-intercepts: The x-intercepts are the points where the graph crosses the x-axis. In this case, there are no x-intercepts.\n\n2. Analyze the behavior of the functions:\n   - The red function (f(x) = x^3 - 3x^2 + 2x) is an odd function because it satisfies the condition f(-x) = -f(x). As we move from left to right, the function increases, reaches a maximum, and then decreases.\n   - The green function (g(x) = x^2 - 2x + 1) is also an odd function because it satisfies the condition g(-x) = -g(x). As we move from left to right, the function increases, reaches a maximum, and then decreases.\n   - The blue function (h(x) = x^4 - 4x^3 + 6x^2 - 4x + 1) is an even function because it satisfies the condition h(-x) = h(x). As we move from left to right, the function increases, reaches a maximum, and then decreases.\n\n3. Determine the number of odd functions:\n   - There are two odd functions in the graph: the red function (f(x) = x^3 - 3x^2 + 2x) and the green function (g(x) = x^2 - 2x + 1).\n\nFinal answer: There are 2 odd functions in the graph.",
+        "eval": "False"
+    },
+    {
+        "pid": "725",
+        "Ground Truth": "-130",
+        "Prediction": "To find the velocity $v_{P B}$ that Barbara will measure for car $P$, we can use the formula $v_{PA} = v_{PB} + v_{BA}$.\n\nGiven that $v_{PA} = -78 \\mathrm{~km} / \\mathrm{h}$ and $v_{BA} = 52 \\mathrm{~km} / \\mathrm{h}$, we can rearrange the formula to solve for $v_{PB}$:\n\n$v_{PB} = v_{PA} - v_{BA} = -78 - 52 = -130 \\mathrm{~km} / \\mathrm{h}$.\n\nTherefore, Barbara will measure a velocity of $v_{P B} = -130 \\mathrm{~km} / \\mathrm{h}$ for car $P$.",
+        "eval": "True"
+    },
+    {
+        "pid": "727",
+        "Ground Truth": "70",
+        "Prediction": "79",
+        "eval": "False"
+    },
+    {
+        "pid": "728",
+        "Ground Truth": "7",
+        "Prediction": "5",
+        "eval": "False"
+    },
+    {
+        "pid": "729",
+        "Ground Truth": "1",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "730",
+        "Ground Truth": "2019",
+        "Prediction": "2020",
+        "eval": "False"
+    },
+    {
+        "pid": "731",
+        "Ground Truth": "40",
+        "Prediction": "0",
+        "eval": "False"
+    },
+    {
+        "pid": "739",
+        "Ground Truth": "23",
+        "Prediction": "Hannah needs $23 to buy a baking dish and a cookie jar.\nHere's the step-by-step calculation:\n1. Identify the prices of the items Hannah wants to buy:\n   - Baking dish: $10\n   - Cookie jar: $13\n2. Add the prices of the two items together: $10 + $13 = $23\n3. The final answer is $23.",
+        "eval": "True"
+    },
+    {
+        "pid": "741",
+        "Ground Truth": "13",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "742",
+        "Ground Truth": "3",
+        "Prediction": "3",
+        "eval": "True"
+    },
+    {
+        "pid": "745",
+        "Ground Truth": "1",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "746",
+        "Ground Truth": "7",
+        "Prediction": "7",
+        "eval": "True"
+    },
+    {
+        "pid": "750",
+        "Ground Truth": "18",
+        "Prediction": "To determine the missing number, let's analyze the given numbers and their relationships:\n\n1. The numbers 9, 12, and 10 are connected to the central number 2.\n2. The numbers 5 and 6 are also connected to the central number 2.\n3. The number 1 is not connected to any other number.\n4. The number 3 is not connected to any other number.\n\nFrom the given information, we can deduce that the missing number is 1, as it is not connected to any other number and is the only number left to complete the pattern.\n\nFinal answer: 1",
+        "eval": "False"
+    },
+    {
+        "pid": "753",
+        "Ground Truth": "4",
+        "Prediction": "4",
+        "eval": "True"
+    },
+    {
+        "pid": "759",
+        "Ground Truth": "2",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "763",
+        "Ground Truth": "8",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "764",
+        "Ground Truth": "9",
+        "Prediction": "To find the average number of bananas on each stock, we need to count the total number of bananas and divide it by the number of stocks.\n\nStep 1: Count the total number of bananas.\nThere are 10 stocks, and each stock has 12 bananas. So, the total number of bananas is 10 stocks * 12 bananas/stock = 120 bananas.\n\nStep 2: Divide the total number of bananas by the number of stocks.\n120 bananas / 10 stocks = 12 bananas/stock.\n\nThe average number of bananas on each stock is 12.",
+        "eval": "False"
+    },
+    {
+        "pid": "767",
+        "Ground Truth": "5",
+        "Prediction": "To find the maximum value of y, we need to find the vertex of the parabola defined by the equation x^2 + y^2 = 25.\n\nStep 1: Identify the vertex of the parabola.\nThe vertex of a parabola in the form of x^2 + y^2 = 25 is at the point (0, 0).\n\nStep 2: Determine the maximum value of y.\nSince the parabola opens upwards (the coefficient of y^2 is positive), the vertex represents the minimum point of the parabola. Therefore, the maximum value of y is 0.\n\nFinal value: The maximum value of y is 0.",
+        "eval": "False"
+    },
+    {
+        "pid": "770",
+        "Ground Truth": "1",
+        "Prediction": "The amplitude of the function is 1.5. \n\nHere's the step-by-step reasoning:\n\n1. The amplitude of a sine function is the distance from the midline to the peak or trough of the wave.\n2. In this case, the midline is at y = 0.\n3. The peak of the wave is at y = 1, and the trough is at y = -1.\n4. The distance from the midline to the peak or trough is 1.5.\n5. Therefore, the amplitude of the function is 1.5.",
+        "eval": "False"
+    },
+    {
+        "pid": "780",
+        "Ground Truth": "7",
+        "Prediction": "To determine the missing number, let's analyze the pattern in the given numbers.\n\nIn the first box, the numbers are arranged in a 2x2 grid with the numbers 1, 2, 5, and 4.\n\nIn the second box, the numbers are arranged in a 2x2 grid with the numbers 3, 3, 5, and 5.\n\nIn the third box, the numbers are arranged in a 2x2 grid with the numbers 4, 5, 7, and 7.\n\nFrom the given numbers, we can observe that the numbers in the first and third boxes are the same as the numbers in the second box, except for the missing number.\n\nSince the numbers in the first and third boxes are the same as the numbers in the second box, the missing number must be the one that is not present in the second box.\n\nTherefore, the missing number is 3.\n\nFinal value: 1, 2, 3, 4, 5, 6, 7",
+        "eval": "False"
+    },
+    {
+        "pid": "782",
+        "Ground Truth": "4",
+        "Prediction": "To solve this, we need to find the sum of the numbers in the grid and subtract it from the total sum of the numbers from 1 to 18. The sum of the numbers from 1 to 18 is 153. The sum of the numbers in the grid is 9 + 2 + 6 + 12 + 6 + 3 = 48. Therefore, the missing number is 153 - 48 = 105.",
+        "eval": "False"
+    },
+    {
+        "pid": "784",
+        "Ground Truth": "70",
+        "Prediction": "70",
+        "eval": "True"
+    },
+    {
+        "pid": "787",
+        "Ground Truth": "50",
+        "Prediction": "To answer this question, we need to count the number of horizontal stripes on the zebra and divide it by the total number of stripes.\n\nStep 1: Count the number of horizontal stripes.\nStep 2: Count the total number of stripes on the zebra.\nStep 3: Divide the number of horizontal stripes by the total number of stripes.\nStep 4: Multiply the result by 100 to get the percentage.\n\nLet's assume we counted 10 horizontal stripes and a total of 20 stripes.\n\nStep 1: 10 horizontal stripes\nStep 2: 20 total stripes\nStep 3: 10/20 = 0.5\nStep 4: 0.5 * 100 = 50\n\nSo, 50% of the zebra's stripes are horizontal.",
+        "eval": "True"
+    },
+    {
+        "pid": "788",
+        "Ground Truth": "7",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "789",
+        "Ground Truth": "10",
+        "Prediction": "10",
+        "eval": "True"
+    },
+    {
+        "pid": "792",
+        "Ground Truth": "7",
+        "Prediction": "15",
+        "eval": "False"
+    },
+    {
+        "pid": "793",
+        "Ground Truth": "1578",
+        "Prediction": "1578",
+        "eval": "True"
+    },
+    {
+        "pid": "794",
+        "Ground Truth": "2",
+        "Prediction": "2",
+        "eval": "True"
+    },
+    {
+        "pid": "795",
+        "Ground Truth": "75",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "796",
+        "Ground Truth": "3",
+        "Prediction": "3",
+        "eval": "True"
+    },
+    {
+        "pid": "799",
+        "Ground Truth": "13",
+        "Prediction": "To buy a baking dish, Ruth needs $4.00.\nTo buy a casserole dish, Ruth needs $3.00.\nTo buy an ice cream scoop, Ruth needs $6.00.\nTo find the total amount of money Ruth needs, we add up the prices of each item: $4.00 + $3.00 + $6.00 = $13.00.\nTherefore, Ruth needs $13.00 to buy a baking dish, a casserole dish, and an ice cream scoop.\nThe answer is: 13",
+        "eval": "True"
+    },
+    {
+        "pid": "801",
+        "Ground Truth": "10",
+        "Prediction": "10",
+        "eval": "True"
+    },
+    {
+        "pid": "802",
+        "Ground Truth": "69",
+        "Prediction": "Step 1: Identify the cost of silk scraps per pound, which is $9.08.\nStep 2: Identify the cost of canvas scraps per pound, which is $8.17.\nStep 3: Multiply the cost of silk scraps per pound by the number of pounds Karen bought, which is $9.08 * 4 = $36.32.\nStep 4: Multiply the cost of canvas scraps per pound by the number of pounds Karen bought, which is $8.17 * 4 = $32.68.\nStep 5: Add the cost of silk scraps and canvas scraps, which is $36.32 + $32.68 = $70.00.\nStep 6: Provide the final value, which is $70.00.\n\nFinal answer: Karen spent $70.00.",
+        "eval": "False"
+    },
+    {
+        "pid": "803",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "808",
+        "Ground Truth": "9",
+        "Prediction": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 12",
+        "eval": "False"
+    },
+    {
+        "pid": "810",
+        "Ground Truth": "8",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "811",
+        "Ground Truth": "34",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "813",
+        "Ground Truth": "30",
+        "Prediction": "30",
+        "eval": "True"
+    },
+    {
+        "pid": "814",
+        "Ground Truth": "100000000",
+        "Prediction": "100000000",
+        "eval": "True"
+    },
+    {
+        "pid": "830",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "831",
+        "Ground Truth": "679",
+        "Prediction": "Step 1: Identify the number of words written on Thursday, which is 374.\n\nStep 2: Identify the number of words written on Friday, which is 305.\n\nStep 3: Add the number of words written on Thursday and Friday together: 374 + 305 = 679.\n\nStep 4: The final answer is the total number of words written on Thursday and Friday, which is 679.\n\nAnswer: 679",
+        "eval": "True"
+    },
+    {
+        "pid": "832",
+        "Ground Truth": "-2",
+        "Prediction": "To find the value of f(0), we substitute 0 for x in the function f(x) = x^3 + 3x^2 - 6x - 8.\n\nf(0) = (0)^3 + 3(0)^2 - 6(0) - 8\n\nf(0) = 0 + 0 - 0 - 8\n\nf(0) = -8\n\nThe value of f(0) is -8.",
+        "eval": "False"
+    },
+    {
+        "pid": "835",
+        "Ground Truth": "0",
+        "Prediction": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 12",
+        "eval": "False"
+    },
+    {
+        "pid": "838",
+        "Ground Truth": "4",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "839",
+        "Ground Truth": "5",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "841",
+        "Ground Truth": "9",
+        "Prediction": "9",
+        "eval": "True"
+    },
+    {
+        "pid": "845",
+        "Ground Truth": "3",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "848",
+        "Ground Truth": "3",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "851",
+        "Ground Truth": "2",
+        "Prediction": "2",
+        "eval": "True"
+    },
+    {
+        "pid": "852",
+        "Ground Truth": "40",
+        "Prediction": "To determine which number is missing, let's analyze the sequence of numbers in the circles. The numbers in the circles are 4, 5, 7, 10, 14, 19, 25, and 32. We can observe that the numbers are increasing by 1, 1, 2, 5, 7, 9, 15, and 18 respectively. However, the number 19 is missing from the sequence. Therefore, the missing number is 19.",
+        "eval": "False"
+    },
+    {
+        "pid": "857",
+        "Ground Truth": "9",
+        "Prediction": "9",
+        "eval": "True"
+    },
+    {
+        "pid": "859",
+        "Ground Truth": "27",
+        "Prediction": "20",
+        "eval": "False"
+    },
+    {
+        "pid": "860",
+        "Ground Truth": "86",
+        "Prediction": "55",
+        "eval": "False"
+    },
+    {
+        "pid": "864",
+        "Ground Truth": "16",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "867",
+        "Ground Truth": "22",
+        "Prediction": "Dan's Deep Dish made $8 from pizza sales.",
+        "eval": "False"
+    },
+    {
+        "pid": "868",
+        "Ground Truth": "5",
+        "Prediction": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 12",
+        "eval": "False"
+    },
+    {
+        "pid": "869",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "871",
+        "Ground Truth": "2",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "873",
+        "Ground Truth": "3",
+        "Prediction": "3",
+        "eval": "True"
+    },
+    {
+        "pid": "874",
+        "Ground Truth": "2",
+        "Prediction": "To find the value of y at x=-2.5, we need to look at the graph and find the point where x is -2.5. From the graph, we can see that the point where x is -2.5 is (-2.5, -3). Therefore, the value of y at x=-2.5 is -3.",
+        "eval": "False"
+    },
+    {
+        "pid": "875",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "877",
+        "Ground Truth": "7",
+        "Prediction": "7",
+        "eval": "True"
+    },
+    {
+        "pid": "879",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "883",
+        "Ground Truth": "15",
+        "Prediction": "To determine the missing number, let's look at the pattern in each circle. In the first circle, the numbers increase by 6 each time: 3, 9, 15, 21, 27, 33, 39, 45, 51, 57, 63, 69, 75, 81, 87. In the second circle, the numbers increase by 5 each time: 3, 9, 15, 21, 27, 33, 39, 45, 51, 57, 63, 69, 75, 81, 87. In the third circle, the numbers increase by 4 each time: 3, 9, 15, 21, 27, 33, 39, 45, 51, 57, 63, 69, 75, 81, 87. The missing number in the third circle is 49.",
+        "eval": "False"
+    },
+    {
+        "pid": "885",
+        "Ground Truth": "18",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "886",
+        "Ground Truth": "6",
+        "Prediction": "6",
+        "eval": "True"
+    },
+    {
+        "pid": "888",
+        "Ground Truth": "3",
+        "Prediction": "4",
+        "eval": "False"
+    },
+    {
+        "pid": "891",
+        "Ground Truth": "4",
+        "Prediction": "4",
+        "eval": "True"
+    },
+    {
+        "pid": "893",
+        "Ground Truth": "0",
+        "Prediction": "To find the limit of the blue function as x approaches negative infinity, we need to analyze the behavior of the function as x becomes very large in the negative direction.\n\nThe blue function is a cubic polynomial, which can be written as:\n\nf(x) = ax^3 + bx^2 + cx + d\n\nwhere a, b, c, and d are constants.\n\nAs x approaches negative infinity, the highest degree term in the polynomial (ax^3) will dominate the behavior of the function. Since a is positive (as the function is increasing for all x), the cubic term will grow without bound as x becomes more negative.\n\nTherefore, the limit of the blue function as x approaches negative infinity is:\n\nlim (x -> -\u221e) f(x) = lim (x -> -\u221e) ax^3 = \u221e\n\nThe final value is positive infinity.",
+        "eval": "False"
+    },
+    {
+        "pid": "894",
+        "Ground Truth": "9",
+        "Prediction": "9",
+        "eval": "True"
+    },
+    {
+        "pid": "899",
+        "Ground Truth": "2123",
+        "Prediction": "To determine the next number in the sequence, let's analyze the given numbers: 13, 57, 911, 1315, 1719.\n\nStep 1: Identify the pattern.\n- The first number is 13.\n- The second number is 57, which is 13 multiplied by 4.\n- The third number is 911, which is 57 multiplied by 16.\n- The fourth number is 1315, which is 911 multiplied by 15.\n- The fifth number is 1719, which is 1315 multiplied by 13.\n\nStep 2: Determine the pattern for the next number.\n- The pattern seems to be multiplying the previous number by an increasing odd number.\n- The sixth number should be 1719 multiplied by the next odd number, which is 17.\n\nStep 3: Calculate the next number.\n- 1719 multiplied by 17 equals 29133.\n\nThe next number in the sequence is 29133.",
+        "eval": "False"
+    },
+    {
+        "pid": "901",
+        "Ground Truth": "7",
+        "Prediction": "Step 1: Identify all shiny spheres. There are 2 shiny spheres.\nStep 2: Identify all big red matte spheres. There are 2 big red matte spheres.\nStep 3: Subtract all shiny spheres. 2 - 2 = 0.\nStep 4: Subtract all big red matte spheres. 2 - 2 = 0.\nStep 5: Count the remaining objects. 0 objects are left.\nFinal value: 0",
+        "eval": "False"
+    },
+    {
+        "pid": "904",
+        "Ground Truth": "3",
+        "Prediction": "3",
+        "eval": "True"
+    },
+    {
+        "pid": "907",
+        "Ground Truth": "1970",
+        "Prediction": "1970, 1972",
+        "eval": "False"
+    },
+    {
+        "pid": "910",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "912",
+        "Ground Truth": "4",
+        "Prediction": "4",
+        "eval": "True"
+    },
+    {
+        "pid": "914",
+        "Ground Truth": "9",
+        "Prediction": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 12",
+        "eval": "False"
+    },
+    {
+        "pid": "917",
+        "Ground Truth": "1",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "918",
+        "Ground Truth": "1",
+        "Prediction": "To calculate the missing item, we need to find the sum of the numbers in the outer square and subtract the sum of the numbers in the inner square from it.\n\nThe sum of the numbers in the outer square is: 15 + 23 + 11 + 32 = 81\nThe sum of the numbers in the inner square is: 22 + 13 + 5 = 40\n\nNow, subtract the sum of the inner square from the sum of the outer square: 81 - 40 = 41\n\nThe missing item is 41.",
+        "eval": "False"
+    },
+    {
+        "pid": "919",
+        "Ground Truth": "7",
+        "Prediction": "6",
+        "eval": "False"
+    },
+    {
+        "pid": "920",
+        "Ground Truth": "30",
+        "Prediction": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "eval": "False"
+    },
+    {
+        "pid": "922",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "928",
+        "Ground Truth": "5",
+        "Prediction": "To find out how much more a navy blue bath mat costs than a yellow bath towel, we need to subtract the price of the yellow bath towel from the price of the navy blue bath mat.\n\nThe price of the navy blue bath mat is $17.\nThe price of the yellow bath towel is $12.\n\nSo, the calculation is: $17 (navy blue bath mat) - $12 (yellow bath towel) = $5.\n\nThe navy blue bath mat costs $5 more than the yellow bath towel.",
+        "eval": "True"
+    },
+    {
+        "pid": "929",
+        "Ground Truth": "85",
+        "Prediction": "To solve this problem, we need to add the cost of the mystery game and the cost of the toy rocket.\nThe cost of the mystery game is $20.\nThe cost of the toy rocket is $65.\nTo find the total cost, we add $20 and $65.\n$20 + $65 = $85\nTherefore, Tim needs $85 to buy a mystery game and a toy rocket.\nThe answer is: 85",
+        "eval": "True"
+    },
+    {
+        "pid": "933",
+        "Ground Truth": "9606",
+        "Prediction": "To solve this problem, we need to add the cost of the European vacation package and the Australian vacation package together.\n\nThe European vacation package costs $7,670.\nThe Australian vacation package costs $1,936.\n\nNow, let's add these two amounts together:\n\n$7,670 + $1,936 = $9,606\n\nTherefore, Hector needs $9,606 to buy both the European vacation package and the Australian vacation package.\n\nFinal answer: 9606",
+        "eval": "True"
+    },
+    {
+        "pid": "934",
+        "Ground Truth": "10000",
+        "Prediction": "10000",
+        "eval": "True"
+    },
+    {
+        "pid": "936",
+        "Ground Truth": "0",
+        "Prediction": "0",
+        "eval": "True"
+    },
+    {
+        "pid": "940",
+        "Ground Truth": "6",
+        "Prediction": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 12",
+        "eval": "False"
+    },
+    {
+        "pid": "941",
+        "Ground Truth": "2",
+        "Prediction": "63, 8, 3, ? \n Step 1: Add 5 to 8: 8 + 5 = 13\n Step 2: Multiply 3 by 2: 3 * 2 = 6\n Step 3: Add 13 and 6: 13 + 6 = 19\n Final answer: 19",
+        "eval": "False"
+    },
+    {
+        "pid": "942",
+        "Ground Truth": "0",
+        "Prediction": "To find the value of f(0), we need to look at the graph of the function and find the point where the x-coordinate is 0. \n\nStep 1: Identify the x-coordinate where f(0) is located. In this case, it is at the point (0, f(0)).\n\nStep 2: Look at the y-coordinate of the point (0, f(0)). This is the value of f(0).\n\nStep 3: Determine the value of f(0) based on the y-coordinate. In this case, the y-coordinate is 5.\n\nTherefore, the value of f(0) is 5.",
+        "eval": "False"
+    },
+    {
+        "pid": "943",
+        "Ground Truth": "2",
+        "Prediction": "2",
+        "eval": "True"
+    },
+    {
+        "pid": "944",
+        "Ground Truth": "3",
+        "Prediction": "To find the perimeter of the triangle, we need to add up the lengths of all three sides. Each side is 1 foot long. So, the perimeter is 1 + 1 + 1 = 3 feet.",
+        "eval": "True"
+    },
+    {
+        "pid": "945",
+        "Ground Truth": "6",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "946",
+        "Ground Truth": "16",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "948",
+        "Ground Truth": "11",
+        "Prediction": "To find the mean, we need to add up all the numbers and then divide by the total number of students. \n\n14 + 8 + 17 + 17 + 3 + 7 + 5 + 17 = 82\n\nThere are 8 students in total. \n\nSo, the mean is 82 / 8 = 10.25\n\nThe mean of the numbers is 10.25.",
+        "eval": "False"
+    },
+    {
+        "pid": "949",
+        "Ground Truth": "56",
+        "Prediction": "56",
+        "eval": "True"
+    },
+    {
+        "pid": "953",
+        "Ground Truth": "50",
+        "Prediction": "100% of the trees have leaves.",
+        "eval": "False"
+    },
+    {
+        "pid": "956",
+        "Ground Truth": "6",
+        "Prediction": "There are 3 small blue rubber objects and 2 brown shiny balls. \n\nSubtracting the small blue rubber objects: \n3 - 3 = 0\n\nSubtracting the brown shiny balls: \n2 - 2 = 0\n\nThere are 0 objects left. \n\nFinal value: 0",
+        "eval": "False"
+    },
+    {
+        "pid": "959",
+        "Ground Truth": "32",
+        "Prediction": "To find the median, we first need to arrange the numbers in ascending order: 30, 31, 32, 34, 35. Since there are an odd number of values, the median is the middle value, which is 32. Therefore, the median of the numbers is 32.",
+        "eval": "True"
+    },
+    {
+        "pid": "960",
+        "Ground Truth": "4",
+        "Prediction": "11",
+        "eval": "False"
+    },
+    {
+        "pid": "961",
+        "Ground Truth": "7",
+        "Prediction": "7",
+        "eval": "True"
+    },
+    {
+        "pid": "963",
+        "Ground Truth": "3",
+        "Prediction": "To find the local maximum of the function f(x), we need to look for the highest point on the curve. The highest point on the curve is at x = 1, where f(x) reaches its local maximum. So, the answer is 1.",
+        "eval": "False"
+    },
+    {
+        "pid": "964",
+        "Ground Truth": "6",
+        "Prediction": "5",
+        "eval": "False"
+    },
+    {
+        "pid": "965",
+        "Ground Truth": "30",
+        "Prediction": "30",
+        "eval": "True"
+    },
+    {
+        "pid": "966",
+        "Ground Truth": "3",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "967",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "968",
+        "Ground Truth": "6",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "973",
+        "Ground Truth": "1",
+        "Prediction": "The function has 1 zero.",
+        "eval": "True"
+    },
+    {
+        "pid": "975",
+        "Ground Truth": "6",
+        "Prediction": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 12",
+        "eval": "False"
+    },
+    {
+        "pid": "978",
+        "Ground Truth": "7",
+        "Prediction": "7, 8, 9, 4, 5, 3, 2\nRange: 9 - 2 = 7",
+        "eval": "False"
+    },
+    {
+        "pid": "979",
+        "Ground Truth": "9079",
+        "Prediction": "1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859606162636465666768697071727374757677787980818283848586878889909919929939949959969979989991001011021031041051061071081091101111121131141151161171181191201211221231241251261271281291301311321331341351361371381391401411421431441451461471481491501511521531541551561571581591601611621631641651661671681691701711721731741751761771781791801811821831841851861871881891901911921931941951961971981992",
+        "eval": "False"
+    },
+    {
+        "pid": "980",
+        "Ground Truth": "12",
+        "Prediction": "The highest number shown on the clock is 12.",
+        "eval": "True"
+    },
+    {
+        "pid": "983",
+        "Ground Truth": "8",
+        "Prediction": "8",
+        "eval": "True"
+    },
+    {
+        "pid": "985",
+        "Ground Truth": "5",
+        "Prediction": "5",
+        "eval": "True"
+    },
+    {
+        "pid": "987",
+        "Ground Truth": "4232",
+        "Prediction": "To estimate the area of the wing's cross-section using the Midpoint Rule, we first need to find the midpoint of each interval. The intervals are 5.8, 20.3, 26.7, 29.0, 27.6, 27.3, 23.8, 20.5, 15.1, 8.7, and 2.8. The midpoints are 2.8, 12.65, 26.2, 28.5, 28.1, 27.8, 24.3, 17.5, 10.05, 5.35, and 1.4.\n\nNext, we need to find the average thickness of the wing at each midpoint. To do this, we can take the average of the thickness at the two endpoints of each interval. The average thicknesses are 11.9, 11.4, 13.45, 18.75, 22.85, 24.55, 24.05, 17.25, 12.575, 6.575, and 1.1.\n\nNow, we can estimate the area of the wing's cross-section by multiplying the average thickness at each midpoint by the width of the wing (200 cm). The estimated area is 200 * (11.9 + 11.4 + 13.45 + 18.75 + 22.85 + 24.55 + 24.05 + 17.25 + 12.575 + 6.575 + 1.1) = 200 * 160.5 = 32,100 cm\u00b2.\n\nThe final value is 32,100 cm\u00b2.",
+        "eval": "False"
+    },
+    {
+        "pid": "988",
+        "Ground Truth": "1",
+        "Prediction": "\n1. First, observe the two people in the image and estimate their ages based on their appearance.\n2. Then, calculate the difference in age between the two people.\n3. Finally, provide the age gap as the answer.\n\nAnswer: 1",
+        "eval": "True"
+    },
+    {
+        "pid": "989",
+        "Ground Truth": "9",
+        "Prediction": "9",
+        "eval": "True"
+    },
+    {
+        "pid": "993",
+        "Ground Truth": "9",
+        "Prediction": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 12",
+        "eval": "False"
+    },
+    {
+        "pid": "996",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "1000",
+        "Ground Truth": "9",
+        "Prediction": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 12",
+        "eval": "False"
+    }
+]

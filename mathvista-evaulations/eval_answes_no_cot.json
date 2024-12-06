@@ -1,0 +1,2510 @@
+[
+    {
+        "pid": "2",
+        "Ground Truth": "1000",
+        "Prediction": "800",
+        "eval": "False"
+    },
+    {
+        "pid": "4",
+        "Ground Truth": "4",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "11",
+        "Ground Truth": "5",
+        "Prediction": "4",
+        "eval": "False"
+    },
+    {
+        "pid": "13",
+        "Ground Truth": "0",
+        "Prediction": "0",
+        "eval": "True"
+    },
+    {
+        "pid": "16",
+        "Ground Truth": "2",
+        "Prediction": "two",
+        "eval": "True"
+    },
+    {
+        "pid": "19",
+        "Ground Truth": "400",
+        "Prediction": "400",
+        "eval": "True"
+    },
+    {
+        "pid": "21",
+        "Ground Truth": "2",
+        "Prediction": "2",
+        "eval": "True"
+    },
+    {
+        "pid": "22",
+        "Ground Truth": "0",
+        "Prediction": "0",
+        "eval": "True"
+    },
+    {
+        "pid": "27",
+        "Ground Truth": "11",
+        "Prediction": "20",
+        "eval": "False"
+    },
+    {
+        "pid": "29",
+        "Ground Truth": "4",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "36",
+        "Ground Truth": "9",
+        "Prediction": "20",
+        "eval": "False"
+    },
+    {
+        "pid": "37",
+        "Ground Truth": "3",
+        "Prediction": "The limit as x approaches -1 is 2.",
+        "eval": "False"
+    },
+    {
+        "pid": "38",
+        "Ground Truth": "0",
+        "Prediction": "zero",
+        "eval": "True"
+    },
+    {
+        "pid": "40",
+        "Ground Truth": "7",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "41",
+        "Ground Truth": "7",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "42",
+        "Ground Truth": "8",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "44",
+        "Ground Truth": "18",
+        "Prediction": "14",
+        "eval": "False"
+    },
+    {
+        "pid": "45",
+        "Ground Truth": "-3",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "47",
+        "Ground Truth": "6",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "49",
+        "Ground Truth": "0",
+        "Prediction": "1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1+0+1+1",
+        "eval": "False"
+    },
+    {
+        "pid": "52",
+        "Ground Truth": "6",
+        "Prediction": "4",
+        "eval": "False"
+    },
+    {
+        "pid": "53",
+        "Ground Truth": "1",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "56",
+        "Ground Truth": "6",
+        "Prediction": "8",
+        "eval": "False"
+    },
+    {
+        "pid": "57",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "60",
+        "Ground Truth": "22",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "63",
+        "Ground Truth": "7",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "67",
+        "Ground Truth": "16",
+        "Prediction": "16",
+        "eval": "True"
+    },
+    {
+        "pid": "69",
+        "Ground Truth": "7",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "70",
+        "Ground Truth": "8",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "71",
+        "Ground Truth": "18",
+        "Prediction": "18",
+        "eval": "True"
+    },
+    {
+        "pid": "72",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "77",
+        "Ground Truth": "2019",
+        "Prediction": "2009",
+        "eval": "False"
+    },
+    {
+        "pid": "78",
+        "Ground Truth": "8",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "81",
+        "Ground Truth": "-1",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "85",
+        "Ground Truth": "2",
+        "Prediction": "2",
+        "eval": "True"
+    },
+    {
+        "pid": "88",
+        "Ground Truth": "30",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "89",
+        "Ground Truth": "25",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "90",
+        "Ground Truth": "5",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "97",
+        "Ground Truth": "0",
+        "Prediction": "zero",
+        "eval": "True"
+    },
+    {
+        "pid": "98",
+        "Ground Truth": "2",
+        "Prediction": "5",
+        "eval": "False"
+    },
+    {
+        "pid": "100",
+        "Ground Truth": "12",
+        "Prediction": "12",
+        "eval": "True"
+    },
+    {
+        "pid": "102",
+        "Ground Truth": "6",
+        "Prediction": "4",
+        "eval": "False"
+    },
+    {
+        "pid": "103",
+        "Ground Truth": "2",
+        "Prediction": "0",
+        "eval": "False"
+    },
+    {
+        "pid": "106",
+        "Ground Truth": "0",
+        "Prediction": "zero",
+        "eval": "True"
+    },
+    {
+        "pid": "109",
+        "Ground Truth": "5",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "111",
+        "Ground Truth": "5",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "113",
+        "Ground Truth": "20",
+        "Prediction": "12",
+        "eval": "False"
+    },
+    {
+        "pid": "115",
+        "Ground Truth": "3",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "118",
+        "Ground Truth": "1",
+        "Prediction": "The maximum value of the function is 1.",
+        "eval": "True"
+    },
+    {
+        "pid": "120",
+        "Ground Truth": "3",
+        "Prediction": "The degree of the function is 1. The final value is 0.",
+        "eval": "False"
+    },
+    {
+        "pid": "121",
+        "Ground Truth": "5",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "126",
+        "Ground Truth": "9",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "127",
+        "Ground Truth": "5",
+        "Prediction": "5",
+        "eval": "True"
+    },
+    {
+        "pid": "128",
+        "Ground Truth": "6",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "129",
+        "Ground Truth": "3",
+        "Prediction": "3",
+        "eval": "True"
+    },
+    {
+        "pid": "130",
+        "Ground Truth": "0",
+        "Prediction": "0",
+        "eval": "True"
+    },
+    {
+        "pid": "131",
+        "Ground Truth": "3",
+        "Prediction": "3",
+        "eval": "True"
+    },
+    {
+        "pid": "133",
+        "Ground Truth": "4",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "136",
+        "Ground Truth": "64",
+        "Prediction": "64",
+        "eval": "True"
+    },
+    {
+        "pid": "145",
+        "Ground Truth": "10",
+        "Prediction": "14",
+        "eval": "False"
+    },
+    {
+        "pid": "146",
+        "Ground Truth": "4",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "156",
+        "Ground Truth": "4",
+        "Prediction": "The limit of the function f(x) = (x - 2)^2 / (x + 1) as x approaches 1 from the left side is 2.",
+        "eval": "False"
+    },
+    {
+        "pid": "157",
+        "Ground Truth": "9335",
+        "Prediction": "12",
+        "eval": "False"
+    },
+    {
+        "pid": "158",
+        "Ground Truth": "7",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "159",
+        "Ground Truth": "100",
+        "Prediction": "100",
+        "eval": "True"
+    },
+    {
+        "pid": "161",
+        "Ground Truth": "71",
+        "Prediction": "The two numbers visible in the picture are 1853. The sum of these two numbers is 1853 + 1853 = 3706.",
+        "eval": "False"
+    },
+    {
+        "pid": "162",
+        "Ground Truth": "4",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "163",
+        "Ground Truth": "7519",
+        "Prediction": "6",
+        "eval": "False"
+    },
+    {
+        "pid": "165",
+        "Ground Truth": "6",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "167",
+        "Ground Truth": "2",
+        "Prediction": "The biggest zero of the function is 2.5.",
+        "eval": "False"
+    },
+    {
+        "pid": "169",
+        "Ground Truth": "5",
+        "Prediction": "5",
+        "eval": "True"
+    },
+    {
+        "pid": "171",
+        "Ground Truth": "20",
+        "Prediction": "24",
+        "eval": "False"
+    },
+    {
+        "pid": "175",
+        "Ground Truth": "24",
+        "Prediction": "22",
+        "eval": "False"
+    },
+    {
+        "pid": "180",
+        "Ground Truth": "6",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "183",
+        "Ground Truth": "4",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "184",
+        "Ground Truth": "0",
+        "Prediction": "zero",
+        "eval": "True"
+    },
+    {
+        "pid": "187",
+        "Ground Truth": "9015",
+        "Prediction": "12",
+        "eval": "False"
+    },
+    {
+        "pid": "188",
+        "Ground Truth": "3",
+        "Prediction": "3",
+        "eval": "True"
+    },
+    {
+        "pid": "189",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "190",
+        "Ground Truth": "2",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "191",
+        "Ground Truth": "4",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "193",
+        "Ground Truth": "3",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "194",
+        "Ground Truth": "50",
+        "Prediction": "30",
+        "eval": "False"
+    },
+    {
+        "pid": "197",
+        "Ground Truth": "2",
+        "Prediction": "2",
+        "eval": "True"
+    },
+    {
+        "pid": "201",
+        "Ground Truth": "19",
+        "Prediction": "12",
+        "eval": "False"
+    },
+    {
+        "pid": "202",
+        "Ground Truth": "3",
+        "Prediction": "3",
+        "eval": "True"
+    },
+    {
+        "pid": "204",
+        "Ground Truth": "12",
+        "Prediction": "6",
+        "eval": "False"
+    },
+    {
+        "pid": "205",
+        "Ground Truth": "24",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "207",
+        "Ground Truth": "5",
+        "Prediction": "5",
+        "eval": "True"
+    },
+    {
+        "pid": "208",
+        "Ground Truth": "5",
+        "Prediction": "20",
+        "eval": "False"
+    },
+    {
+        "pid": "210",
+        "Ground Truth": "0",
+        "Prediction": "0",
+        "eval": "True"
+    },
+    {
+        "pid": "211",
+        "Ground Truth": "6",
+        "Prediction": "five",
+        "eval": "False"
+    },
+    {
+        "pid": "213",
+        "Ground Truth": "2001",
+        "Prediction": "2001",
+        "eval": "True"
+    },
+    {
+        "pid": "214",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "215",
+        "Ground Truth": "8",
+        "Prediction": "8",
+        "eval": "True"
+    },
+    {
+        "pid": "216",
+        "Ground Truth": "90",
+        "Prediction": "90",
+        "eval": "True"
+    },
+    {
+        "pid": "217",
+        "Ground Truth": "2",
+        "Prediction": "The degree of the function is 2.",
+        "eval": "True"
+    },
+    {
+        "pid": "218",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "219",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "222",
+        "Ground Truth": "3",
+        "Prediction": "0",
+        "eval": "False"
+    },
+    {
+        "pid": "230",
+        "Ground Truth": "0",
+        "Prediction": "zero",
+        "eval": "True"
+    },
+    {
+        "pid": "233",
+        "Ground Truth": "2",
+        "Prediction": "4",
+        "eval": "False"
+    },
+    {
+        "pid": "240",
+        "Ground Truth": "1",
+        "Prediction": "12",
+        "eval": "False"
+    },
+    {
+        "pid": "241",
+        "Ground Truth": "11",
+        "Prediction": "4",
+        "eval": "False"
+    },
+    {
+        "pid": "243",
+        "Ground Truth": "5",
+        "Prediction": "12",
+        "eval": "False"
+    },
+    {
+        "pid": "245",
+        "Ground Truth": "24",
+        "Prediction": "24",
+        "eval": "True"
+    },
+    {
+        "pid": "246",
+        "Ground Truth": "13",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "249",
+        "Ground Truth": "6",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "251",
+        "Ground Truth": "4",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "253",
+        "Ground Truth": "2",
+        "Prediction": "2",
+        "eval": "True"
+    },
+    {
+        "pid": "258",
+        "Ground Truth": "2",
+        "Prediction": "2",
+        "eval": "True"
+    },
+    {
+        "pid": "259",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "261",
+        "Ground Truth": "6",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "262",
+        "Ground Truth": "39",
+        "Prediction": "41",
+        "eval": "False"
+    },
+    {
+        "pid": "263",
+        "Ground Truth": "38",
+        "Prediction": "5",
+        "eval": "False"
+    },
+    {
+        "pid": "264",
+        "Ground Truth": "3",
+        "Prediction": "4",
+        "eval": "False"
+    },
+    {
+        "pid": "265",
+        "Ground Truth": "11",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "282",
+        "Ground Truth": "100",
+        "Prediction": "100%",
+        "eval": "False"
+    },
+    {
+        "pid": "284",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "289",
+        "Ground Truth": "2",
+        "Prediction": "2",
+        "eval": "True"
+    },
+    {
+        "pid": "295",
+        "Ground Truth": "3",
+        "Prediction": "3",
+        "eval": "True"
+    },
+    {
+        "pid": "299",
+        "Ground Truth": "22",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "304",
+        "Ground Truth": "100",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "305",
+        "Ground Truth": "9",
+        "Prediction": "9",
+        "eval": "True"
+    },
+    {
+        "pid": "309",
+        "Ground Truth": "5",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "311",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "313",
+        "Ground Truth": "10",
+        "Prediction": "10",
+        "eval": "True"
+    },
+    {
+        "pid": "317",
+        "Ground Truth": "6",
+        "Prediction": "20",
+        "eval": "False"
+    },
+    {
+        "pid": "324",
+        "Ground Truth": "53",
+        "Prediction": "50",
+        "eval": "False"
+    },
+    {
+        "pid": "326",
+        "Ground Truth": "3",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "327",
+        "Ground Truth": "0",
+        "Prediction": "zero",
+        "eval": "True"
+    },
+    {
+        "pid": "328",
+        "Ground Truth": "18",
+        "Prediction": "18",
+        "eval": "True"
+    },
+    {
+        "pid": "330",
+        "Ground Truth": "7",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "331",
+        "Ground Truth": "64",
+        "Prediction": "64",
+        "eval": "True"
+    },
+    {
+        "pid": "332",
+        "Ground Truth": "7873",
+        "Prediction": "7833",
+        "eval": "False"
+    },
+    {
+        "pid": "335",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "336",
+        "Ground Truth": "8",
+        "Prediction": "8",
+        "eval": "True"
+    },
+    {
+        "pid": "343",
+        "Ground Truth": "7",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "345",
+        "Ground Truth": "25",
+        "Prediction": "12",
+        "eval": "False"
+    },
+    {
+        "pid": "346",
+        "Ground Truth": "1",
+        "Prediction": "8",
+        "eval": "False"
+    },
+    {
+        "pid": "350",
+        "Ground Truth": "4",
+        "Prediction": "5",
+        "eval": "False"
+    },
+    {
+        "pid": "352",
+        "Ground Truth": "1",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "354",
+        "Ground Truth": "0",
+        "Prediction": "0",
+        "eval": "True"
+    },
+    {
+        "pid": "359",
+        "Ground Truth": "-7",
+        "Prediction": "7",
+        "eval": "False"
+    },
+    {
+        "pid": "362",
+        "Ground Truth": "8",
+        "Prediction": "5",
+        "eval": "False"
+    },
+    {
+        "pid": "363",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "365",
+        "Ground Truth": "7",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "366",
+        "Ground Truth": "2",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "367",
+        "Ground Truth": "14",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "372",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "374",
+        "Ground Truth": "13",
+        "Prediction": "13",
+        "eval": "True"
+    },
+    {
+        "pid": "376",
+        "Ground Truth": "7",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "380",
+        "Ground Truth": "6",
+        "Prediction": "5",
+        "eval": "False"
+    },
+    {
+        "pid": "384",
+        "Ground Truth": "0",
+        "Prediction": "0",
+        "eval": "True"
+    },
+    {
+        "pid": "387",
+        "Ground Truth": "100",
+        "Prediction": "75",
+        "eval": "False"
+    },
+    {
+        "pid": "392",
+        "Ground Truth": "1",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "393",
+        "Ground Truth": "54",
+        "Prediction": "154",
+        "eval": "False"
+    },
+    {
+        "pid": "395",
+        "Ground Truth": "10",
+        "Prediction": "25",
+        "eval": "False"
+    },
+    {
+        "pid": "398",
+        "Ground Truth": "3",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "399",
+        "Ground Truth": "6",
+        "Prediction": "6",
+        "eval": "True"
+    },
+    {
+        "pid": "401",
+        "Ground Truth": "1",
+        "Prediction": "1000",
+        "eval": "False"
+    },
+    {
+        "pid": "405",
+        "Ground Truth": "19",
+        "Prediction": "20",
+        "eval": "False"
+    },
+    {
+        "pid": "406",
+        "Ground Truth": "15",
+        "Prediction": "12",
+        "eval": "False"
+    },
+    {
+        "pid": "409",
+        "Ground Truth": "5",
+        "Prediction": "The radius of the circle is 2.",
+        "eval": "False"
+    },
+    {
+        "pid": "411",
+        "Ground Truth": "100",
+        "Prediction": "99.75",
+        "eval": "False"
+    },
+    {
+        "pid": "415",
+        "Ground Truth": "15017",
+        "Prediction": "15017",
+        "eval": "True"
+    },
+    {
+        "pid": "416",
+        "Ground Truth": "800",
+        "Prediction": "800",
+        "eval": "True"
+    },
+    {
+        "pid": "417",
+        "Ground Truth": "8",
+        "Prediction": "20",
+        "eval": "False"
+    },
+    {
+        "pid": "421",
+        "Ground Truth": "-47",
+        "Prediction": "To find the work done on the elevator cab by the upward pull of the cable, we need to calculate the change in gravitational potential energy of the cab as it falls. The work done by the cable is equal to the negative of this change in potential energy.\n\nThe initial potential energy (PE_i) of the cab is given by:\n\nPE_i = mgh_i\n\nwhere m is the mass of the cab, g is the acceleration due to gravity, and h_i is the initial height of the cab.\n\nThe final potential energy (PE_f) of the cab is given by:\n\nPE_f = mgh_f\n\nwhere h_f is the final height of the cab.\n\nThe change in potential energy (\u0394PE) is:\n\n\u0394PE = PE_f - PE_i\n\nThe work done by the cable (W_T) is equal to the negative of the change in potential energy:\n\nW_T = -\u0394PE\n\nNow, let's calculate the values:\n\nm = 500 kg\ng = 9.81 m/s^2\nh_i = 12 m\nh_f = 0 m (since the cab is at the ground level)\n\nPE_i = mgh_i = (500 kg)(9.81 m/s^2)(12 m) = 58860 J\n\nPE_f = mgh_f = (500 kg)(9.81 m/s^2)(0 m) = 0 J\n\n\u0394PE = PE_f - PE_i = 0 J - 58860 J = -58860 J\n\nW_T = -\u0394PE = -(-58860 J) = 58860 J\n\nThe work done on the cab by the upward pull of the elevator cable during the $12 \\mathrm{~m}$ fall is 58860 J.",
+        "eval": "False"
+    },
+    {
+        "pid": "422",
+        "Ground Truth": "10",
+        "Prediction": "10",
+        "eval": "True"
+    },
+    {
+        "pid": "427",
+        "Ground Truth": "7",
+        "Prediction": "7",
+        "eval": "True"
+    },
+    {
+        "pid": "428",
+        "Ground Truth": "28",
+        "Prediction": "20",
+        "eval": "False"
+    },
+    {
+        "pid": "429",
+        "Ground Truth": "10",
+        "Prediction": "10",
+        "eval": "True"
+    },
+    {
+        "pid": "432",
+        "Ground Truth": "4",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "433",
+        "Ground Truth": "5",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "435",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "436",
+        "Ground Truth": "3",
+        "Prediction": "two",
+        "eval": "False"
+    },
+    {
+        "pid": "437",
+        "Ground Truth": "839",
+        "Prediction": "5",
+        "eval": "False"
+    },
+    {
+        "pid": "438",
+        "Ground Truth": "13",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "441",
+        "Ground Truth": "9",
+        "Prediction": "9",
+        "eval": "True"
+    },
+    {
+        "pid": "442",
+        "Ground Truth": "3",
+        "Prediction": "3",
+        "eval": "True"
+    },
+    {
+        "pid": "444",
+        "Ground Truth": "7",
+        "Prediction": "7",
+        "eval": "True"
+    },
+    {
+        "pid": "448",
+        "Ground Truth": "2016",
+        "Prediction": "2016",
+        "eval": "True"
+    },
+    {
+        "pid": "449",
+        "Ground Truth": "40",
+        "Prediction": "50",
+        "eval": "False"
+    },
+    {
+        "pid": "453",
+        "Ground Truth": "4",
+        "Prediction": "6",
+        "eval": "False"
+    },
+    {
+        "pid": "454",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "457",
+        "Ground Truth": "4525",
+        "Prediction": "5",
+        "eval": "False"
+    },
+    {
+        "pid": "458",
+        "Ground Truth": "3",
+        "Prediction": "21 + 1 = 22",
+        "eval": "False"
+    },
+    {
+        "pid": "459",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "461",
+        "Ground Truth": "7",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "462",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "463",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "468",
+        "Ground Truth": "7",
+        "Prediction": "7",
+        "eval": "True"
+    },
+    {
+        "pid": "471",
+        "Ground Truth": "8",
+        "Prediction": "7",
+        "eval": "False"
+    },
+    {
+        "pid": "472",
+        "Ground Truth": "3",
+        "Prediction": "3",
+        "eval": "True"
+    },
+    {
+        "pid": "473",
+        "Ground Truth": "12",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "474",
+        "Ground Truth": "25",
+        "Prediction": "5",
+        "eval": "False"
+    },
+    {
+        "pid": "475",
+        "Ground Truth": "8",
+        "Prediction": "5",
+        "eval": "False"
+    },
+    {
+        "pid": "481",
+        "Ground Truth": "6",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "484",
+        "Ground Truth": "3",
+        "Prediction": "3",
+        "eval": "True"
+    },
+    {
+        "pid": "488",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "489",
+        "Ground Truth": "25",
+        "Prediction": "16",
+        "eval": "False"
+    },
+    {
+        "pid": "494",
+        "Ground Truth": "3",
+        "Prediction": "5",
+        "eval": "False"
+    },
+    {
+        "pid": "496",
+        "Ground Truth": "20",
+        "Prediction": "20",
+        "eval": "True"
+    },
+    {
+        "pid": "497",
+        "Ground Truth": "9",
+        "Prediction": "9",
+        "eval": "True"
+    },
+    {
+        "pid": "500",
+        "Ground Truth": "3",
+        "Prediction": "0",
+        "eval": "False"
+    },
+    {
+        "pid": "501",
+        "Ground Truth": "7",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "503",
+        "Ground Truth": "4",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "508",
+        "Ground Truth": "5",
+        "Prediction": "4",
+        "eval": "False"
+    },
+    {
+        "pid": "511",
+        "Ground Truth": "9",
+        "Prediction": "9",
+        "eval": "True"
+    },
+    {
+        "pid": "517",
+        "Ground Truth": "-1",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "518",
+        "Ground Truth": "4",
+        "Prediction": "20",
+        "eval": "False"
+    },
+    {
+        "pid": "519",
+        "Ground Truth": "12",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "522",
+        "Ground Truth": "7",
+        "Prediction": "5",
+        "eval": "False"
+    },
+    {
+        "pid": "524",
+        "Ground Truth": "0",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "525",
+        "Ground Truth": "0",
+        "Prediction": "0",
+        "eval": "True"
+    },
+    {
+        "pid": "529",
+        "Ground Truth": "1020",
+        "Prediction": "76",
+        "eval": "False"
+    },
+    {
+        "pid": "530",
+        "Ground Truth": "9",
+        "Prediction": "4",
+        "eval": "False"
+    },
+    {
+        "pid": "533",
+        "Ground Truth": "8",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "534",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "535",
+        "Ground Truth": "-8",
+        "Prediction": "-8",
+        "eval": "True"
+    },
+    {
+        "pid": "542",
+        "Ground Truth": "2",
+        "Prediction": "5",
+        "eval": "False"
+    },
+    {
+        "pid": "544",
+        "Ground Truth": "44",
+        "Prediction": "40",
+        "eval": "False"
+    },
+    {
+        "pid": "546",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "550",
+        "Ground Truth": "8",
+        "Prediction": "8",
+        "eval": "True"
+    },
+    {
+        "pid": "551",
+        "Ground Truth": "14",
+        "Prediction": "18",
+        "eval": "False"
+    },
+    {
+        "pid": "552",
+        "Ground Truth": "4",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "558",
+        "Ground Truth": "9",
+        "Prediction": "9",
+        "eval": "True"
+    },
+    {
+        "pid": "559",
+        "Ground Truth": "55",
+        "Prediction": "50",
+        "eval": "False"
+    },
+    {
+        "pid": "562",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "564",
+        "Ground Truth": "4",
+        "Prediction": "4",
+        "eval": "True"
+    },
+    {
+        "pid": "567",
+        "Ground Truth": "3",
+        "Prediction": "3",
+        "eval": "True"
+    },
+    {
+        "pid": "568",
+        "Ground Truth": "2",
+        "Prediction": "2",
+        "eval": "True"
+    },
+    {
+        "pid": "569",
+        "Ground Truth": "1",
+        "Prediction": "84",
+        "eval": "False"
+    },
+    {
+        "pid": "570",
+        "Ground Truth": "5",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "572",
+        "Ground Truth": "5",
+        "Prediction": "The function starts decreasing at the point where the value is 0.2. The final value of the function is 0.1. So, the function starts decreasing at the point where the value is 0.2. The final value of the function is 0.1.",
+        "eval": "False"
+    },
+    {
+        "pid": "573",
+        "Ground Truth": "53",
+        "Prediction": "53",
+        "eval": "True"
+    },
+    {
+        "pid": "577",
+        "Ground Truth": "-104",
+        "Prediction": "To find the determinant of the product of two matrices, we first need to find the determinant of each matrix individually.\n\nMatrix A:\n$$\n\\mathbf{A}=\\left(\\begin{array}{ccc}\n1 & 2 & -1 \\\\\n0 & 3 & 1 \\\\\n2 & 0 & 1\n\\end{array}\\right)\n$$\n\nMatrix B:\n$$\n\\mathbf{B}=\\left(\\begin{array}{ccc}\n2 & 1 & 0 \\\\\n0 & -1 & 2 \\\\\n1 & 1 & 3\n\\end{array}\\right)\n$$\n\nMatrix C:\n$$\n\\mathbf{C}=\\left(\\begin{array}{ccc}\n2 & 1 \\\\\n4 & 3 \\\\\n1 & 0\n\\end{array}\\right)\n$$\n\nNow, let's find the determinant of each matrix:\n\nDeterminant of A:\n$$\n\\det(\\mathbf{A}) = 1(3 \\cdot 1 - 1 \\cdot 0) - 2(0 \\cdot 1 - 1 \\cdot 2) + (-1)(0 \\cdot 0 - 3 \\cdot 2) = 3 - 2 - 6 = -1\n$$\n\nDeterminant of B:\n$$\n\\det(\\mathbf{B}) = 2(-1 \\cdot 3 - 2 \\cdot 1) - 1(0 \\cdot 1 - 2 \\cdot 1) + 0(0 \\cdot 2 - 1 \\cdot 1) = -10 - 2 = -12\n$$\n\nDeterminant of C:\n$$\n\\det(\\mathbf{C}) = 2(3 - 0) - 1(4 - 0) = 6 - 4 = 2\n$$\n\nNow, we can find the determinant of the product of matrices A and B:\n$$\n|\\mathbf{A B}| = \\det(\\mathbf{A}) \\cdot \\det(\\mathbf{B}) = (-1) \\cdot (-12) = 12\n$$\n\nSo, the determinant of the product of matrices A and B is 12.",
+        "eval": "False"
+    },
+    {
+        "pid": "578",
+        "Ground Truth": "9567",
+        "Prediction": "12",
+        "eval": "False"
+    },
+    {
+        "pid": "579",
+        "Ground Truth": "7",
+        "Prediction": "7",
+        "eval": "True"
+    },
+    {
+        "pid": "581",
+        "Ground Truth": "4",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "588",
+        "Ground Truth": "1982",
+        "Prediction": "1981",
+        "eval": "False"
+    },
+    {
+        "pid": "589",
+        "Ground Truth": "5",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "590",
+        "Ground Truth": "13",
+        "Prediction": "20",
+        "eval": "False"
+    },
+    {
+        "pid": "591",
+        "Ground Truth": "4",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "592",
+        "Ground Truth": "4",
+        "Prediction": "The global maximum of the function is 5.",
+        "eval": "False"
+    },
+    {
+        "pid": "593",
+        "Ground Truth": "273",
+        "Prediction": "271.5",
+        "eval": "False"
+    },
+    {
+        "pid": "594",
+        "Ground Truth": "2005",
+        "Prediction": "2005",
+        "eval": "True"
+    },
+    {
+        "pid": "597",
+        "Ground Truth": "10",
+        "Prediction": "10",
+        "eval": "True"
+    },
+    {
+        "pid": "602",
+        "Ground Truth": "18",
+        "Prediction": "The perimeter of rectangle ABCD is 18.\n\nHere's the reasoning:\n\n1. Since each square has an area of 9, its side length is \u221a9 = 3.\n2. The length of rectangle ABCD is twice the side length of the square, so it is 2 * 3 = 6.\n3. The width of rectangle ABCD is also twice the side length of the square, so it is 2 * 3 = 6.\n4. The perimeter of rectangle ABCD is 2 * (length + width) = 2 * (6 + 6) = 2 * 12 = 24.\n\nHowever, the hint asks for an integer answer, so we need to find the perimeter of the two squares combined.\n\n5. The perimeter of one square is 4 * side length = 4 * 3 = 12.\n6. Since there are two identical squares, the combined perimeter is 2 * 12 = 24.\n\nThus, the perimeter of rectangle ABCD is 24, which is an integer value.",
+        "eval": "False"
+    },
+    {
+        "pid": "603",
+        "Ground Truth": "300",
+        "Prediction": "0",
+        "eval": "False"
+    },
+    {
+        "pid": "605",
+        "Ground Truth": "6",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "606",
+        "Ground Truth": "10",
+        "Prediction": "8",
+        "eval": "False"
+    },
+    {
+        "pid": "607",
+        "Ground Truth": "3",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "609",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "611",
+        "Ground Truth": "0",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "612",
+        "Ground Truth": "4",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "613",
+        "Ground Truth": "10",
+        "Prediction": "10",
+        "eval": "True"
+    },
+    {
+        "pid": "614",
+        "Ground Truth": "7",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "616",
+        "Ground Truth": "2",
+        "Prediction": "2",
+        "eval": "True"
+    },
+    {
+        "pid": "617",
+        "Ground Truth": "9",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "619",
+        "Ground Truth": "16",
+        "Prediction": "16",
+        "eval": "True"
+    },
+    {
+        "pid": "620",
+        "Ground Truth": "2",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "624",
+        "Ground Truth": "5",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "626",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "627",
+        "Ground Truth": "6",
+        "Prediction": "6",
+        "eval": "True"
+    },
+    {
+        "pid": "629",
+        "Ground Truth": "20",
+        "Prediction": "20",
+        "eval": "True"
+    },
+    {
+        "pid": "630",
+        "Ground Truth": "72",
+        "Prediction": "To find the size of angle MBD, we can use the fact that the sum of the angles in a triangle is 180 degrees.\n\nIn triangle ABD, angle ADB is a right angle (90 degrees) because it is a right triangle. Therefore, angle ADB + angle ABD + angle DAB = 180 degrees.\n\nWe are given that angle ABD = 56 degrees and angle DAB = 78 degrees. So, angle ADB + 56 + 78 = 180.\n\nNow, we can solve for angle ABD:\n\nangle ABD = 180 - 56 - 78\nangle ABD = 46 degrees\n\nNow, we know that angle ABD is 46 degrees and angle ABD + angle ABD = 90 degrees (since it is a right triangle). So, angle ABD = 46 degrees.\n\nFinally, we can find the size of angle MBD:\n\nangle MBD = 180 - angle ABD - angle ABD\nangle MBD = 180 - 46 - 46\nangle MBD = 98 degrees\n\nSo, the size of angle MBD is 98 degrees.",
+        "eval": "False"
+    },
+    {
+        "pid": "631",
+        "Ground Truth": "0",
+        "Prediction": "0",
+        "eval": "True"
+    },
+    {
+        "pid": "632",
+        "Ground Truth": "52",
+        "Prediction": "52",
+        "eval": "True"
+    },
+    {
+        "pid": "636",
+        "Ground Truth": "34",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "638",
+        "Ground Truth": "1",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "639",
+        "Ground Truth": "475",
+        "Prediction": "500",
+        "eval": "False"
+    },
+    {
+        "pid": "646",
+        "Ground Truth": "25",
+        "Prediction": "8",
+        "eval": "False"
+    },
+    {
+        "pid": "648",
+        "Ground Truth": "-1",
+        "Prediction": "The minimum value of the function is approximately -1.215.",
+        "eval": "False"
+    },
+    {
+        "pid": "649",
+        "Ground Truth": "4",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "651",
+        "Ground Truth": "7",
+        "Prediction": "7",
+        "eval": "True"
+    },
+    {
+        "pid": "652",
+        "Ground Truth": "0",
+        "Prediction": "0",
+        "eval": "True"
+    },
+    {
+        "pid": "658",
+        "Ground Truth": "1",
+        "Prediction": "6",
+        "eval": "False"
+    },
+    {
+        "pid": "659",
+        "Ground Truth": "991",
+        "Prediction": "991",
+        "eval": "True"
+    },
+    {
+        "pid": "662",
+        "Ground Truth": "80",
+        "Prediction": "80",
+        "eval": "True"
+    },
+    {
+        "pid": "664",
+        "Ground Truth": "17",
+        "Prediction": "17",
+        "eval": "True"
+    },
+    {
+        "pid": "666",
+        "Ground Truth": "4",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "667",
+        "Ground Truth": "2015",
+        "Prediction": "2013",
+        "eval": "False"
+    },
+    {
+        "pid": "672",
+        "Ground Truth": "2",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "676",
+        "Ground Truth": "0",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "680",
+        "Ground Truth": "5",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "683",
+        "Ground Truth": "2",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "691",
+        "Ground Truth": "256",
+        "Prediction": "5",
+        "eval": "False"
+    },
+    {
+        "pid": "699",
+        "Ground Truth": "0",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "701",
+        "Ground Truth": "9",
+        "Prediction": "5",
+        "eval": "False"
+    },
+    {
+        "pid": "702",
+        "Ground Truth": "400",
+        "Prediction": "424",
+        "eval": "False"
+    },
+    {
+        "pid": "709",
+        "Ground Truth": "4",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "710",
+        "Ground Truth": "0",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "711",
+        "Ground Truth": "3",
+        "Prediction": "3",
+        "eval": "True"
+    },
+    {
+        "pid": "712",
+        "Ground Truth": "9",
+        "Prediction": "9",
+        "eval": "True"
+    },
+    {
+        "pid": "719",
+        "Ground Truth": "13",
+        "Prediction": "8",
+        "eval": "False"
+    },
+    {
+        "pid": "720",
+        "Ground Truth": "2",
+        "Prediction": "2",
+        "eval": "True"
+    },
+    {
+        "pid": "721",
+        "Ground Truth": "4",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "725",
+        "Ground Truth": "-130",
+        "Prediction": "To find the velocity $v_{P B}$ that Barbara will measure for car $P$, we can use the formula for relative velocity:\n\n$$v_{P B} = v_{PA} - v_{BA}$$\n\nGiven that $v_{PA} = -78 \\mathrm{~km} / \\mathrm{h}$ and $v_{BA} = 52 \\mathrm{~km} / \\mathrm{h}$, we can substitute these values into the formula:\n\n$$v_{P B} = (-78 \\mathrm{~km} / \\mathrm{h}) - (52 \\mathrm{~km} / \\mathrm{h}) = -120 \\mathrm{~km} / \\mathrm{h}$$\n\nSo, Barbara will measure a velocity of $-120 \\mathrm{~km} / \\mathrm{h}$ for car $P$.",
+        "eval": "False"
+    },
+    {
+        "pid": "727",
+        "Ground Truth": "70",
+        "Prediction": "79",
+        "eval": "False"
+    },
+    {
+        "pid": "728",
+        "Ground Truth": "7",
+        "Prediction": "5",
+        "eval": "False"
+    },
+    {
+        "pid": "729",
+        "Ground Truth": "1",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "730",
+        "Ground Truth": "2019",
+        "Prediction": "2020",
+        "eval": "False"
+    },
+    {
+        "pid": "731",
+        "Ground Truth": "40",
+        "Prediction": "0",
+        "eval": "False"
+    },
+    {
+        "pid": "739",
+        "Ground Truth": "23",
+        "Prediction": "Hannah needs $23 to buy a baking dish and a cookie jar.",
+        "eval": "True"
+    },
+    {
+        "pid": "741",
+        "Ground Truth": "13",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "742",
+        "Ground Truth": "3",
+        "Prediction": "3",
+        "eval": "True"
+    },
+    {
+        "pid": "745",
+        "Ground Truth": "1",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "746",
+        "Ground Truth": "7",
+        "Prediction": "7",
+        "eval": "True"
+    },
+    {
+        "pid": "750",
+        "Ground Truth": "18",
+        "Prediction": "8",
+        "eval": "False"
+    },
+    {
+        "pid": "753",
+        "Ground Truth": "4",
+        "Prediction": "4",
+        "eval": "True"
+    },
+    {
+        "pid": "759",
+        "Ground Truth": "2",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "763",
+        "Ground Truth": "8",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "764",
+        "Ground Truth": "9",
+        "Prediction": "12",
+        "eval": "False"
+    },
+    {
+        "pid": "767",
+        "Ground Truth": "5",
+        "Prediction": "The maximum value of y is 5.",
+        "eval": "True"
+    },
+    {
+        "pid": "770",
+        "Ground Truth": "1",
+        "Prediction": "The amplitude of the function is 1.",
+        "eval": "True"
+    },
+    {
+        "pid": "780",
+        "Ground Truth": "7",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "782",
+        "Ground Truth": "4",
+        "Prediction": "18",
+        "eval": "False"
+    },
+    {
+        "pid": "784",
+        "Ground Truth": "70",
+        "Prediction": "70",
+        "eval": "True"
+    },
+    {
+        "pid": "787",
+        "Ground Truth": "50",
+        "Prediction": "50",
+        "eval": "True"
+    },
+    {
+        "pid": "788",
+        "Ground Truth": "7",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "789",
+        "Ground Truth": "10",
+        "Prediction": "10",
+        "eval": "True"
+    },
+    {
+        "pid": "792",
+        "Ground Truth": "7",
+        "Prediction": "20",
+        "eval": "False"
+    },
+    {
+        "pid": "793",
+        "Ground Truth": "1578",
+        "Prediction": "1578",
+        "eval": "True"
+    },
+    {
+        "pid": "794",
+        "Ground Truth": "2",
+        "Prediction": "2",
+        "eval": "True"
+    },
+    {
+        "pid": "795",
+        "Ground Truth": "75",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "796",
+        "Ground Truth": "3",
+        "Prediction": "3",
+        "eval": "True"
+    },
+    {
+        "pid": "799",
+        "Ground Truth": "13",
+        "Prediction": "$13.00",
+        "eval": "False"
+    },
+    {
+        "pid": "801",
+        "Ground Truth": "10",
+        "Prediction": "10",
+        "eval": "True"
+    },
+    {
+        "pid": "802",
+        "Ground Truth": "69",
+        "Prediction": "17.63",
+        "eval": "False"
+    },
+    {
+        "pid": "803",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "808",
+        "Ground Truth": "9",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "810",
+        "Ground Truth": "8",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "811",
+        "Ground Truth": "34",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "813",
+        "Ground Truth": "30",
+        "Prediction": "30",
+        "eval": "True"
+    },
+    {
+        "pid": "814",
+        "Ground Truth": "100000000",
+        "Prediction": "100000000",
+        "eval": "True"
+    },
+    {
+        "pid": "830",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "831",
+        "Ground Truth": "679",
+        "Prediction": "724",
+        "eval": "False"
+    },
+    {
+        "pid": "832",
+        "Ground Truth": "-2",
+        "Prediction": "0",
+        "eval": "False"
+    },
+    {
+        "pid": "835",
+        "Ground Truth": "0",
+        "Prediction": "33",
+        "eval": "False"
+    },
+    {
+        "pid": "838",
+        "Ground Truth": "4",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "839",
+        "Ground Truth": "5",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "841",
+        "Ground Truth": "9",
+        "Prediction": "9",
+        "eval": "True"
+    },
+    {
+        "pid": "845",
+        "Ground Truth": "3",
+        "Prediction": "20",
+        "eval": "False"
+    },
+    {
+        "pid": "848",
+        "Ground Truth": "3",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "851",
+        "Ground Truth": "2",
+        "Prediction": "2",
+        "eval": "True"
+    },
+    {
+        "pid": "852",
+        "Ground Truth": "40",
+        "Prediction": "16",
+        "eval": "False"
+    },
+    {
+        "pid": "857",
+        "Ground Truth": "9",
+        "Prediction": "9",
+        "eval": "True"
+    },
+    {
+        "pid": "859",
+        "Ground Truth": "27",
+        "Prediction": "20",
+        "eval": "False"
+    },
+    {
+        "pid": "860",
+        "Ground Truth": "86",
+        "Prediction": "55",
+        "eval": "False"
+    },
+    {
+        "pid": "864",
+        "Ground Truth": "16",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "867",
+        "Ground Truth": "22",
+        "Prediction": "14",
+        "eval": "False"
+    },
+    {
+        "pid": "868",
+        "Ground Truth": "5",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "869",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "871",
+        "Ground Truth": "2",
+        "Prediction": "4",
+        "eval": "False"
+    },
+    {
+        "pid": "873",
+        "Ground Truth": "3",
+        "Prediction": "two",
+        "eval": "False"
+    },
+    {
+        "pid": "874",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "875",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "877",
+        "Ground Truth": "7",
+        "Prediction": "7",
+        "eval": "True"
+    },
+    {
+        "pid": "879",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "883",
+        "Ground Truth": "15",
+        "Prediction": "The number 18 is missing in the third circle.",
+        "eval": "False"
+    },
+    {
+        "pid": "885",
+        "Ground Truth": "18",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "886",
+        "Ground Truth": "6",
+        "Prediction": "6",
+        "eval": "True"
+    },
+    {
+        "pid": "888",
+        "Ground Truth": "3",
+        "Prediction": "4",
+        "eval": "False"
+    },
+    {
+        "pid": "891",
+        "Ground Truth": "4",
+        "Prediction": "four",
+        "eval": "True"
+    },
+    {
+        "pid": "893",
+        "Ground Truth": "0",
+        "Prediction": "The limit of the blue function as x approaches negative infinity is -2.",
+        "eval": "False"
+    },
+    {
+        "pid": "894",
+        "Ground Truth": "9",
+        "Prediction": "9",
+        "eval": "True"
+    },
+    {
+        "pid": "899",
+        "Ground Truth": "2123",
+        "Prediction": "1719",
+        "eval": "False"
+    },
+    {
+        "pid": "901",
+        "Ground Truth": "7",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "904",
+        "Ground Truth": "3",
+        "Prediction": "3",
+        "eval": "True"
+    },
+    {
+        "pid": "907",
+        "Ground Truth": "1970",
+        "Prediction": "1970",
+        "eval": "True"
+    },
+    {
+        "pid": "910",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "912",
+        "Ground Truth": "4",
+        "Prediction": "4",
+        "eval": "True"
+    },
+    {
+        "pid": "914",
+        "Ground Truth": "9",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "917",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "918",
+        "Ground Truth": "1",
+        "Prediction": "22",
+        "eval": "False"
+    },
+    {
+        "pid": "919",
+        "Ground Truth": "7",
+        "Prediction": "six",
+        "eval": "False"
+    },
+    {
+        "pid": "920",
+        "Ground Truth": "30",
+        "Prediction": "12\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "eval": "False"
+    },
+    {
+        "pid": "922",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "928",
+        "Ground Truth": "5",
+        "Prediction": "5",
+        "eval": "True"
+    },
+    {
+        "pid": "929",
+        "Ground Truth": "85",
+        "Prediction": "81",
+        "eval": "False"
+    },
+    {
+        "pid": "933",
+        "Ground Truth": "9606",
+        "Prediction": "9610",
+        "eval": "False"
+    },
+    {
+        "pid": "934",
+        "Ground Truth": "10000",
+        "Prediction": "10000",
+        "eval": "True"
+    },
+    {
+        "pid": "936",
+        "Ground Truth": "0",
+        "Prediction": "0",
+        "eval": "True"
+    },
+    {
+        "pid": "940",
+        "Ground Truth": "6",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "941",
+        "Ground Truth": "2",
+        "Prediction": "63, 8, 3, ? \n The next number in the series is 8.",
+        "eval": "False"
+    },
+    {
+        "pid": "942",
+        "Ground Truth": "0",
+        "Prediction": "5",
+        "eval": "False"
+    },
+    {
+        "pid": "943",
+        "Ground Truth": "2",
+        "Prediction": "2",
+        "eval": "True"
+    },
+    {
+        "pid": "944",
+        "Ground Truth": "3",
+        "Prediction": "3",
+        "eval": "True"
+    },
+    {
+        "pid": "945",
+        "Ground Truth": "6",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "946",
+        "Ground Truth": "16",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "948",
+        "Ground Truth": "11",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "949",
+        "Ground Truth": "56",
+        "Prediction": "56",
+        "eval": "True"
+    },
+    {
+        "pid": "953",
+        "Ground Truth": "50",
+        "Prediction": "50%",
+        "eval": "False"
+    },
+    {
+        "pid": "956",
+        "Ground Truth": "6",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "959",
+        "Ground Truth": "32",
+        "Prediction": "32",
+        "eval": "True"
+    },
+    {
+        "pid": "960",
+        "Ground Truth": "4",
+        "Prediction": "11",
+        "eval": "False"
+    },
+    {
+        "pid": "961",
+        "Ground Truth": "7",
+        "Prediction": "7",
+        "eval": "True"
+    },
+    {
+        "pid": "963",
+        "Ground Truth": "3",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "964",
+        "Ground Truth": "6",
+        "Prediction": "5",
+        "eval": "False"
+    },
+    {
+        "pid": "965",
+        "Ground Truth": "30",
+        "Prediction": "30",
+        "eval": "True"
+    },
+    {
+        "pid": "966",
+        "Ground Truth": "3",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "967",
+        "Ground Truth": "2",
+        "Prediction": "2",
+        "eval": "True"
+    },
+    {
+        "pid": "968",
+        "Ground Truth": "6",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "973",
+        "Ground Truth": "1",
+        "Prediction": "The function has 1 zero. The final value of the function is approximately 3.322.",
+        "eval": "True"
+    },
+    {
+        "pid": "975",
+        "Ground Truth": "6",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "978",
+        "Ground Truth": "7",
+        "Prediction": "7",
+        "eval": "True"
+    },
+    {
+        "pid": "979",
+        "Ground Truth": "9079",
+        "Prediction": "12",
+        "eval": "False"
+    },
+    {
+        "pid": "980",
+        "Ground Truth": "12",
+        "Prediction": "12",
+        "eval": "True"
+    },
+    {
+        "pid": "983",
+        "Ground Truth": "8",
+        "Prediction": "8",
+        "eval": "True"
+    },
+    {
+        "pid": "985",
+        "Ground Truth": "5",
+        "Prediction": "5",
+        "eval": "True"
+    },
+    {
+        "pid": "987",
+        "Ground Truth": "4232",
+        "Prediction": "To estimate the area of the wing's cross-section using the Midpoint Rule, we first need to find the midpoint of each interval. The intervals are 5.8, 20.3, 26.7, 29.0, 27.6, 27.3, 23.8, 20.5, 15.1, 8.7, and 2.8. The midpoints are 2.9, 12.65, 28.35, 30.5, 28.1, 27.95, 24.35, 17.75, 12.55, 5.35, and 1.4.\n\nNext, we multiply each midpoint by the width of the wing (200 cm) and sum the results:\n\n2.9 * 200 + 12.65 * 200 + 28.35 * 200 + 30.5 * 200 + 28.1 * 200 + 27.95 * 200 + 24.35 * 200 + 17.75 * 200 + 12.55 * 200 + 5.35 * 200 + 1.4 * 200 = 10,000 + 2,530 + 5,670 + 6,100 + 5,620 + 5,590 + 4,870 + 3,550 + 2,510 + 1,070 + 2,800 = 31,940.\n\nThe estimated area of the wing's cross-section using the Midpoint Rule is 31,940 square centimeters.",
+        "eval": "False"
+    },
+    {
+        "pid": "988",
+        "Ground Truth": "1",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "989",
+        "Ground Truth": "9",
+        "Prediction": "9",
+        "eval": "True"
+    },
+    {
+        "pid": "993",
+        "Ground Truth": "9",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "996",
+        "Ground Truth": "2",
+        "Prediction": "0",
+        "eval": "False"
+    },
+    {
+        "pid": "1000",
+        "Ground Truth": "9",
+        "Prediction": "10",
+        "eval": "False"
+    }
+]

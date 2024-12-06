@@ -1,0 +1,2092 @@
+[
+    {
+        "pid": "2",
+        "question": "What is the overall capacity of the measuring cup?",
+        "query": "Hint: Please provide an integer answer to the question and state the final value, such as 1, 2, or 3, at the end. \nQuestion: What is the total volume of the measuring cup? (Unit: grams)"
+    },
+    {
+        "pid": "4",
+        "question": "If you remove all the large rubber spheres and all the big shiny cylinders, how many objects remain?",
+        "query": "Hint: Please provide an integer as your answer, such as 1, 2, or 3, at the end of your response.\nQuestion: Remove all the large rubber spheres and all the big shiny cylinders. How many objects remain?"
+    },
+    {
+        "pid": "11",
+        "question": "Remove all red items and all small matte balls. How many objects remain?",
+        "query": "Hint: Please provide an integer as your answer and state the final number, such as 1, 2, or 3, at the end. \nQuestion: Remove all red items and all small, dull balls. How many objects remain?"
+    },
+    {
+        "pid": "13",
+        "question": "What is the number of items that are favored by over 90 percent of individuals in at least one category?",
+        "query": "Hint: Please respond with a whole number and include that number as your final answer, such as 1, 2, or 3. \nQuestion: What is the count of objects that are favored by over 90 percent of individuals in at least one category?"
+    },
+    {
+        "pid": "16",
+        "question": "How many items were sold in fewer than 5 units in at least one store?",
+        "query": "Hint: Please provide an integer as your answer, such as 1, 2, or 3, at the end.  \nQuestion: How many items were sold in fewer than 5 units at least in one store?"
+    },
+    {
+        "pid": "19",
+        "question": "What is the maximum measurement recorded by this class?",
+        "query": "Please provide an integer answer to the question about the highest value measured by this class, and include the final result at the end, such as 1, 2, or 3."
+    },
+    {
+        "pid": "21",
+        "question": "Complete the sentence to explain the model. The model contains 4 dots that are separated into 2 equal groups. Each group has (_) dots.",
+        "query": "Hint: Please respond to the question that asks for a whole number, and include the final answer as a single integer, such as 1, 2, or 3, at the end.  \nQuestion: Complete the statement about the model. The model contains 4 dots separated into 2 equal groups. There are (_) dots in each group."
+    },
+    {
+        "pid": "22",
+        "question": "How many individuals in the picture were born after World War II ended?",
+        "query": "Hint: Please provide a whole number as your answer, such as 1, 2, or 3, at the end of your response. \nQuestion: How many individuals in the picture were born after World War II ended?"
+    },
+    {
+        "pid": "27",
+        "question": "What is the age difference between the two individuals in the image?",
+        "query": "Hint: Kindly provide an integer answer to the question and present the final value, such as 1, 2, or 3, at the end.  \nQuestion: How many years apart in age are the two individuals shown in the image?"
+    },
+    {
+        "pid": "29",
+        "question": "How much older or younger is one person compared to the other in the image?",
+        "query": "Hint: Kindly provide an integer answer to the question, concluding with the final value, such as 1, 2, or 3. \nQuestion: What is the difference in age between the two individuals in the image? (Unit: years)"
+    },
+    {
+        "pid": "36",
+        "question": "What is the age difference between the two individuals in the image?",
+        "query": "Hint: Kindly provide a whole number as your final answer, such as 1, 2, or 3.  \nQuestion: How many years apart are the ages of the two individuals in the picture?"
+    },
+    {
+        "pid": "37",
+        "question": "What is the limit of the function as x gets closer to -1?",
+        "query": "Hint: Kindly provide an integer solution to the question and present the final result, such as 1, 2, or 3, at the conclusion.  \nQuestion: What is the limit as x approaches -1?"
+    },
+    {
+        "pid": "38",
+        "question": "How many bars have values less than 6?",
+        "query": "Hint: Please provide an integer response to the question and state the final number at the end, such as 1, 2, or 3. \nQuestion: How many bars have values that are less than 6?"
+    },
+    {
+        "pid": "40",
+        "question": "Remove all the brown blocks and all the large blue rubber items. How many objects remain?",
+        "query": "Hint: Please provide an integer as your final answer, such as 1, 2, or 3. \nQuestion: Take away all the brown blocks and all the large blue rubber items. How many objects remain?"
+    },
+    {
+        "pid": "41",
+        "question": "What is the age difference between the two people in the image?",
+        "query": "Hint: Please respond to the question that asks for an integer and include the final numerical answer, such as 1, 2, or 3, at the end.  \nQuestion: How many years apart are the ages of the two individuals in the image?"
+    },
+    {
+        "pid": "42",
+        "question": "What is the age difference between the two people in the picture?",
+        "query": "Hint: Kindly provide an integer response for the age difference between the two individuals in the image, stating the final number, such as 1, 2, or 3, at the end. \nQuestion: How many years apart are these two people in age?"
+    },
+    {
+        "pid": "44",
+        "question": "Chase wishes to purchase 4 kilograms of oval beads and 5 kilograms of star-shaped beads. What will be the total cost? (Unit: $)",
+        "query": "Hint: Make sure to provide a whole number in your response, such as 1, 2, or 3, at the end.  \nQuestion: Chase intends to purchase 4 kilograms of oval beads and 5 kilograms of star-shaped beads. What will be his total expenditure? (Unit: $)"
+    },
+    {
+        "pid": "45",
+        "question": "An administrator at the DMV monitored the average wait times each month. Based on the table provided, what was the change in average wait time from August to September? (Measured in minutes per month)",
+        "query": "Hint: Kindly provide an integer as your answer, and include the final value at the end, such as 1, 2, or 3. \nQuestion: A DMV administrator monitored the average wait times from month to month. Based on the table, what was the change in wait time between August and September? (Measured in minutes per month)"
+    },
+    {
+        "pid": "47",
+        "question": "Remove all rubber balls and all yellow shiny objects. How many items remain?",
+        "query": "Hint: Please respond to the question that requires you to give a whole number as the answer, such as 1, 2, or 3, and state the final number at the end.  \nQuestion: Remove all rubber balls and all yellow shiny items. How many items remain?"
+    },
+    {
+        "pid": "49",
+        "question": "What is the total of the digits at both ends of the sign in the corner?",
+        "query": "Hint: Please provide an integer answer and include the final number, such as 1, 2, or 3, at the end. \nQuestion: What is the total of the digits located at both ends of the sign in the corner?"
+    },
+    {
+        "pid": "52",
+        "question": "Remove all large red metallic spheres and all large brown matte objects. How many items remain?",
+        "query": "Hint: Please respond to the question that needs an integer answer and include the final result at the end, for example, 1, 2, or 3.  \nQuestion: Take away all the large red shiny spheres and all the large brown matte items. How many objects remain?"
+    },
+    {
+        "pid": "53",
+        "question": "How old is the difference between the two individuals in the picture?",
+        "query": "Hint: Please respond with an integer value that reflects the age difference between the two individuals shown in the image, such as 1, 2, or 3, at the end of your answer."
+    },
+    {
+        "pid": "56",
+        "question": "What is the total distance around the rectangle?",
+        "query": "Hint: Kindly provide an integer as your answer and make sure to present the final value, such as 1, 2, or 3, at the end. \nQuestion: What is the perimeter of the rectangle?"
+    },
+    {
+        "pid": "57",
+        "question": "Remove all the small balls and all the blue rubber items. How many objects remain?",
+        "query": "Hint: Please provide a whole number as your answer and state the final result at the end, for example, 1, 2, or 3.  \nQuestion: Remove all the small balls and all the blue rubber items. How many objects remain?"
+    },
+    {
+        "pid": "60",
+        "question": "How much older or younger is one person compared to the other in the image?",
+        "query": "Hint: Make sure to provide a whole number as your answer, such as 1, 2, or 3, at the end. \nQuestion: How many years apart are the ages of the two individuals in the image?"
+    },
+    {
+        "pid": "63",
+        "question": "Remove all the red matte cubes and all the small green metal objects. How many objects remain?",
+        "query": "Hint: Please provide an integer response to the question and include the final number, such as 1, 2, or 3, at the end.  \nQuestion: Remove all red matte cubes and all small green metal objects. What is the total number of objects remaining?"
+    },
+    {
+        "pid": "67",
+        "question": "What is the total distance around the square?",
+        "query": "Hint: Kindly provide an integer answer to the question and state the final result at the end, such as 1, 2, or 3. \nQuestion: What is the perimeter of the square?"
+    },
+    {
+        "pid": "69",
+        "question": "Remove all the large matte balls and all the green rubber items. How many items remain?",
+        "query": "Hint: Please provide a whole number as your response, such as 1, 2, or 3, at the end. \nQuestion: Remove all large matte balls and all green rubber items. How many items remain?"
+    },
+    {
+        "pid": "70",
+        "question": "What is the age difference between the two individuals in the image?",
+        "query": "Hint: Kindly provide an integer as your answer, such as 1, 2, or 3, at the end of your response. \nQuestion: What is the age difference between the two individuals in the image? (Unit: years)"
+    },
+    {
+        "pid": "71",
+        "question": "What is the total distance around the rectangle?",
+        "query": "Hint: Kindly respond with an integer as the answer and state the final value at the end, for example, 1, 2, 3. \nQuestion: What is the total distance around the rectangle, known as the perimeter?"
+    },
+    {
+        "pid": "72",
+        "question": "A real estate agent surveyed the neighborhood and recorded the quantity of houses on each block. How many blocks contain exactly 36 houses? (Measurement: blocks)",
+        "query": "Hint: Kindly provide an integer as your response, for example, 1, 2, 3, and include the final number at the end. \nQuestion: A real estate agent surveyed the neighborhood and recorded the number of houses on each block. How many blocks have precisely 36 houses? (Unit: blocks)"
+    },
+    {
+        "pid": "77",
+        "question": "In which year was the difference between the two lines' data points the greatest?",
+        "query": "Hint: Kindly provide an integer as your answer and include that final value at the end, such as 1, 2, or 3. \nQuestion: In which year was the difference between the two lines in the data points the greatest?"
+    },
+    {
+        "pid": "78",
+        "question": "Determine the unknown value.",
+        "query": "Hint: Kindly provide an integer as your final answer, such as 1, 2, or 3.  \nQuestion: Determine the unknown value."
+    },
+    {
+        "pid": "81",
+        "question": "What is the value of r when theta is equal to 3\u03c0/2?",
+        "query": "Hint: Please provide an integer response to the question and include the final answer, such as 1, 2, or 3, at the conclusion.  \nQuestion: What is the value of r when theta equals 3\u03c0/2?"
+    },
+    {
+        "pid": "85",
+        "question": "How many countries have individuals working more than 35 hours per week on average over the years?",
+        "query": "Hint: Make sure to provide a whole number as your answer, such as 1, 2, or 3, at the end of your response.  \nQuestion: How many countries have individuals employed for more than 35 hours over the years?"
+    },
+    {
+        "pid": "88",
+        "question": "A square touches a line at point P in the diagram above. What is the value of x?",
+        "query": "Hint: Please provide an integer response to the question and include the final result, such as 1, 2, or 3, at the end.\nQuestion: A square touches a line at point P as shown in the figure above. What is the value of x?"
+    },
+    {
+        "pid": "89",
+        "question": "What is the average fuel efficiency of a city bus in miles per gallon?",
+        "query": "Hint: Provide the integer value as your final answer, such as 1, 2, or 3.  \nQuestion: What is the average fuel efficiency of a city bus in miles per gallon?"
+    },
+    {
+        "pid": "90",
+        "question": "If you remove all the yellow matte blocks and all the small brown cylinders, how many objects remain?",
+        "query": "Hint: Please provide an integer as the final answer, such as 1, 2, or 3.  \nQuestion: Remove all the yellow matte blocks and all the small brown cylinders. How many objects remain?"
+    },
+    {
+        "pid": "97",
+        "question": "How many algorithms have an accuracy greater than 9?",
+        "query": "Hint: Please provide an integer as your answer to the question and make sure to include the final number, such as 1, 2, or 3, at the end. \nQuestion: What is the count of algorithms that have accuracies greater than 9?"
+    },
+    {
+        "pid": "98",
+        "question": "Determine the value represented by the square in the diagram.",
+        "query": "Hint: Kindly provide the answer to the question with an integer response and include the final number at the end, such as 1, 2, or 3.  \nQuestion: Determine the value represented by the square in the diagram."
+    },
+    {
+        "pid": "100",
+        "question": "What is the total of all the values in the governing group?",
+        "query": "Hint: Kindly provide an integer response to the question and state the final value at the end, such as 1, 2, or 3.  \nQuestion: What is the total of all the values in the governing group?"
+    },
+    {
+        "pid": "102",
+        "question": "The figure is composed of unit squares. What is the total area of this figure?",
+        "query": "Hint: Kindly provide a whole number as your answer, such as 1, 2, or 3, at the conclusion of your response.  \nQuestion: The figure is composed of unit squares. What is the area of this figure?"
+    },
+    {
+        "pid": "103",
+        "question": "Remove all the small purple matte blocks. Then, remove all the blocks. How many objects remain?",
+        "query": "Hint: Please provide an integer answer to the question and state the final value, such as 1, 2, or 3 at the end.  \nQuestion: Remove all the small purple matte blocks. After that, remove all the blocks. How many objects remain?"
+    },
+    {
+        "pid": "106",
+        "question": "How many bars have values less than 1?",
+        "query": "Hint: Please provide a whole number as your answer, such as 1, 2, or 3, at the end. \nQuestion: How many bars have values less than 1?"
+    },
+    {
+        "pid": "109",
+        "question": "Remove all the small balls and all the green metallic items. How many objects remain?",
+        "query": "Hint: Please provide an integer answer to the question and indicate the final number, such as 1, 2, or 3, at the end.  \nQuestion: Remove all the small balls and all the green metallic items. How many objects remain?"
+    },
+    {
+        "pid": "111",
+        "question": "If you remove all the large gray matte items and all the small metallic cylinders, how many objects remain?",
+        "query": "Hint: Please provide an integer as your answer and present the final result at the end, for example, 1, 2, or 3. \nQuestion: Remove all the large gray matte objects and all the small metallic cylinders. How many objects remain?"
+    },
+    {
+        "pid": "113",
+        "question": "What is the total number of baseballs?",
+        "query": "Hint: Kindly provide an integer as your answer, such as 1, 2, or 3, at the conclusion of your response. \nQuestion: What is the total number of baseballs?"
+    },
+    {
+        "pid": "115",
+        "question": "What is the age difference between the two individuals in the image?",
+        "query": "Hint: Please provide an integer response to the question and present the final answer, such as 1, 2, or 3, at the end.  \nQuestion: How many years apart in age are the two individuals in the picture?"
+    },
+    {
+        "pid": "118",
+        "question": "What is the highest value that this function can reach?",
+        "query": "Hint: Please provide an integer answer to the question and state the final value, such as 1, 2, or 3, at the end. \nQuestion: What is the highest value of this function?"
+    },
+    {
+        "pid": "120",
+        "question": "What is the highest power of the variable in this function?",
+        "query": "Hint: Kindly provide the integer answer to the question and state the final value at the end, such as 1, 2, or 3. \nQuestion: What is the degree of this function?"
+    },
+    {
+        "pid": "121",
+        "question": "Manny kept track of his daily lunch expenses to see how much he could save by bringing his own lunch. Based on the table provided, what is the difference in his lunch spending from Wednesday to Thursday? (Unit: $, per day)",
+        "query": "Hint: Please provide an integer response and include the final number, such as 1, 2, or 3, at the end. \nQuestion: Manny is trying to determine the savings from packing lunch by noting his daily lunch expenses. Based on the table, what is the difference in spending from Wednesday to Thursday? (Unit: dollars per day)"
+    },
+    {
+        "pid": "126",
+        "question": "What is the age difference between the youngest and the oldest person?",
+        "query": "Hint: Please provide an integer as your final answer to the question. For example, write your answer as 1, 2, or 3 at the end. \nQuestion: What is the age difference between the youngest and oldest person? (Unit: years)"
+    },
+    {
+        "pid": "127",
+        "question": "What is the difference in accuracy between the most accurate algorithm and the least accurate algorithm?",
+        "query": "Hint: Please respond to the question that asks for an integer value and include the final answer at the end, such as 1, 2, or 3.  \nQuestion: What is the difference in accuracy between the most precise algorithm and the least precise algorithm?"
+    },
+    {
+        "pid": "128",
+        "question": "Remove all the large metal blocks and all the yellow cylinders. How many objects remain?",
+        "query": "Hint: Please give an integer answer and state the final number, such as 1, 2, or 3, at the end. \nQuestion: Remove all the large metal blocks and all the yellow cylinders. How many items remain?"
+    },
+    {
+        "pid": "129",
+        "question": "Adjust the ruler to find the length of the twig, rounding it to the nearest inch. The twig measures approximately (_) inches in length.",
+        "query": "Hint: Kindly provide an integer as your answer at the end, such as 1, 2, or 3.  \nQuestion: Use the ruler to determine the length of the twig rounded to the nearest inch. The length of the twig is approximately (_) inches."
+    },
+    {
+        "pid": "130",
+        "question": "How many individuals in the picture were born after World War II ended?",
+        "query": "Hint: Kindly provide an integer response to the question and indicate your final answer clearly, such as 1, 2, or 3. \nQuestion: How many individuals in the picture were born after World War II concluded?"
+    },
+    {
+        "pid": "131",
+        "question": "What is the number of bars that have a value less than 40?",
+        "query": "Hint: Kindly respond with a whole number and present the final answer at the end, such as 1, 2, or 3. \nQuestion: What is the count of bars that have values under 40?"
+    },
+    {
+        "pid": "133",
+        "question": "In how many years did merchandise exports exceed 0.92%?",
+        "query": "Hint: Please provide an integer answer to the question, such as 1, 2, or 3, at the end.  \nQuestion: After how many years do merchandise exports exceed 0.92%?"
+    },
+    {
+        "pid": "136",
+        "question": "What is the difference between the maximum and minimum values of the blue bar?",
+        "query": "Hint: Provide an integer response and state the final number clearly at the end, such as 1, 2, or 3.  \nQuestion: What is the difference between the maximum and minimum values of the blue bar?"
+    },
+    {
+        "pid": "145",
+        "question": "Can you identify the term that is missing?",
+        "query": "Hint: Please provide an integer as your final answer, such as 1, 2, or 3. \nQuestion: Can you identify the missing term?"
+    },
+    {
+        "pid": "146",
+        "question": "Kimberly's classmates shared the number of science articles they have read. What is the difference between the highest and lowest numbers?",
+        "query": "Hint: Please provide an integer answer and state the final number at the end, such as 1, 2, or 3.  \nQuestion: Kimberly's classmates shared the number of science articles they each read. What is the range of these numbers?"
+    },
+    {
+        "pid": "156",
+        "question": "What is the limit as x approaches 1 from the left?",
+        "query": "Hint: Make sure to provide an integer response when answering the question, and indicate the final value at the end, such as 1, 2, or 3. \nQuestion: What is the limit as x approaches 1 from the left?"
+    },
+    {
+        "pid": "157",
+        "question": "Which number is displayed?",
+        "query": "Hint: Please give a whole number as your answer and include the final result, such as 1, 2, or 3, at the end of your response. \nQuestion: What is the number displayed?"
+    },
+    {
+        "pid": "158",
+        "question": "What is the age difference between the two individuals in the picture?",
+        "query": "Hint: Please provide an integer response for the age difference between the two individuals in the image, and include the final value at the end, such as 1, 2, or 3 years."
+    },
+    {
+        "pid": "159",
+        "question": "What is the gap between two successive major tick marks on the Y-axis?",
+        "query": "Hint: Please provide an integer answer to the question, and display the final value at the end, for example, 1, 2, or 3. \nQuestion: What is the gap between two adjacent major ticks on the Y-axis?"
+    },
+    {
+        "pid": "161",
+        "question": "What is the total of the two numbers shown in the image?",
+        "query": "Hint: Kindly provide the sum of the two numbers shown in the picture as an integer, such as 1, 2, or 3, at the end of your response."
+    },
+    {
+        "pid": "162",
+        "question": "The bird watcher kept track of the number of birds in each flock that flew overhead. How many flocks contained at least 17 birds but fewer than 33 birds? (Unit: flocks)",
+        "query": "Hint: Kindly provide an integer response to the question, and make sure to state the final value at the end, such as 1, 2, or 3. \nQuestion: A bird watcher observed the number of birds in each flock that flew above. How many flocks contained at least 17 birds but less than 33 birds? (Unit: flocks)"
+    },
+    {
+        "pid": "163",
+        "question": "What number is displayed?",
+        "query": "Hint: Kindly provide an integer response to the question and include the final number at the end, such as 1, 2, or 3. \nQuestion: What number is displayed?"
+    },
+    {
+        "pid": "165",
+        "question": "Remove all the cyan rubber cylinders and all the small shiny cubes. How many objects do you have remaining?",
+        "query": "Hint: Please provide a whole number as your final answer, such as 1, 2, or 3. \nQuestion: Remove all the cyan rubber cylinders and all the small shiny cubes. How many objects remain?"
+    },
+    {
+        "pid": "167",
+        "question": "What is the largest root of this function?",
+        "query": "Hint: Please provide an integer answer for the question and include the final number, such as 1, 2, or 3, at the end. \nQuestion: What is the largest root of this function?"
+    },
+    {
+        "pid": "169",
+        "question": "What is the distance between two neighboring major tick marks on the Y-axis?",
+        "query": "Hint: Kindly provide an integer response, such as 1, 2, or 3, at the end of your answer. \nQuestion: What is the distance between two adjacent major ticks on the Y-axis?"
+    },
+    {
+        "pid": "171",
+        "question": "What is the total number of cinnamon rolls?",
+        "query": "Hint: Please provide an integer as your answer, such as 1, 2, or 3, and include the final number at the end.  \nQuestion: What is the total number of cinnamon rolls?"
+    },
+    {
+        "pid": "175",
+        "question": "What is the total accuracy of the liver algorithm across all datasets?",
+        "query": "Hint: Kindly provide an integer as your answer, for example, 1, 2, or 3, at the conclusion.  \nQuestion: What is the total accuracy of the liver algorithm across all datasets?"
+    },
+    {
+        "pid": "180",
+        "question": "Remove all the small brown cylinders and all the small brown items. How many objects remain?",
+        "query": "Hint: Please provide an integer response and state the final number at the end, such as 1, 2, or 3. \nQuestion: Remove all the small brown cylinders. Remove all the small brown items. How many items remain?"
+    },
+    {
+        "pid": "183",
+        "question": "Remove all the brown cubes and all the gray cylinders. How many objects remain?",
+        "query": "Hint: Please provide a whole number as your answer, such as 1, 2, or 3, at the conclusion of your response. \nQuestion: Remove all the brown cubes and all the gray cylinders. How many objects remain?"
+    },
+    {
+        "pid": "184",
+        "question": "How many bars have values less than 0?",
+        "query": "Hint: Kindly provide an integer answer to the question and include the final number, such as 1, 2, or 3, at the end. \nQuestion: What is the total number of bars that have values less than 0?"
+    },
+    {
+        "pid": "187",
+        "question": "What number is displayed?",
+        "query": "Hint: Please provide an integer as your answer, such as 1, 2, or 3, and write the final answer at the end. \nQuestion: What is the number displayed?"
+    },
+    {
+        "pid": "188",
+        "question": "How many methods listed in the table have an A-847 score that exceeds 20.0?",
+        "query": "Hint: Please provide an integer response to the question and include the final number, such as 1, 2, or 3, at the end.  \nQuestion: How many methods listed in the table have an A-847 score that exceeds 20.0?"
+    },
+    {
+        "pid": "189",
+        "question": "What is the minimum accuracy shown in the entire chart?",
+        "query": "Hint: Kindly provide an integer as your answer, for instance, 1, 2, or 3, at the conclusion of your response.  \nQuestion: What is the minimum accuracy shown in the entire chart?"
+    },
+    {
+        "pid": "190",
+        "question": "Adjust the ruler to find the length of the nail measured to the closest inch. The nail is approximately (_) inches long.",
+        "query": "Hint: Kindly give an integer response and indicate the final number at the end, such as 1, 2, or 3. \nQuestion: Adjust the ruler to determine the length of the nail, rounding to the closest inch. The nail measures approximately (_) inches in length."
+    },
+    {
+        "pid": "191",
+        "question": "For how many years is the volume of air carriers in Ethiopia higher than the average volume of air carriers in the country over all the years?",
+        "query": "Hint: Kindly respond to the question that asks for a whole number and include the final answer at the end, for example, 1, 2, 3, etc. \nQuestion: Over how many years does the volume of air carriers in Ethiopia exceed the average volume of air carriers in Ethiopia calculated across all years?"
+    },
+    {
+        "pid": "193",
+        "question": "Remove all red objects and all cylinders. How many objects do you have remaining?",
+        "query": "Hint: Respond with an integer and state the final number at the end, such as 1, 2, or 3. \nQuestion: Remove all red items and all cylindrical objects. How many items remain?"
+    },
+    {
+        "pid": "194",
+        "question": "What is the average capacity of this vehicle in terms of the number of passengers it can accommodate?",
+        "query": "Hint: Kindly provide an integer response to the question and include the final number, such as 1, 2, or 3, at the end.  \nQuestion: What is the average capacity for commuters on this vehicle?"
+    },
+    {
+        "pid": "197",
+        "question": "How many sequences have Influence Scores that are below zero?",
+        "query": "Hint: Kindly provide an integer response to the question and include the final number at the end, such as 1, 2, or 3.  \nQuestion: What is the number of sequences that have negative Influence Scores?"
+    },
+    {
+        "pid": "201",
+        "question": "What is the total of all the values within the border group?",
+        "query": "Hint: Kindly provide an integer as your answer and list the final value at the end, such as 1, 2, or 3.  \nQuestion: What is the total of all the numbers in the border group?"
+    },
+    {
+        "pid": "202",
+        "question": "What is the value of the smallest bar?",
+        "query": "Please respond with an integer value for the question and present your final answer, such as 1, 2, or 3, at the end. The question is: What is the value of the smallest bar?"
+    },
+    {
+        "pid": "204",
+        "question": "\u0686\u0646\u062f \u067e\u0646\u062c\u0631\u0647 \u0628\u062f\u0648\u0646 \u0631\u0646\u06af \u062f\u0631 \u062f\u0631\u0628 \u062f\u0648\u0645 \u0627\u0632 \u0633\u0645\u062a \u0631\u0627\u0633\u062a \u062a\u0635\u0648\u06cc\u0631 \u0648\u062c\u0648\u062f \u062f\u0627\u0631\u062f\u061f",
+        "query": "Hint: Please respond to the question that asks for a whole number and include the final answer at the end, such as 1, 2, or 3.  \nQuestion: How many clear glasses are there in the second door from the right in the image?"
+    },
+    {
+        "pid": "205",
+        "question": "A statistician examined the runs scored by players in the previous season. How many players scored more than 2 runs during that season?",
+        "query": "Hint: Please provide an integer answer to the question and include your final answer at the end, for example, 1, 2, or 3.  \nQuestion: A statistician examined the runs made by players in the last season. How many players scored more than 2 runs during that season?"
+    },
+    {
+        "pid": "207",
+        "question": "What is the total accuracy of the magic and secure algorithms when added together?",
+        "query": "Hint: Kindly provide an integer as your answer, such as 1, 2, or 3, at the end. \nQuestion: What is the total accuracy of the magic and secure algorithms combined?"
+    },
+    {
+        "pid": "208",
+        "question": "What is the age difference between the oldest person on the left and the oldest person on the right?",
+        "query": "Hint: Kindly provide an integer as your answer and include the final result, such as 1, 2, or 3, at the end.  \nQuestion: How many years apart are the youngest and oldest individuals?"
+    },
+    {
+        "pid": "210",
+        "question": "How many individuals in the picture were born after World War II ended?",
+        "query": "Hint: Kindly provide an integer response to this question and include the final number, such as 1, 2, or 3, at the end.  \nQuestion: How many individuals shown in the image were born after World War II ended?"
+    },
+    {
+        "pid": "211",
+        "question": "How many algorithms have an accuracy greater than 2?",
+        "query": "Hint: Provide a complete response with an integer value at the end, such as 1, 2, or 3.  \nQuestion: What is the number of algorithms that have accuracies exceeding 2?"
+    },
+    {
+        "pid": "213",
+        "question": "In what year did Ohio have the lowest per capita real gross domestic product?",
+        "query": "Hint: Please provide an integer answer for the year when Ohio had the lowest per capita real gross domestic product. For example, your final response should be in the form of a number, such as 1, 2, or 3."
+    },
+    {
+        "pid": "214",
+        "question": "In how many years does the percentage of revenue generated from merchandise imports in Canada exceed the average percentage of revenue generated from merchandise imports in Canada across all years?",
+        "query": "Hint: Kindly provide an integer response that represents the number of years in which the percentage of income generated from merchandise imports in Canada exceeds the average percentage for all years combined. Make sure to present the final answer as a whole number, such as 1, 2, or 3, at the end."
+    },
+    {
+        "pid": "215",
+        "question": "Layla went camping and kept track of the miles she hiked each day. What is the difference between the highest and lowest mileage she recorded?",
+        "query": "Hint: Please provide an integer answer and state the final value, for example, 1, 2, or 3, at the conclusion of your response.  \nQuestion: Layla recorded the miles she hiked daily during her camping trip. What is the range of these numbers?"
+    },
+    {
+        "pid": "216",
+        "question": "What percentage of people favor the most popular item in the entire chart?",
+        "query": "Hint: Please provide an integer value as your final answer, such as 1, 2, or 3.  \nQuestion: What percentage of individuals prefer the most liked item in the entire chart?"
+    },
+    {
+        "pid": "217",
+        "question": "What is the degree of this mathematical function?",
+        "query": "Hint: Please respond to the question that asks for an integer and indicate the final result, such as 1, 2, 3 at the end.  \nQuestion: What is the degree of this function?"
+    },
+    {
+        "pid": "218",
+        "question": "Remove all the large red rubber blocks and all the small red matte items. How many objects remain?",
+        "query": "Hint: Please respond to the question that needs a whole number as the answer, and give the final result, such as 1, 2, or 3, at the end.  \nQuestion: Remove all the large red rubber blocks and all the small red matte items. How many objects remain?"
+    },
+    {
+        "pid": "219",
+        "question": "What is the value of the shortest bar?",
+        "query": "Hint: Please provide an integer as your answer, such as 1, 2, or 3, at the end of your response.  \nQuestion: What is the value of the smallest bar?"
+    },
+    {
+        "pid": "222",
+        "question": "Remove all the blue shiny spheres and all the large blue shiny cubes. How many objects remain?",
+        "query": "Hint: Please respond to the question that needs a whole number as the answer and include the final result, such as 1, 2, 3, at the end.  \nQuestion: Remove all the blue shiny spheres and all the large blue shiny cubes. How many objects remain?"
+    },
+    {
+        "pid": "230",
+        "question": "How many algorithms have an accuracy greater than 9 in at least one dataset?",
+        "query": "Hint: Kindly respond with an integer and present the final number, such as 1, 2, or 3, at the conclusion of your answer.  \nQuestion: What is the number of algorithms that achieve an accuracy greater than 9 in at least one dataset?"
+    },
+    {
+        "pid": "233",
+        "question": "Adjust the ruler to find the length of the nail, rounding to the nearest inch. The nail measures approximately (_) inches in length.",
+        "query": "Hint: Kindly provide an integer value as your answer, such as 1, 2, or 3, at the end of your response.  \nQuestion: Adjust the ruler to find the length of the nail rounded to the nearest inch. The length of the nail is approximately (_) inches."
+    },
+    {
+        "pid": "240",
+        "question": "What is the age difference between the two individuals in the picture?",
+        "query": "Please provide an integer response to the question regarding the age difference between the two individuals in the image, measured in years. Conclude with your final answer, such as 1, 2, or 3."
+    },
+    {
+        "pid": "241",
+        "question": "How many models in the table have a size greater than 10 billion parameters?",
+        "query": "Hint: Please provide an integer as your answer, such as 1, 2, or 3, at the end. \nQuestion: What is the number of models listed in the table that have a size greater than 10 billion?"
+    },
+    {
+        "pid": "243",
+        "question": "\u0686\u0646\u062f \u0639\u062f\u062f \u0634\u06cc\u0631\u06cc\u0646\u06cc \u0628\u0627 \u0634\u06a9\u0644 \u0645\u062b\u0644\u062b\u06cc \u062f\u0631 \u062c\u0639\u0628\u0647 \u0648\u062c\u0648\u062f \u062f\u0627\u0631\u062f\u061f",
+        "query": "Hint: Please respond to the question that requires a whole number answer and give the final value, such as 1, 2, or 3, at the end.  \nQuestion: How many triangular-shaped sweets are in the box?"
+    },
+    {
+        "pid": "245",
+        "question": "How much does Damon need to spend to purchase a grilled steak and a mushroom pizza? (Unit: $)",
+        "query": "Hint: Kindly provide an integer response to the question and present the final amount as a whole number, such as 1, 2, or 3, at the end.  \nQuestion: What is the total amount of money Damon needs to purchase a grilled steak and a mushroom pizza? (Unit: $)"
+    },
+    {
+        "pid": "246",
+        "question": "Assuming all gases behave as ideal gases and that the data is based on a temperature of 298 K unless indicated otherwise, the Intergovernmental Panel on Climate Change (IPCC) in 1995 projected that the global average temperature could rise between 1.0 to 3.5 \u00b0C by the year 2100, with 2.0 \u00b0C being the most likely estimate. Since water vapor is also a greenhouse gas, the increase in the amount of water vapor in the atmosphere raises concerns among climate change specialists. Estimate the increase in the amount of water vapor in the atmosphere that would occur with a temperature increase of 2.0 K, assuming that the relative humidity stays the same. The current global average temperature is 290 K, and at this temperature, the equilibrium vapor pressure of water is 0.0189 bar.",
+        "query": "Hint: Please provide an integer answer and state the final value clearly at the end, such as 1, 2, or 3. \n\nQuestion: Consider that all gases behave ideally and that the reference temperature is 298 K unless stated otherwise. The Intergovernmental Panel on Climate Change (IPCC) anticipated in 1995 that the average global temperature could increase by between $1.0$ and $3.5^{\\circ} \\mathrm{C}$ by the year 2100, with a best estimate of $2.0^{\\circ} \\mathrm{C}$. Since water vapor is a greenhouse gas, the rise in water vapor levels in the atmosphere is a significant concern for climate change specialists. Predict the relative increase in water vapor in the atmosphere if the temperature rises by $2.0 \\mathrm{~K}$, while assuming that relative humidity remains constant. Note that the current global mean temperature is $290 \\mathrm{~K}$, and at this temperature, the equilibrium vapor pressure of water is 0.0189 bar."
+    },
+    {
+        "pid": "249",
+        "question": "Remove all the green rubber cubes and all the red matte blocks. How many objects remain?",
+        "query": "Hint: Please respond to the question with an integer that represents the final count, such as 1, 2, or 3, at the end of your answer. \n\nQuestion: Remove all the green rubber cubes and all the red matte blocks. How many objects remain?"
+    },
+    {
+        "pid": "251",
+        "question": "Remove all the green balls and all the shiny objects. How many items remain?",
+        "query": "Hint: Please provide an integer as your answer and present the final number clearly, such as 1, 2, 3, etc., at the end. \n\nQuestion: Remove all the green balls and all the shiny items. How many objects remain?"
+    },
+    {
+        "pid": "253",
+        "question": "What is the number of items that more than 7 people favor in at least one category?",
+        "query": "Hint: Provide the integer answer to the question and include the final number, such as 1, 2, or 3, at the end.  \nQuestion: How many objects are liked by more than 7 people in at least one category?"
+    },
+    {
+        "pid": "258",
+        "question": "A worker at the craft store tallied the quantity of red buttons in each bag of assorted buttons. How many bags contained at least 60 red buttons but less than 81 red buttons?",
+        "query": "Hint: Please respond with an integer value as your answer, such as 1, 2, or 3, at the conclusion of your response.  \nQuestion: An employee at the craft store tallied the number of red buttons in each bag of assorted buttons. How many bags contained at least 60 red buttons but less than 81 red buttons?"
+    },
+    {
+        "pid": "259",
+        "question": "Remove all the large yellow metal blocks and all the gray metallic cylinders. How many objects remain?",
+        "query": "Hint: Please provide an integer answer and state the final number clearly at the end, such as 1, 2, or 3.  \nQuestion: Remove all the large yellow metal blocks and all the gray metal cylinders. How many objects remain?"
+    },
+    {
+        "pid": "261",
+        "question": "What is the age difference between the two individuals in the picture?",
+        "query": "Hint: Kindly provide an integer as your answer to the question and include the final number, such as 1, 2, or 3, at the end.  \nQuestion: How many years apart in age are the two individuals shown in the image?"
+    },
+    {
+        "pid": "262",
+        "question": "What is the difference in the types of TV shows that are most and least watched by women?",
+        "query": "Hint: Please provide an integer answer to the question and present the final value clearly, such as 1, 2, or 3, at the end. \nQuestion: What is the difference in the genres of TV shows viewed by the highest number of females compared to those viewed by the lowest number of females?"
+    },
+    {
+        "pid": "263",
+        "question": "What is the number displayed?",
+        "query": "Hint: Please provide an integer as your answer and include the final result, such as 1, 2, or 3, at the end.  \nQuestion: What number is displayed?"
+    },
+    {
+        "pid": "264",
+        "question": "In Group C, during which week is the total weight increase the greatest?",
+        "query": "Hint: Please provide an integer answer to the question and include the final value, such as 1, 2, or 3, at the end.  \nQuestion: In which week does Group C experience the greatest cumulative weight gain?"
+    },
+    {
+        "pid": "265",
+        "question": "In Justine's physical education class, there was a push-up competition, and she recorded the number of push-ups completed by each participant. How many participants completed 60 or more push-ups? (Unit: number of participants)",
+        "query": "Hint: Respond to the question that asks for a whole number and include the final count, such as 1, 2, or 3, at the conclusion. \nQuestion: In Justine's physical education class, they took part in a push-up competition, and Justine recorded the number of push-ups completed by each student. How many students managed to do at least 60 push-ups? (Unit: students)"
+    },
+    {
+        "pid": "282",
+        "question": "What percentage of the sun is visible?",
+        "query": "Hint: Please provide a numerical answer that is an integer, such as 1, 2, or 3, at the end of your response. \nQuestion: What percentage of the sun is visible?"
+    },
+    {
+        "pid": "284",
+        "question": "What is the accuracy of the algorithm that has the lowest level of accuracy?",
+        "query": "Hint: Please respond to the question that seeks an integer value and present the final result, such as 1, 2, or 3, at the conclusion.  \nQuestion: What is the accuracy of the algorithm that has the lowest accuracy?"
+    },
+    {
+        "pid": "289",
+        "question": "Complete the sentence to explain the model. The model consists of 4 dots that are separated into 2 equal groups. There are (_) dots in each group.",
+        "query": "Hint: Kindly provide an integer value as your answer, such as 1, 2, or 3, at the end. \nQuestion: Complete the sentence about the model. The model consists of 4 dots that are split into 2 equal groups. Each group contains (_) dots."
+    },
+    {
+        "pid": "295",
+        "question": "Complete the sentence to explain the model. The model contains 9 dots that are separated into 3 equal groups. Each group contains (_) dots.",
+        "query": "Hint: Please provide an integer response and state the final number clearly at the end, such as 1, 2, or 3. \nQuestion: Complete the statement about the model. The model consists of 9 dots that are split into 3 equal sections. Each section contains (_) dots."
+    },
+    {
+        "pid": "299",
+        "question": "What is the age difference between the person in the center and the person on the far right?",
+        "query": "Hint: Kindly provide an integer response to the question, indicating just the final number, such as 1, 2, or 3, at the end of your answer. \nQuestion: How many years is the age difference between the person in the center and the oldest person on the right?"
+    },
+    {
+        "pid": "304",
+        "question": "In the diagram above, two line segments intersect at a point on line l. Given that y is equal to the square of x, what is the value of y?",
+        "query": "Hint: Respond to the question that needs an integer answer and include the final result, such as 1, 2, or 3, at the conclusion.  \nQuestion: Referring to the figure above, two line segments intersect at a point on line l. Given that y equals the square of x, what is the value of y?"
+    },
+    {
+        "pid": "305",
+        "question": "What is the number of people who favor the most popular item?",
+        "query": "Hint: Respond to the question that asks for a whole number and include the final numerical answer, such as 1, 2, or 3, at the end.  \nQuestion: What is the number of people who favor the most popular item?"
+    },
+    {
+        "pid": "309",
+        "question": "The movie critic enjoyed keeping track of how many actors were in each film he watched. How many films featured at least 30 actors but less than 47 actors? (Unit: movies)",
+        "query": "Hint: Please respond with an integer answer and include the final number at the end, such as 1, 2, or 3. \nQuestion: The movie reviewer enjoyed tallying the number of actors in each film he viewed. How many films featured at least 30 actors but fewer than 47? (Unit: films)"
+    },
+    {
+        "pid": "311",
+        "question": "How much older or younger is one person compared to the other in the image?",
+        "query": "Hint: Please provide a whole number in response to the question, indicating the age difference between the two individuals in the image, such as 1, 2, or 3, at the end."
+    },
+    {
+        "pid": "313",
+        "question": "How old is the difference between the two individuals in the picture?",
+        "query": "Hint: Kindly provide an integer response to the question and present the final value at the end, such as 1, 2, or 3. \nQuestion: What is the difference in age between the two individuals in the image? (Unit: years)"
+    },
+    {
+        "pid": "317",
+        "question": "What is the age difference between the two individuals in the picture?",
+        "query": "Hint: Respond to the question that asks for a whole number, and be sure to include the final answer, such as 1, 2, or 3, at the end. \nQuestion: What is the age difference between the two individuals in the image? (Unit: years)"
+    },
+    {
+        "pid": "324",
+        "question": "What is the difference between the maximum and minimum values of the dark blue bar?",
+        "query": "Hint: Please provide an integer response to the question and present the final result as a single number, such as 1, 2, or 3, at the conclusion. \nQuestion: What is the difference between the highest and lowest values represented by the dark blue bar?"
+    },
+    {
+        "pid": "326",
+        "question": "Adjust the ruler to find the length of the pencil, rounded to the closest inch. The pencil measures approximately (_) inches in length.",
+        "query": "Hint: Kindly provide an integer response and state the final measurement at the end, such as 1, 2, or 3. \nQuestion: Adjust the ruler to find the length of the pencil rounded to the nearest inch. The pencil is approximately (_) inches in length."
+    },
+    {
+        "pid": "327",
+        "question": "What is the number of items that were sold in fewer than 1 unit at least in one store?",
+        "query": "Hint: Please provide an integer response and include the final value at the end, such as 1, 2, or 3.  \nQuestion: How many items had sales of less than 1 unit in at least one store?"
+    },
+    {
+        "pid": "328",
+        "question": "What is the total accuracy of the candy algorithm across all datasets?",
+        "query": "Hint: Please provide a whole number as your answer and include the final answer at the end, such as 1, 2, or 3. \nQuestion: What is the total accuracy of the Candy algorithm across all datasets?"
+    },
+    {
+        "pid": "330",
+        "question": "Remove all the small cubes and all the brown balls. How many objects remain?",
+        "query": "Hint: Please provide an integer as your final answer, such as 1, 2, 3, etc. \nQuestion: Remove all the small cubes and all the brown balls. How many objects remain?"
+    },
+    {
+        "pid": "331",
+        "question": "A group of individuals shared the number of web pages they had visited. What is the average of these numbers?",
+        "query": "Hint: Please provide an integer answer for the question and include the final value at the end, such as 1, 2, or 3. \nQuestion: A group of individuals shared how many web pages they had visited. What is the average of those numbers?"
+    },
+    {
+        "pid": "332",
+        "question": "A taxi driver recorded the number of miles he drove each month. What was the total distance he drove in January and April? (Unit: miles)",
+        "query": "Hint: Provide an integer response and present the final total, such as 1, 2, or 3, at the end.  \nQuestion: A taxi driver recorded the number of miles driven each month. What is the total mileage for January and April combined? (Unit: miles)"
+    },
+    {
+        "pid": "335",
+        "question": "Remove all the large brown matte balls and all the blue cylinders. How many objects remain?",
+        "query": "Hint: Please provide an integer as your answer, such as 1, 2, or 3, at the end. \nQuestion: Remove all the large brown matte balls and all the blue cylinders. What is the total number of objects remaining?"
+    },
+    {
+        "pid": "336",
+        "question": "What is the value of the tallest single bar in the entire chart?",
+        "query": "Hint: Kindly provide an integer response to the question, making sure to include the final number, such as 1, 2, or 3, at the end. \nQuestion: What is the value of the tallest bar in the entire chart?"
+    },
+    {
+        "pid": "343",
+        "question": "If you remove all the small purple metallic spheres and all the small purple objects, how many items remain?",
+        "query": "Hint: Please solve the question that needs an integer response and include the final number, such as 1, 2, or 3, at the end. \nQuestion: Remove all the small purple metallic spheres and all small purple objects. How many items remain?"
+    },
+    {
+        "pid": "345",
+        "question": "What is the total number of kites?",
+        "query": "Hint: Kindly respond with a whole number and include the final answer at the end, such as 1, 2, 3, etc.  \nQuestion: What is the total number of kites?"
+    },
+    {
+        "pid": "346",
+        "question": "What is the value of the y-intercept for this function?",
+        "query": "Hint: Please provide a whole number as your final answer, such as 1, 2, or 3. \nQuestion: What is the y-intercept of this function?"
+    },
+    {
+        "pid": "350",
+        "question": "Adjust the ruler to determine the length of the line, rounding to the nearest centimeter. The length of the line is approximately (_) centimeters.",
+        "query": "Hint: Please provide an integer as your answer and include it at the end, such as 1, 2, or 3.  \nQuestion: Adjust the ruler to determine the length of the line, rounding to the nearest centimeter. The line measures approximately (_) centimeters."
+    },
+    {
+        "pid": "352",
+        "question": "What is the capacity of the smaller vehicle in terms of the number of people it can hold?",
+        "query": "Hint: Please provide a whole number as your answer, such as 1, 2, or 3, at the end.  \nQuestion: What is the maximum number of people that can be accommodated in the smaller vehicle?"
+    },
+    {
+        "pid": "354",
+        "question": "How many algorithms have an accuracy greater than 90%?",
+        "query": "Hint: Please provide an integer as your answer, such as 1, 2, or 3, at the end of your response.\nQuestion: What is the total number of algorithms that have accuracies exceeding 90?"
+    },
+    {
+        "pid": "359",
+        "question": "Kylie spent a week at the beach and kept track of how many shells she found each day. Based on the table, what is the change in the number of shells found from Thursday to Friday? (Unit: shells per day)",
+        "query": "Hint: Please provide an integer value as your answer at the end, such as 1, 2, or 3. \nQuestion: Kylie collected shells at the beach for a week and noted the number she found each day. Based on the table, what was the change in the number of shells from Thursday to Friday? (Express your answer in shells per day.)"
+    },
+    {
+        "pid": "362",
+        "question": "Remove all the cyan cylinders and all the small purple rubber items. How many objects remain?",
+        "query": "Hint: Please respond with an integer and include the final number, such as 1, 2, or 3, at the end of your answer. \nQuestion: Remove all the cyan cylinders and all the small purple rubber items. How many objects remain?"
+    },
+    {
+        "pid": "363",
+        "question": "If you remove all the small gray metal blocks and all the purple items, how many objects remain?",
+        "query": "Hint: Please provide an integer answer to the question and state the final value, such as 1, 2, or 3 at the end. \nQuestion: Remove all small gray metal blocks and all purple items. How many objects remain?"
+    },
+    {
+        "pid": "365",
+        "question": "How many objects remain after removing all the large yellow metallic spheres and all the small metallic items?",
+        "query": "Hint: Please provide an integer as your answer, such as 1, 2, or 3, at the end. \nQuestion: Remove all the large yellow metal spheres and all the small metal objects. How many items remain?"
+    },
+    {
+        "pid": "366",
+        "question": "How old is the difference between the two individuals in the image?",
+        "query": "Hint: Kindly provide an integer response for the age difference between the two individuals in the image, and ensure to present the final answer as a whole number, such as 1, 2, or 3, at the end."
+    },
+    {
+        "pid": "367",
+        "question": "What is the age difference between the two individuals in this image?",
+        "query": "Hint: Kindly provide the integer value that represents the age difference between the two individuals in the image, such as 1, 2, or 3, at the end of your response. \nQuestion: How many years apart in age are the two people shown in the image?"
+    },
+    {
+        "pid": "372",
+        "question": "Remove all the small gray spheres and all the cylinders. How many objects remain?",
+        "query": "Hint: Kindly provide an integer as your final answer, such as 1, 2, or 3. \nQuestion: Remove all the small gray spheres and all the cylinders. How many objects remain?"
+    },
+    {
+        "pid": "374",
+        "question": "What is the combined accuracy of the calf and ivory algorithms?",
+        "query": "Hint: Kindly provide the integer result for the question, such as 1, 2, or 3, at the conclusion of your response. \nQuestion: What is the total of the accuracies of the calf and ivory algorithms?"
+    },
+    {
+        "pid": "376",
+        "question": "Remove all the purple matte cubes and all the tiny gray metal cubes. How many objects remain?",
+        "query": "Please calculate the remaining number of objects after removing all the purple matte cubes and all the small gray metal cubes. Provide the final answer as an integer, such as 1, 2, or 3."
+    },
+    {
+        "pid": "380",
+        "question": "For how many years has the percentage value been greater than 4?",
+        "query": "Hint: Please provide an integer response to the question and include the final answer at the end, such as 1, 2, or 3. \nQuestion: How many years did the percentage exceed 4?"
+    },
+    {
+        "pid": "384",
+        "question": "How many individuals in the picture were born after World War II ended?",
+        "query": "Hint: Kindly respond with an integer representing the final count, such as 1, 2, or 3, at the conclusion of your answer.  \nQuestion: How many individuals in the picture were born after World War II ended?"
+    },
+    {
+        "pid": "387",
+        "question": "What percentage of the four balls in the picture are on the ground?",
+        "query": "Hint: Please provide an integer answer and state the final value clearly at the end, for example, 1, 2, 3, etc.  \nQuestion: Out of the four balls shown in the photo, what percentage of them are on the ground?"
+    },
+    {
+        "pid": "392",
+        "question": "Mr. Huffman, a physical education teacher, recorded the maximum weights his students could lift. How many students were able to lift at least 46 pounds? (Unit: number of students)",
+        "query": "Hint: Please provide a whole number as your answer, such as 1, 2, or 3, at the end of your response. \nQuestion: Mr. Huffman, who teaches physical education, recorded the weight that each of his students is capable of lifting. How many students were able to lift a minimum of 46 pounds? (Unit: students)"
+    },
+    {
+        "pid": "393",
+        "question": "What is the difference in value between the tallest and the shortest dark blue bar?",
+        "query": "Hint: Please respond with an integer value that indicates the answer to the question, such as 1, 2, or 3, at the end. \nQuestion: What is the difference in height between the tallest and shortest dark blue bar?"
+    },
+    {
+        "pid": "395",
+        "question": "What is the average age of the individuals in this photo?",
+        "query": "Hint: Kindly provide an integer response to the question and include the final answer at the end, such as 1, 2, or 3.  \nQuestion: What is the average age of the individuals in this image?"
+    },
+    {
+        "pid": "398",
+        "question": "What is the age difference between the two individuals in the image?",
+        "query": "Hint: Kindly provide an integer as your answer, such as 1, 2, or 3, at the conclusion of your response. \nQuestion: What is the difference in age between the two individuals shown in the image? (Unit: years)"
+    },
+    {
+        "pid": "399",
+        "question": "What is the total length around the shape?",
+        "query": "Please provide an integer response to the question regarding the perimeter of the shape, and include the final answer, such as 1, 2, or 3, at the end."
+    },
+    {
+        "pid": "401",
+        "question": "What is the value of the lowest individual bar in the entire chart?",
+        "query": "Hint: Please provide an integer response to the question and include the final answer as a single number, such as 1, 2, or 3, at the end. \nQuestion: What is the value of the smallest single bar in the entire chart?"
+    },
+    {
+        "pid": "405",
+        "question": "What is the age difference between the two individuals shown in the image?",
+        "query": "Hint: Kindly provide an integer answer to the question and state the final value at the end, for example, 1, 2, or 3. \nQuestion: How many years apart in age are the two individuals shown in the image?"
+    },
+    {
+        "pid": "406",
+        "question": "What is the total number of snowmen?",
+        "query": "Hint: Kindly provide an integer as your answer, such as 1, 2, or 3, at the end of your response. \nQuestion: What is the total number of snowmen?"
+    },
+    {
+        "pid": "409",
+        "question": "What is the measurement of the radius of this circle?",
+        "query": "Hint: Please provide an integer answer to the question and state the final value clearly at the end, for example, 1, 2, 3. \nQuestion: What is the radius of this circle?"
+    },
+    {
+        "pid": "411",
+        "question": "What is the yearly average percentage of the population that has access to electricity?",
+        "query": "Hint: Provide your answer as a whole number and include the final result at the end, such as 1, 2, or 3.  \nQuestion: What is the yearly average percentage of the population that has access to electricity?"
+    },
+    {
+        "pid": "415",
+        "question": "What was the average yearly salary in the Slovak Republic in 2019?",
+        "query": "Hint: Be sure to provide an integer response to the question and include the final number, such as 1, 2, or 3, at the end. \nQuestion: What was the average yearly salary in the Slovak Republic in 2019?"
+    },
+    {
+        "pid": "416",
+        "question": "What is the maximum volume indicated on the blender?",
+        "query": "Hint: Please respond with an integer value as your answer, and make sure to present the final number, such as 1, 2, or 3, at the end. \nQuestion: What is the maximum volume indicated on the blender?"
+    },
+    {
+        "pid": "417",
+        "question": "How old is the difference between the two individuals in the picture?",
+        "query": "Hint: Please provide an integer as your answer, such as 1, 2, or 3, at the end of your response.  \nQuestion: How many years apart in age are the two individuals in the image?"
+    },
+    {
+        "pid": "421",
+        "question": "An elevator with a mass of 500 kg is moving downward at a speed of 4.0 m/s when its supporting cable starts to slip. This causes the elevator to fall with a steady acceleration that is one-fifth of the acceleration due to gravity. While the elevator falls 12 meters, how much work is done on it by the upward tension from the elevator cable?",
+        "query": "Hint: Please provide an integer as the answer to the question, and state the final result, such as 1, 2, or 3, at the end."
+    },
+    {
+        "pid": "422",
+        "question": "What is the value of the shortest bar?",
+        "query": "Hint: Kindly provide an integer answer to the question and state the final value at the end, such as 1, 2, or 3. \nQuestion: What is the value of the shortest bar?"
+    },
+    {
+        "pid": "427",
+        "question": "What is the number of people who favor the most popular item?",
+        "query": "Hint: Provide a whole number in response to the question, such as 1, 2, or 3, at the end.  \nQuestion: What is the number of people who favor the most liked item?"
+    },
+    {
+        "pid": "428",
+        "question": "How much older or younger is one person compared to the other in the image?",
+        "query": "Hint: Kindly provide an integer response to the question and include the final result, such as 1, 2, or 3, at the end. \nQuestion: How many years apart are the ages of the two individuals in the image?"
+    },
+    {
+        "pid": "429",
+        "question": "What fraction of individuals favor the least liked item?",
+        "query": "Hint: Kindly provide an integer answer to the question and state the final value, for example, 1, 2, 3, at the end.  \nQuestion: What percentage of individuals prefer the object that is least favored?"
+    },
+    {
+        "pid": "432",
+        "question": "In how many years does the percentage of undernourished male children exceed 0.4%?",
+        "query": "Please answer the question with a whole number and state the final answer at the end, such as 1, 2, or 3. The question is asking how many years it will take for the percentage of undernourished male children to exceed 0.4%."
+    },
+    {
+        "pid": "433",
+        "question": "What is the age difference between the two individuals in the image?",
+        "query": "Hint: Please respond to the question that asks for an integer answer, and include the final number, such as 1, 2, or 3, at the end. \nQuestion: What is the difference in age between the two individuals in the image? (Unit: years)"
+    },
+    {
+        "pid": "435",
+        "question": "Over how many years does the percentage of employed women who are not in school exceed the average percentage of employed women not in school calculated across all years?",
+        "query": "Hint: Please provide a whole number as your answer and state the final result clearly, such as 1, 2, or 3, at the end. \nQuestion: How many years show that the percentage of employed females not attending school exceeds the average percentage of employed females not attending school across all years?"
+    },
+    {
+        "pid": "436",
+        "question": "How many algorithms have an accuracy of less than 8 on at least one dataset?",
+        "query": "Hint: Respond to the question that requires a whole number and include the final answer, such as 1, 2, 3, etc., at the conclusion. \nQuestion: What is the count of algorithms that have an accuracy of less than 8 in at least one dataset?"
+    },
+    {
+        "pid": "437",
+        "question": "In Figure Q3, there is a section of the transmission phase of a TCP connection. Given that the IP header is 20 bytes long, what is the acknowledgment (ACK) number for message 6?",
+        "query": "Hint: Kindly provide an integer response and state your final answer at the end, such as 1, 2, or 3.  \nQuestion: In Figure Q3, you can see a portion of the TCP connection's transmission phase. Given that the IP header is 20 bytes long, what is the acknowledgment number for message 6?"
+    },
+    {
+        "pid": "438",
+        "question": "What is the age difference between the two individuals in the image?",
+        "query": "Hint: Kindly provide an integer as your answer, such as 1, 2, or 3, and include the final number at the end.\nQuestion: How many years apart are the ages of the two individuals in the image?"
+    },
+    {
+        "pid": "441",
+        "question": "What is the total length around the shape?",
+        "query": "Hint: Kindly provide a whole number as your response and include the final value, such as 1, 2, or 3, at the end of your answer. \nQuestion: What is the total distance around the shape?"
+    },
+    {
+        "pid": "442",
+        "question": "How many items are liked by more than 7 individuals in at least one category?",
+        "query": "Hint: Kindly provide an integer response to the question and state the final number at the end, such as 1, 2, or 3. \nQuestion: What is the number of items that are favored by more than 7 individuals in at least one category?"
+    },
+    {
+        "pid": "444",
+        "question": "What distinguishes the two genders from each other?",
+        "query": "Hint: Provide an integer as your answer and state the final value clearly, such as 1, 2, or 3. \nQuestion: How do the two genders differ?"
+    },
+    {
+        "pid": "448",
+        "question": "In which year did urban secondary schools in India have the highest percentage of access to electricity?",
+        "query": "Hint: Kindly provide a numerical response to the question that requires an integer, and list the final number at the end, such as 1, 2, or 3.  \nQuestion: In which year did India have the highest percentage of urban secondary schools with electricity access?"
+    },
+    {
+        "pid": "449",
+        "question": "What is the average fuel efficiency of motorcycles on the highway, measured in miles per gallon?",
+        "query": "Hint: Please respond to the question that requires a whole number as an answer, and present the final value clearly, such as 1, 2, or 3 at the end. \nQuestion: What is the average motorcycle's fuel efficiency in miles per gallon when driving on the highway?"
+    },
+    {
+        "pid": "453",
+        "question": "Adjust the ruler to determine the length of the line, rounding to the nearest centimeter. The line is approximately (_) centimeters in length.",
+        "query": "Hint: Please provide your answer as a whole number and include that final value at the end, for example, 1, 2, 3, etc.  \nQuestion: Use the ruler to find the length of the line, rounding to the closest centimeter. The line is approximately (_) centimeters long."
+    },
+    {
+        "pid": "454",
+        "question": "What is the value of the lowest bar in the entire chart?",
+        "query": "Hint: Kindly respond with an integer and give the final answer at the end, such as 1, 2, or 3.  \nQuestion: What is the value of the lowest individual bar in the entire chart?"
+    },
+    {
+        "pid": "457",
+        "question": "What is the number displayed?",
+        "query": "Please provide an integer answer to the question, and be sure to include the final value, such as 1, 2, or 3, at the end. \nQuestion: What is the displayed number?"
+    },
+    {
+        "pid": "458",
+        "question": "What is the total sum when you add the two visible numbers on the jerseys?",
+        "query": "Hint: Please provide a whole number as your answer. For example, if the answer is 1, 2, or 3, please state that final value at the end. \nQuestion: What is the total sum when you add the two numbers that are visible on the jerseys?"
+    },
+    {
+        "pid": "459",
+        "question": "Remove all the large cyan matte balls and all the tiny shiny objects. How many objects remain?",
+        "query": "Hint: Please provide an integer response as your final answer, such as 1, 2, or 3. \nQuestion: Remove all the large cyan matte balls and all the tiny shiny objects. How many objects remain?"
+    },
+    {
+        "pid": "461",
+        "question": "An audio compression method called a perceptual audio codec processes audio signals by dividing them into groups of four parts called \"barks,\" which are then categorized into subbands. The codec assigns bits to each subband based on an analysis of the spectrum, using a psychoacoustic model. All samples within a subband are quantized using the same quantization method, with the number of bits determined by the codec. The Bark scale is a psychological scale introduced by Eberhard Zwicker in 1961. Figure Q1a displays the frequency spectrum of a section of audio after being processed. Figure Q1b shows the psychoacoustic model used within the audio codec to establish the masking threshold for the audio segment. How many potential maskers can be identified in Figure Q1a?",
+        "query": "Hint: Please provide a whole number as your answer, such as 1, 2, or 3, at the end.  \nQuestion: A perceptual audio codec compresses audio signals by grouping every 4 barks into a subband and distributing bits to these subbands based on a psychoacoustic model's spectrum analysis. All samples within a subband share the same quantizer whose bit resolution is determined by the codec. (The Bark scale, introduced by Eberhard Zwicker in 1961, is a scale used in psychoacoustics.) Figure Q1a illustrates the frequency spectrum of a segment of audio, while Figure Q1b presents the psychoacoustic model utilized by the codec to determine the masking threshold for this audio segment. How many potential maskers are depicted in Figure Q1a?"
+    },
+    {
+        "pid": "462",
+        "question": "How many bars have values that exceed 100?",
+        "query": "Please provide the total number of bars that have values exceeding 100, and present the final count as an integer, such as 1, 2, or 3."
+    },
+    {
+        "pid": "463",
+        "question": "Remove all the large gray objects and all the small brown metallic balls. How many objects remain?",
+        "query": "Hint: Provide your final answer as a whole number, for example, 1, 2, or 3. \nQuestion: Remove all large gray items and all small brown metal balls. How many objects remain?"
+    },
+    {
+        "pid": "468",
+        "question": "What is the number of people who favor the most popular item?",
+        "query": "Hint: Please respond to the question that asks for a whole number and include the final answer at the end, such as 1, 2, or 3. \nQuestion: What is the number of people who favor the most preferred item?"
+    },
+    {
+        "pid": "471",
+        "question": "Lily and her friends kept track of their scores while playing a board game. What was the score that the most people achieved?",
+        "query": "Hint: Kindly provide an integer response to the question and state the final number at the end, such as 1, 2, or 3. \nQuestion: While playing a board game, Lily and her friends noted their scores. What score was achieved by the highest number of players?"
+    },
+    {
+        "pid": "472",
+        "question": "Complete the sentence to describe the model: The model contains 9 dots that are separated into 3 equal groups. Each group has (_) dots.",
+        "query": "Hint: Please provide an integer as your final answer, such as 1, 2, or 3. \nQuestion: Complete the statement about the model. The model consists of 9 dots that are split into 3 equal groups. Each group contains (_) dots."
+    },
+    {
+        "pid": "473",
+        "question": "How much older or younger is one person compared to the other in the image?",
+        "query": "Hint: Please provide an integer as your final answer, such as 1, 2, or 3. \nQuestion: How many years apart are the ages of the two individuals in the image?"
+    },
+    {
+        "pid": "474",
+        "question": "What is the average fuel efficiency of a city bus in miles per gallon?",
+        "query": "Hint: Kindly provide a whole number as your answer and include that final number, such as 1, 2, or 3, at the end. \nQuestion: What is the average fuel efficiency of a city bus in miles per gallon?"
+    },
+    {
+        "pid": "475",
+        "question": "Adjust the ruler to determine the length of the line, rounding to the nearest centimeter. The line is approximately (_) centimeters long.",
+        "query": "Hint: Kindly provide the answer as an integer, such as 1, 2, or 3, and include the final value at the end.  \nQuestion: Adjust the ruler to find the length of the line rounded to the closest centimeter. The length of the line is approximately (_) centimeters."
+    },
+    {
+        "pid": "481",
+        "question": "How much older or younger is one person compared to the other in the image?",
+        "query": "Hint: Please respond with an integer value that represents the age difference between the two individuals in the image. For example, your final answer should simply be a number like 1, 2, or 3. \nQuestion: How many years apart are the ages of the two people shown in the image?"
+    },
+    {
+        "pid": "484",
+        "question": "Complete the statement about the model: The model consists of 9 dots divided into 3 equal groups. There are (_) dots in each group.",
+        "query": "Hint: Provide an integer as your answer and state the final number at the end, such as 1, 2, or 3. \nQuestion: Complete the sentence about the model. The model consists of 9 dots that are evenly divided into 3 groups. Each group contains (_) dots."
+    },
+    {
+        "pid": "488",
+        "question": "Remove all brown items and all small blue metallic objects. How many objects remain?",
+        "query": "Hint: Respond to the question that calls for a whole number and present the final answer, like 1, 2, 3, at the conclusion.  \nQuestion: Remove all brown items and all small blue metallic objects. How many items remain?"
+    },
+    {
+        "pid": "489",
+        "question": "In trapezoid ABCD, with sides AB measuring 24, AD measuring 23, and BC measuring 16, what is the length of side CD?",
+        "query": "Hint: Please provide an integer answer to the question and include the final value, such as 1, 2, or 3, at the end.  \nQuestion: In trapezoid ABCD, with sides AB measuring 24, AD measuring 23, and BC measuring 16, what is the length of segment CD?"
+    },
+    {
+        "pid": "494",
+        "question": "Adjust the ruler to find the length of the line, rounding to the closest centimeter. The line is approximately (_) centimeters long.",
+        "query": "Hint: Please provide an integer response and include the final number, such as 1, 2, 3, at the end.  \nQuestion: Adjust the ruler to measure the length of the line to the closest centimeter. The line is approximately (_) centimeters long."
+    },
+    {
+        "pid": "496",
+        "question": "What is the value of the least individual bar in the entire chart?",
+        "query": "Please provide the integer value representing the smallest individual bar in the entire chart and include the final answer at the end, such as 1, 2, or 3."
+    },
+    {
+        "pid": "497",
+        "question": "What is the value of the highest bar?",
+        "query": "Hint: Please respond with an integer value and present the final answer, such as 1, 2, or 3, at the conclusion. \nQuestion: What is the value of the tallest bar?"
+    },
+    {
+        "pid": "500",
+        "question": "What is the age difference between the two individuals in the picture?",
+        "query": "Hint: Kindly provide a whole number as your answer, such as 1, 2, or 3, at the end of your response. \nQuestion: What is the difference in age between the two individuals in the image? (Unit: years)"
+    },
+    {
+        "pid": "501",
+        "question": "Remove all large red rubber cylinders and all blue items. How many objects remain?",
+        "query": "Hint: Please provide a whole number as your answer, such as 1, 2, or 3, at the end of your response.  \nQuestion: Remove all large red rubber tubes. Remove all blue items. How many items remain?"
+    },
+    {
+        "pid": "503",
+        "question": "How many years apart in age are the person on the far left and the person in the center?",
+        "query": "Hint: Kindly provide a whole number in your response as the final answer, such as 1, 2, or 3. \nQuestion: What is the age difference in years between the person on the far left and the person in the middle?"
+    },
+    {
+        "pid": "508",
+        "question": "The owner of a bed and breakfast remembered the number of guests the inn had each day. What is the median of those numbers?",
+        "query": "Hint: Kindly provide an integer as your final answer, such as 1, 2, or 3.  \nQuestion: The proprietor of a bed and breakfast remembered the number of guests the inn received each day. What is the median of those numbers?"
+    },
+    {
+        "pid": "511",
+        "question": "What is the number of people who favor the most popular item in the entire chart?",
+        "query": "Hint: Please respond with a whole number and include the final answer at the end, such as 1, 2, or 3. \nQuestion: What is the total number of people who favor the most popular item in the entire chart?"
+    },
+    {
+        "pid": "517",
+        "question": "At Bloomington Consulting, the human resources director analyzed how the number of employees receiving health care benefits changed due to policy modifications. Based on the provided table, what was the change in the number of employees between 2014 and 2015? (Measured in employees per year)",
+        "query": "Hint: Kindly provide a whole number as your answer at the end, such as 1, 2, or 3.  \nQuestion: At Bloomington Consulting, the head of human resources analyzed how the number of employees receiving health care benefits changed due to policy adjustments. Based on the provided table, what was the change in this number from 2014 to 2015? (Unit: employees per year)"
+    },
+    {
+        "pid": "518",
+        "question": "How much older is one person compared to the other in the image?",
+        "query": "Hint: Kindly provide an integer response as your answer, such as 1, 2, or 3, at the end. \nQuestion: What is the difference in age between the two individuals in the image? (Unit: years)"
+    },
+    {
+        "pid": "519",
+        "question": "How many triangles can you identify in the image?",
+        "query": "Hint: Please respond with an integer as your answer and include the final number, such as 1, 2, or 3, at the end. \nQuestion: What is the total number of triangles visible in the image?"
+    },
+    {
+        "pid": "522",
+        "question": "Adjust the ruler to find the length of the line, rounding to the closest centimeter. The line measures approximately (_) centimeters in length.",
+        "query": "Hint: Kindly provide an integer value as your answer, such as 1, 2, or 3, at the end of your response. \nQuestion: Adjust the ruler to determine the length of the line and round it to the nearest centimeter. The line measures approximately (_) centimeters in length."
+    },
+    {
+        "pid": "524",
+        "question": "The Kingwood Ski Resort inquired of its visitors about the number of times they went sledding during the previous winter. How many guests went sledding more than two times?",
+        "query": "Hint: Kindly respond to the question that needs a whole number answer and present the final result, such as 1, 2, or 3, at the end. \nQuestion: The Kingwood Ski Resort surveyed its visitors about how many times they went sledding during the last winter season. What is the number of guests who went sledding more than twice?"
+    },
+    {
+        "pid": "525",
+        "question": "What is the smallest value indicated on the X-axis of the first graph?",
+        "query": "Hint: Kindly provide an integer response to the question and state the final number at the end, such as 1, 2, or 3. \nQuestion: What is the smallest number displayed on the X-axis of the first graph?"
+    },
+    {
+        "pid": "529",
+        "question": "Which number is indicated by the shorter arrow?",
+        "query": "Hint: Kindly provide an integer as your answer and state the final value clearly at the end, such as 1, 2, or 3.  \nQuestion: What number is indicated by the smaller arrow?"
+    },
+    {
+        "pid": "530",
+        "question": "The advertising agency tallied the number of billboards in every city within the state. How many cities have less than 70 billboards? (Unit: cities)",
+        "query": "Hint: Please respond with an integer and include the final count at the end, such as 1, 2, or 3.\nQuestion: The advertising agency tallied the number of billboards in each city within the state. How many cities have less than 70 billboards? (Unit: cities)"
+    },
+    {
+        "pid": "533",
+        "question": "Remove all the small cyan cubes and all the large yellow rubber cubes. How many objects remain?",
+        "query": "Hint: Please respond with an integer value as your final answer, such as 1, 2, 3, etc.  \nQuestion: Remove all of the small cyan cubes and all of the large yellow rubber cubes. How many objects remain?"
+    },
+    {
+        "pid": "534",
+        "question": "In how many years did the percentage of stunted female children exceed the average percentage of stunted female children across all years?",
+        "query": "Hint: Please respond with an integer value that represents the number of years in which the percentage of stunted female children exceeds the average percentage of stunted female children calculated across all years. Provide your final answer as a single integer, such as 1, 2, or 3."
+    },
+    {
+        "pid": "535",
+        "question": "What is the value of the lowest individual bar in the entire chart?",
+        "query": "Hint: Kindly provide an integer answer to the question and present the final number at the end, for example, 1, 2, or 3.  \nQuestion: What is the value of the smallest individual bar in the entire chart?"
+    },
+    {
+        "pid": "542",
+        "question": "How many models shown in the figure have an accuracy score above 60?",
+        "query": "Hint: Answer the question by providing an integer value, such as 1, 2, or 3, at the end of your response. \nQuestion: What is the number of models shown in the figure that have an Acc score higher than 60?"
+    },
+    {
+        "pid": "544",
+        "question": "What is the overall percentage of individuals in the United States, as of April 2020, who reported exercising either less or more frequently than usual during the coronavirus pandemic?",
+        "query": "Hint: Kindly provide an integer as your answer at the end, for example: 1, 2, or 3. \nQuestion: What percentage of individuals reported exercising either less or more frequently than normal during the coronavirus pandemic in the United States as of April 2020?"
+    },
+    {
+        "pid": "546",
+        "question": "What is the total ratio of males to females?",
+        "query": "Hint: Please respond with a whole number as your final answer, such as 1, 2, or 3.  \nQuestion: What is the total proportion of males to females?"
+    },
+    {
+        "pid": "550",
+        "question": "What is the accuracy of the algorithm that has the best performance?",
+        "query": "Hint: Please provide an integer answer indicating the accuracy of the algorithm that achieves the highest accuracy. For example, your final answer should simply be in the form of a single number, like 1, 2, or 3."
+    },
+    {
+        "pid": "551",
+        "question": "What is the difference between the highest number of tattoos among males and the lowest number of tattoos among females?",
+        "query": "Hint: Please provide an integer response to the question and include the final answer, such as 1, 2, 3, at the end. \nQuestion: What is the difference between the highest number of tattoos among males and the lowest number of tattoos among females?"
+    },
+    {
+        "pid": "552",
+        "question": "What is the number of queries that have a p-value less than 0.50?",
+        "query": "Hint: Please provide an integer response to the question, such as 1, 2, or 3, as your final answer. \nQuestion: What is the number of queries with a p-value less than 0.50?"
+    },
+    {
+        "pid": "558",
+        "question": "What is the value of the tallest bar?",
+        "query": "Hint: Please provide a whole number as your answer, such as 1, 2, or 3, at the end. \nQuestion: What is the value of the tallest bar?"
+    },
+    {
+        "pid": "559",
+        "question": "What is the largest number displayed on the black outer edge of the watch?",
+        "query": "Hint: Please respond with an integer as the answer and include the final value, such as 1, 2, 3, at the end.  \nQuestion: What is the largest number displayed on the black outer section of the watch?"
+    },
+    {
+        "pid": "562",
+        "question": "Remove all the small green cubes and all the large cylinders. How many objects remain?",
+        "query": "Hint: Provide a whole number as your answer, such as 1, 2, or 3, at the end.  \nQuestion: Remove all the small green cubes and all the large cylinders. How many objects remain?"
+    },
+    {
+        "pid": "564",
+        "question": "What is the difference between the longest and shortest time needed for importing?",
+        "query": "Hint: Please respond with an integer value and include the final number, for example, 1, 2, 3, at the end. \nQuestion: What is the difference between the maximum and minimum time needed for the import?"
+    },
+    {
+        "pid": "567",
+        "question": "Adjust the ruler to find the length of the slug, rounding to the nearest inch. The slug measures approximately (_) inches in length.",
+        "query": "Hint: Provide an integer response to the question and state the final value at the end, such as 1, 2, or 3.  \nQuestion: Use the ruler to find the length of the slug rounded to the closest inch. The slug measures approximately (_) inches in length."
+    },
+    {
+        "pid": "568",
+        "question": "In an economics project, Colleen calculated the prices of ferry rides for bicycles and cars. What is the difference in fare for a car on the Mukilteo-Clinton ferry compared to the Southport-Fort Fisher ferry? (Unit: $)",
+        "query": "Hint: Please provide an integer answer to the question and include the final value, such as 1, 2, or 3, at the end. \nQuestion: As part of her economics project, Colleen calculated the fare differences for ferry rides with bicycles and cars. What is the difference in fare between a car on the Mukilteo-Clinton ferry and the Southport-Fort Fisher ferry? (Unit: $)"
+    },
+    {
+        "pid": "569",
+        "question": "Which subject had the highest pulse rate during the baseline period?",
+        "query": "Hint: Please provide a whole number as your final answer, such as 1, 2, or 3. \nQuestion: Which subject exhibited the highest pulse rate during the baseline period?"
+    },
+    {
+        "pid": "570",
+        "question": "Remove all the purple matte blocks and all the brown items. How many objects remain?",
+        "query": "Hint: Please provide an integer answer to the question and present the final result, such as 1, 2, or 3, at the end. \nQuestion: Remove all purple matte blocks and all brown items. How many objects remain?"
+    },
+    {
+        "pid": "572",
+        "question": "At what point does the function begin to decline?",
+        "query": "Hint: Please provide an integer response for the question and include the final number at the end, such as 1, 2, or 3. \nQuestion: At what point does the function begin to decrease?"
+    },
+    {
+        "pid": "573",
+        "question": "A race car driver recorded the number of laps he drove over the last 5 days. What is the most frequently occurring number of laps?",
+        "query": "Hint: Please provide an integer response to the question and state the final value at the end, such as 1, 2, or 3. \nQuestion: A race car driver recorded the number of laps he completed over the last 5 days. What is the most frequently occurring number among those?"
+    },
+    {
+        "pid": "577",
+        "question": "Given the following matrices:\n$$\n\\mathbf{A}=\\begin{pmatrix}\n1 & 2 & -1 \\\\\n0 & 3 & 1 \\\\\n2 & 0 & 1\n\\end{pmatrix}, \\quad \n\\mathbf{B}=\\begin{pmatrix}\n2 & 1 & 0 \\\\\n0 & -1 & 2 \\\\\n1 & 1 & 3\n\\end{pmatrix}\n$$\nCalculate the determinant of the product of matrices \\( \\mathbf{A} \\) and \\( \\mathbf{B} \\), denoted as \\( |\\mathbf{A B}| \\).",
+        "query": "Hint: Please provide an integer answer to the question and make sure to state the final result clearly, such as 1, 2, or 3 at the end."
+    },
+    {
+        "pid": "578",
+        "question": "What is the displayed number?",
+        "query": "Hint: Please give an integer as your response and include the final number, such as 1, 2, or 3, at the end.  \nQuestion: What is the displayed number?"
+    },
+    {
+        "pid": "579",
+        "question": "What is the yearly average of documents needed for each shipment to export goods from Uganda?",
+        "query": "Hint: Kindly provide an integer as your answer and state the final value at the end, such as 1, 2, or 3.  \nQuestion: How many documents are typically needed on average for each shipment when exporting goods in Uganda each year?"
+    },
+    {
+        "pid": "581",
+        "question": "If you take away all the large matte cubes and all the matte blocks, how many objects remain?",
+        "query": "Hint: Provide an integer as your final answer after performing the calculations, such as 1, 2, or 3. \nQuestion: Remove all the large matte cubes and all the matte blocks. How many objects remain?"
+    },
+    {
+        "pid": "588",
+        "question": "In which year was the total income higher?",
+        "query": "Hint: Make sure to respond with an integer as your final answer, such as 1, 2, or 3. \nQuestion: In which year is the total income higher?"
+    },
+    {
+        "pid": "589",
+        "question": "How many items are either large objects located behind the shiny double-decker bus or small gray metal objects?",
+        "query": "Hint: Kindly provide an integer response to the question, and make sure to present the final result, such as 1, 2, 3, at the end. \nQuestion: How many items are either large objects behind the shiny double-decker bus or small gray metal objects?"
+    },
+    {
+        "pid": "590",
+        "question": "How much older or younger is one person compared to the other in the image?",
+        "query": "Hint: Please provide an integer response and include the final number, such as 1, 2, or 3, at the end.  \nQuestion: How many years apart are the ages of the two individuals in the image?"
+    },
+    {
+        "pid": "591",
+        "question": "How many individuals in the picture were born after World War II ended?",
+        "query": "Hint: Please respond with a whole number as your answer, such as 1, 2, or 3, and include that number at the end. \nQuestion: How many individuals in the picture were born after World War II ended?"
+    },
+    {
+        "pid": "592",
+        "question": "What is the highest point that this function reaches worldwide?",
+        "query": "Hint: Kindly provide an integer response to the question and present the final value, such as 1, 2, or 3, at the conclusion. \nQuestion: What is the highest point of this function in the entire domain?"
+    },
+    {
+        "pid": "593",
+        "question": "What is the average length of the longest light blue bar and the shortest gray bar?",
+        "query": "Hint: Please provide an integer as your answer at the end, such as 1, 2, or 3. \nQuestion: What is the average length of the longest light blue bar and the shortest gray bar?"
+    },
+    {
+        "pid": "594",
+        "question": "When does the spending per student in Jamaica increase the most?",
+        "query": "Hint: Kindly provide an integer response indicating the final value, such as 1, 2, 3, etc. \nQuestion: At what point does student spending in Jamaica see the most significant rise?"
+    },
+    {
+        "pid": "597",
+        "question": "What proportion of individuals favors the least liked item?",
+        "query": "Hint: Provide an integer as your answer, such as 1, 2, or 3, at the end of your response.  \nQuestion: What percentage of individuals favor the least liked item?"
+    },
+    {
+        "pid": "602",
+        "question": "Rectangle ABCD is divided into two identical square sections, as shown in the figure above. Given that each square has an area of 9, what is the perimeter of rectangle ABCD?",
+        "query": "Hint: Kindly provide an integer response and state the final answer, such as 1, 2, 3, at the end. \nQuestion: Rectangle ABCD has been divided into two equal square sections, as shown in the diagram above. If the area of each square is 9, what is the perimeter of rectangle ABCD?"
+    },
+    {
+        "pid": "603",
+        "question": "What is the total weight gain (in grams) for \"GROUP C\" during the third week? Please provide an approximate value.",
+        "query": "Hint: Please provide an integer answer to the question and indicate the final value at the end, such as 1, 2, or 3. \nQuestion: What is the total increase in weight (in grams) for \"GROUP C\" during the third week? Please provide an estimated value."
+    },
+    {
+        "pid": "605",
+        "question": "Remove all the large green matte cubes and all the big green blocks. How many objects remain?",
+        "query": "Hint: Please respond to the question that asks for a whole number answer and include the final result, for example, 1, 2, or 3, at the end. \nQuestion: Remove all large green matte cubes and all big green blocks. How many objects remain?"
+    },
+    {
+        "pid": "606",
+        "question": "What is the total distance around the rectangle?",
+        "query": "Hint: Please provide an integer answer for the question and include the final answer at the end, such as 1, 2, or 3. \nQuestion: What is the perimeter of the rectangle?"
+    },
+    {
+        "pid": "607",
+        "question": "Subtract all the shiny yellow objects and all the yellow metal objects. How many items remain?",
+        "query": "Hint: Please provide an integer as your answer and state the final count at the end, such as 1, 2, or 3. \nQuestion: Remove all yellow shiny items and all yellow metal items. How many objects remain?"
+    },
+    {
+        "pid": "609",
+        "question": "If you take away all the large green matte cylinders and all the large brown cubes, how many objects remain?",
+        "query": "Hint: Respond to the question with a whole number and indicate the final result, such as 1, 2, or 3, at the end. \nQuestion: Remove the large green matte cylinders and the large brown cubes. How many objects remain?"
+    },
+    {
+        "pid": "611",
+        "question": "How many shipments contained exactly 56 boxes?",
+        "query": "Hint: Provide an integer answer to the question and include the final number at the end, such as 1, 2, or 3.  \nQuestion: A shipping company monitors the number of boxes in each shipment they dispatch. What is the total number of shipments that contained exactly 56 boxes? (Unit: shipments)"
+    },
+    {
+        "pid": "612",
+        "question": "Remove all the blue metal items and all the small objects. How many items remain?",
+        "query": "Hint: Please provide an integer answer at the end, such as 1, 2, or 3.   \nQuestion: Remove all blue metal items and all small objects. How many items remain?"
+    },
+    {
+        "pid": "613",
+        "question": "What is the total number of houses?",
+        "query": "Hint: Kindly provide an integer response, such as 1, 2, or 3, at the conclusion of your answer.  \nQuestion: What is the total number of houses?"
+    },
+    {
+        "pid": "614",
+        "question": "What is the age difference between the two individuals in the image?",
+        "query": "Please provide an integer as the answer to the question, such as 1, 2, or 3, at the end. The question asks for the difference in age between the two individuals shown in the image (measured in years)."
+    },
+    {
+        "pid": "616",
+        "question": "What is the comparison of Instagram to Google in terms of their values?",
+        "query": "Hint: Kindly provide an integer response to the question, and make sure to give the final number, such as 1, 2, or 3, at the end.  \nQuestion: What is the ratio of Instagram to Google?"
+    },
+    {
+        "pid": "617",
+        "question": "The acceleration vector a has a magnitude of 10 cm/s\u00b2. Refer to the figure to determine the vertical components of the acceleration.",
+        "query": "Hint: Kindly respond to the question that requires an integer as an answer, and include the final result, such as 1, 2, or 3, at the end.  \nQuestion: The acceleration vector has a magnitude of $10 \\mathrm{~cm} / \\mathrm{s}^2$. Refer to the figure to approximate the normal components of $\\mathbf{a}$."
+    },
+    {
+        "pid": "619",
+        "question": "What is the value of the function f when the input is 4?",
+        "query": "Hint: Kindly provide an integer response to the question and include the final value at the end, such as 1, 2, or 3. \nQuestion: What is the value of f(4)?"
+    },
+    {
+        "pid": "620",
+        "question": "Adjust the ruler to determine the length of the nail, rounding to the nearest inch. The nail is approximately (_) inches in length.",
+        "query": "Hint: Respond with an integer and state the final result, such as 1, 2, or 3 at the end. \nQuestion: Adjust the ruler to find the length of the nail rounded to the nearest inch. The nail is approximately (_) inches long."
+    },
+    {
+        "pid": "624",
+        "question": "In how many years will the percentage of unemployed workers in the upper middle-income category exceed 1.6%?",
+        "query": "Hint: Please respond with an integer value for the number of years and present the final answer as a single number, such as 1, 2, or 3, at the end. \nQuestion: How many years will it take for the total unemployed labor force in upper middle-income countries to exceed 1.6%?"
+    },
+    {
+        "pid": "626",
+        "question": "Remove all brown items and all large purple cylinders. How many items remain?",
+        "query": "Hint: Provide your answer as a whole number and indicate the final count, such as 1, 2, or 3, at the end.  \nQuestion: Remove all brown items and all large purple cylinders. How many items remain?"
+    },
+    {
+        "pid": "627",
+        "question": "A group of friends played a trivia game and noted their scores. What is the most frequently occurring score?",
+        "query": "Hint: Make sure to provide an integer as your final answer, such as 1, 2, or 3. \nQuestion: A group of friends played a trivia game and took note of their scores. Can you determine the mode of those scores?"
+    },
+    {
+        "pid": "629",
+        "question": "What percentage of people have a preference for the item known as a hut?",
+        "query": "Hint: Kindly provide an integer response to the question, and present the final value, such as 1, 2, or 3, at the conclusion. \nQuestion: What percentage of individuals prefer the object hut?"
+    },
+    {
+        "pid": "630",
+        "question": "Determine the measure of angle MBD in the diagram provided.",
+        "query": "Hint: Please provide your answer as a whole number and include the final result, such as 1, 2, or 3, at the end.  \nQuestion: Determine the measure of angle MBD in the diagram below."
+    },
+    {
+        "pid": "631",
+        "question": "What is the value of the least bar?",
+        "query": "Hint: Kindly provide your final answer as an integer, such as 1, 2, or 3.  \nQuestion: What is the value of the smallest bar?"
+    },
+    {
+        "pid": "632",
+        "question": "What is the overall worth of the More bar?",
+        "query": "Hint: Kindly provide an integer as your answer, such as 1, 2, or 3, at the end of your response.\nQuestion: What is the overall value of the More bar?"
+    },
+    {
+        "pid": "636",
+        "question": "What is the number displayed?",
+        "query": "Hint: Please respond with an integer and make sure to include the final value, such as 1, 2, or 3, at the end. \nQuestion: What is the displayed number?"
+    },
+    {
+        "pid": "638",
+        "question": "In how many years is the mortality rate for males under five years old higher than the average mortality rate for males under five over all the years?",
+        "query": "Hint: Kindly provide an integer response to the question and state the final number at the end, such as 1, 2, 3, etc. \nQuestion: How many years have a male mortality rate for children under 5 that exceeds the average rate of all years?"
+    },
+    {
+        "pid": "639",
+        "question": "What number is displayed at the top of the dial?",
+        "query": "Hint: Kindly provide an integer as your answer and include the final number at the end, such as 1, 2, or 3.  \nQuestion: What number is displayed at the top of the dial?"
+    },
+    {
+        "pid": "646",
+        "question": "How many racks have at least zero ties, based on the employee's count at the department store? (Unit: racks)",
+        "query": "Hint: Please respond with an integer answer and include the final number, such as 1, 2, or 3, at the end.  \nQuestion: A worker at the department store tallied the number of ties on each rack. How many racks contain at least 0 ties? (Unit: racks)"
+    },
+    {
+        "pid": "648",
+        "question": "What is the lowest point of this function?",
+        "query": "Hint: Kindly provide an integer response for the question and include the final number, such as 1, 2, or 3, at the end.  \nQuestion: What is the lowest value of this function?"
+    },
+    {
+        "pid": "649",
+        "question": "What is the number of values below 30 in the category of individual misconduct incidents?",
+        "query": "Hint: Kindly respond with an integer as your answer and include the final number, such as 1, 2, or 3, at the end.  \nQuestion: What is the count of values that are less than 30 concerning incidents of individual misconduct?"
+    },
+    {
+        "pid": "651",
+        "question": "For his assignment, Johnny analyzed the number of Nobel Prize winners from different countries across several decades. In the 1990s, how many more Nobel Prize winners did Canada have compared to Italy? (Unit: Nobel Prize winners)",
+        "query": "Hint: Please provide an integer response to the question and present the final value at the end, such as 1, 2, 3, etc. \nQuestion: For a project, Johnny analyzed the number of Nobel Prizes awarded to different countries over various decades. In the 1990s, how many more Nobel Prize winners did Canada have compared to Italy? (Unit: Nobel Prize winners)"
+    },
+    {
+        "pid": "652",
+        "question": "How many individuals in the picture were born after World War II concluded?",
+        "query": "Hint: Please provide an integer response to the question and present the final number at the end, such as 1, 2, or 3. \nQuestion: How many individuals in the picture were born after World War II concluded?"
+    },
+    {
+        "pid": "658",
+        "question": "Adjust the ruler to determine the length of the line in centimeters, rounded to the nearest whole number. The line measures approximately (_) centimeters.",
+        "query": "Hint: Please provide an integer as your response, such as 1, 2, or 3, at the end of your answer. \nQuestion: Adjust the ruler to find the length of the line rounded to the closest centimeter. The line measures approximately (_) centimeters."
+    },
+    {
+        "pid": "659",
+        "question": "What is the maximum value of the navy blue bar?",
+        "query": "Hint: Kindly provide an integer answer to the question and include the final value at the end, such as 1, 2, or 3. \nQuestion: What is the maximum value of the navy blue bar?"
+    },
+    {
+        "pid": "662",
+        "question": "What is the difference in accuracy between the most accurate algorithm and the least accurate algorithm?",
+        "query": "Hint: Please respond to the question that calls for an integer result and include the final number, such as 1, 2, or 3, at the end.  \nQuestion: What is the difference in accuracy between the most accurate algorithm and the least accurate algorithm?"
+    },
+    {
+        "pid": "664",
+        "question": "What is the maximum number of responses to Question 10 for any specified percentage of inside sales?",
+        "query": "Hint: Please provide a numerical answer that is a whole number, such as 1, 2, or 3, at the end of your response. \nQuestion: What is the maximum number of responses for Question 10 for any specified percentage of inside sales?"
+    },
+    {
+        "pid": "666",
+        "question": "Remove all the red objects and all the large green items. How many objects remain?",
+        "query": "Hint: Please provide an integer as your final answer, such as 1, 2, or 3.  \nQuestion: Remove all red objects and all large green items. How many objects remain?"
+    },
+    {
+        "pid": "667",
+        "question": "In which year is the gap between used cars and new cars the smallest?",
+        "query": "Hint: Please provide an integer as your answer, such as 1, 2, or 3, at the end of your response.  \nQuestion: In which year is the difference between the numbers of used and new cars the smallest?"
+    },
+    {
+        "pid": "672",
+        "question": "Adjust the ruler to determine the length of the twig, rounding to the nearest inch. The twig measures approximately (_) inches in length.",
+        "query": "Hint: Please provide an integer value in your answer, such as 1, 2, or 3, at the end. \nQuestion: Use the ruler to measure the length of the twig and round it to the nearest inch. The twig is approximately (_) inches long."
+    },
+    {
+        "pid": "676",
+        "question": "What is the value of the shortest bar in the entire chart?",
+        "query": "Hint: Kindly give your response as a whole number and include the final answer at the end, for example, 1, 2, or 3. \nQuestion: What is the lowest value among all the individual bars in the entire chart?"
+    },
+    {
+        "pid": "680",
+        "question": "What is the difference in age between the two individuals in the image?",
+        "query": "Hint: Please provide a whole number as your answer, such as 1, 2, or 3, at the end of your response. \nQuestion: How many years apart are the ages of the two individuals in the image?"
+    },
+    {
+        "pid": "683",
+        "question": "Adjust the ruler to find the length of the nail, rounding to the closest inch. The nail measures approximately (_) inches in length.",
+        "query": "Hint: Provide a whole number as your answer and write the final value at the end, such as 1, 2, or 3. \nQuestion: Adjust the ruler to find the length of the nail rounded to the closest inch. The nail is approximately (_) inches long."
+    },
+    {
+        "pid": "691",
+        "question": "Determine the value of the unknown item.",
+        "query": "Hint: Please provide an integer as your final answer, such as 1, 2, or 3. \nQuestion: Determine the value that is missing."
+    },
+    {
+        "pid": "699",
+        "question": "What is the age difference between the person in the center and the person on the far right?",
+        "query": "Hint: Please provide the answer to the question in whole numbers, such as 1, 2, or 3, at the end. \nQuestion: How many years is the age difference between the person in the middle and the oldest person on the right?"
+    },
+    {
+        "pid": "701",
+        "question": "Adjust the ruler to determine the length of the line to the closest centimeter. The line is approximately (_) centimeters long.",
+        "query": "Hint: Please provide an integer answer, such as 1, 2, or 3, at the end.\nQuestion: Use the ruler to measure the length of the line, rounding to the nearest centimeter. The line is approximately (_) centimeters long."
+    },
+    {
+        "pid": "702",
+        "question": "What is the total weight gain (in grams) for \"GROUP A\" during the third week? Please provide an approximate value.",
+        "query": "Hint: Provide an integer response for the cumulative weight increase (in grams) for \"GROUP A\" during the third week, and present the final number at the end, such as 1, 2, or 3.  \nQuestion: What is the approximate cumulative weight increase (in grams) for \"GROUP A\" in the third week?"
+    },
+    {
+        "pid": "709",
+        "question": "What is the value of the function f at zero?",
+        "query": "Hint: Kindly respond to the question that requires a whole number answer and include the final value at the end, such as 1, 2, or 3.  \nQuestion: What is the value of f(0)?"
+    },
+    {
+        "pid": "710",
+        "question": "How many individuals in the picture were born after World War II ended?",
+        "query": "Hint: Kindly provide an integer response to the question, and include the final number, such as 1, 2, 3, at the end. \nQuestion: How many individuals in the picture were born after World War II concluded?"
+    },
+    {
+        "pid": "711",
+        "question": "How many individuals in the picture were born after World War II ended?",
+        "query": "Hint: Kindly provide a whole number as your answer and include the final result, such as 1, 2, or 3, at the end of your response. \nQuestion: How many individuals in the picture were born after World War II concluded?"
+    },
+    {
+        "pid": "712",
+        "question": "What is the total distance around the shape?",
+        "query": "Hint: Please provide an integer as your final answer, such as 1, 2, or 3. \nQuestion: What is the total distance around the shape?"
+    },
+    {
+        "pid": "719",
+        "question": "Brenda created a graph showing the lowest temperatures over a span of 5 days. What is the range of these temperatures?",
+        "query": "Hint: Kindly provide an integer answer to the question and present the final number, such as 1, 2, 3, at the end. \nQuestion: Brenda created a graph showing the lowest temperatures recorded each day over a span of 5 days. What is the difference between the highest and lowest temperatures?"
+    },
+    {
+        "pid": "720",
+        "question": "At what point does the value of the function first equal 2?",
+        "query": "Hint: Please provide an integer answer to the question and include the final result at the end, for example, 1, 2, 3, etc. \nQuestion: At what point does the function first achieve a value of 2?"
+    },
+    {
+        "pid": "721",
+        "question": "How many odd functions are represented in the graph?",
+        "query": "Hint: Kindly provide an integer as your answer to the question, along with the final value at the end, such as 1, 2, or 3.  \nQuestion: How many odd functions are represented in the graph?"
+    },
+    {
+        "pid": "725",
+        "question": "In the given figure, let's assume Barbara's speed compared to Alex is a constant value of \\( v_{B A} = 52 \\) km/h, while car P is traveling in the negative direction along the x-axis. \n\n(a) If Alex observes car P traveling at a constant speed of \\( v_{P A} = -78 \\) km/h, what speed \\( v_{P B} \\) will Barbara observe for car P?",
+        "query": "Hint: Please provide an integer answer to the question and include the final value at the end, such as 1, 2, or 3. \n\nQuestion: In the figure, assume Barbara's velocity relative to Alex is a constant \\( v_{B A} = 52 \\text{ km/h} \\) and that car \\( P \\) is moving in the negative direction along the x-axis. \n(a) If Alex measures a constant \\( v_{P A} = -78 \\text{ km/h} \\) for car \\( P \\), what velocity \\( v_{P B} \\) will Barbara observe?"
+    },
+    {
+        "pid": "727",
+        "question": "What is the difference between the highest and lowest values shown in the chart?",
+        "query": "Hint: Kindly provide an integer response for the question and display the final result at the end, such as 1, 2, or 3. \nQuestion: What is the difference between the highest and lowest value in the chart?"
+    },
+    {
+        "pid": "728",
+        "question": "Adjust the ruler to determine the length of the line rounded to the nearest centimeter. The line measures approximately (_) centimeters.",
+        "query": "Hint: Kindly provide an integer response as the final answer, such as 1, 2, or 3.  \nQuestion: Adjust the ruler to determine the length of the line rounded to the nearest centimeter. The length of the line is approximately (_) centimeters."
+    },
+    {
+        "pid": "729",
+        "question": "What is the minimum accuracy indicated in the entire chart?",
+        "query": "Hint: Kindly provide an integer as your final answer, such as 1, 2, or 3. \nQuestion: What is the smallest accuracy recorded in the entire chart?"
+    },
+    {
+        "pid": "730",
+        "question": "In what year did KLA achieve its highest market share?",
+        "query": "Hint: Please give a whole number as your answer and state the final value, such as 1, 2, or 3, at the end. \nQuestion: Which year had the highest market share for KLA?"
+    },
+    {
+        "pid": "731",
+        "question": "The train conductor ensured that he counted the number of passengers on each train. What is the minimum number of passengers? (Unit: passengers)",
+        "query": "Hint: Please provide an integer response indicating the smallest number of passengers. For example, answer with a number like 1, 2, or 3 at the end.\nQuestion: The train conductor ensured that he counted all the passengers on each train. What is the minimum number of passengers? (Unit: passengers)"
+    },
+    {
+        "pid": "739",
+        "question": "How much money does Hannah need to purchase a baking dish and a cookie jar? (Unit: $)",
+        "query": "Hint: Kindly provide a whole number as your answer and state the final amount, for example, 1, 2, or 3, at the conclusion. \nQuestion: What is the total amount of money Hannah needs to purchase a baking dish and a cookie jar? (Unit: $)"
+    },
+    {
+        "pid": "741",
+        "question": "What is the age difference between the two people in the image?",
+        "query": "Hint: Kindly respond to the question that asks for an integer value and include the final answer, such as 1, 2, 3, at the end.  \nQuestion: How many years apart are these two individuals in the image?"
+    },
+    {
+        "pid": "742",
+        "question": "Adjust the ruler to determine the length of the twig to the nearest inch. The twig measures approximately (_) inches in length.",
+        "query": "Hint: Please respond with a whole number as your answer and indicate the final number clearly, like 1, 2, or 3 at the end. \nQuestion: Adjust the ruler to find out the length of the twig rounded to the nearest inch. The twig is approximately (_) inches long."
+    },
+    {
+        "pid": "745",
+        "question": "How much older or younger is one person compared to the other in the image?",
+        "query": "Hint: Kindly provide a whole number in response to the question and indicate the final value at the end, for example, 1, 2, 3, etc. \nQuestion: How many years apart in age are the two individuals in the image?"
+    },
+    {
+        "pid": "746",
+        "question": "Mrs. Zimmerman organizes an art contest for children every year and keeps track of the number of participants. Based on the data in the table, what was the change in the number of entries from 2013 to 2014? (Measurement: entries per year)",
+        "query": "Hint: Please provide an integer response and conclude with the final number, such as 1, 2, or 3.  \nQuestion: Mrs. Zimmerman organizes a yearly art contest for children and tracks the number of participants each year. Based on the table, what was the change in the number of entries from 2013 to 2014? (Measurement: entries per year)"
+    },
+    {
+        "pid": "750",
+        "question": "What number is absent?",
+        "query": "Hint: Kindly provide an integer as your answer at the conclusion, for example, 1, 2, or 3. \nQuestion: What number is absent?"
+    },
+    {
+        "pid": "753",
+        "question": "What is the value of the shortest bar?",
+        "query": "Hint: Please respond with an integer value for your answer and include the final number, such as 1, 2, or 3, at the end. \nQuestion: What is the value of the shortest bar?"
+    },
+    {
+        "pid": "759",
+        "question": "Adjust the ruler to determine the length of the nail, rounding to the closest inch. The nail is approximately (_) inches in length.",
+        "query": "Hint: Kindly provide an integer value as your answer, such as 1, 2, or 3, at the end. \nQuestion: Use the ruler to find the length of the nail, rounding to the nearest inch. The nail measures approximately (_) inches in length."
+    },
+    {
+        "pid": "763",
+        "question": "If you remove all the small shiny balls and all the purple items, how many objects remain?",
+        "query": "Hint: Please provide an integer answer to the question, giving your final value as a whole number, such as 1, 2, or 3 at the conclusion.  \nQuestion: Remove all small shiny balls and all purple items. How many objects remain?"
+    },
+    {
+        "pid": "764",
+        "question": "How many bananas are there on average per bunch?",
+        "query": "Hint: Kindly provide an integer response and include the final number, such as 1, 2, or 3, at the end of your answer. \nQuestion: How many bananas are there on average per stock?"
+    },
+    {
+        "pid": "767",
+        "question": "What is the highest value that y can reach?",
+        "query": "Hint: Kindly provide an integer response to the question and include the final value at the end, such as 1, 2, or 3.  \nQuestion: What is the highest value of y?"
+    },
+    {
+        "pid": "770",
+        "question": "What is the amplitude of this function?",
+        "query": "Hint: Kindly provide an integer response to the question and include your final answer as a number, such as 1, 2, or 3, at the end.  \nQuestion: What is the amplitude of this function?"
+    },
+    {
+        "pid": "780",
+        "question": "What is the missing number?",
+        "query": "Hint: Please provide an integer as your answer, such as 1, 2, or 3, at the end.  \nQuestion: What is the missing number?"
+    },
+    {
+        "pid": "782",
+        "question": "What is the missing number?",
+        "query": "Hint: Kindly provide an integer as your answer and include the final number at the end, such as 1, 2, or 3.  \nQuestion: What is the unknown number?"
+    },
+    {
+        "pid": "784",
+        "question": "What is the highest statistical capacity rating for the Maldives over all the years?",
+        "query": "Hint: Please provide a whole number answer and include the final value at the end, such as 1, 2, or 3. \nQuestion: What is the highest rating for statistical capacity in the Maldives over the years?"
+    },
+    {
+        "pid": "787",
+        "question": "What fraction of the zebra's stripes runs horizontally?",
+        "query": "Hint: Please provide an integer as your final answer, such as 1, 2, or 3.  \nQuestion: What portion of the zebra's stripes runs horizontally?"
+    },
+    {
+        "pid": "788",
+        "question": "What is the age difference between the two individuals in the image?",
+        "query": "Hint: Kindly provide an integer as your answer, such as 1, 2, or 3, at the conclusion.  \nQuestion: How many years apart are the ages of the two individuals in the image?"
+    },
+    {
+        "pid": "789",
+        "question": "What is the total of the values for posse and mortar?",
+        "query": "Hint: Provide a whole number as your answer and state the final result clearly, such as 1, 2, or 3.  \nQuestion: What is the total of the values of posse and mortar?"
+    },
+    {
+        "pid": "792",
+        "question": "What is the age difference between the two individuals in the picture?",
+        "query": "Hint: Kindly provide an integer as your answer and include the final value at the end, such as 1, 2, or 3.  \nQuestion: How many years apart in age are the two individuals in the image?"
+    },
+    {
+        "pid": "793",
+        "question": "What is the maximum Elo rating achieved by the agent when using an offline reinforcement learning algorithm?",
+        "query": "Hint: Respond to the question that asks for a whole number answer and include the final answer clearly at the end, such as 1, 2, or 3. \nQuestion: What is the maximum Elo score achieved by the agent utilizing an offline reinforcement learning algorithm?"
+    },
+    {
+        "pid": "794",
+        "question": "How many bars have values greater than 4?",
+        "query": "Hint: Kindly provide an integer as your answer, such as 1, 2, or 3, at the end of your response. \nQuestion: How many bars have values exceeding 4?"
+    },
+    {
+        "pid": "795",
+        "question": "How much older or younger is one person compared to the other in the image?",
+        "query": "Hint: Please provide an integer response to the question, and ensure to present the final answer clearly at the end, such as with the numbers 1, 2, or 3. \nQuestion: What is the difference in age between the two individuals shown in the image? (Unit: years)"
+    },
+    {
+        "pid": "796",
+        "question": "How many individuals in the picture were born after World War II concluded?",
+        "query": "Hint: Please provide an integer response to the question and include the final number at the end, such as 1, 2, or 3.  \nQuestion: How many individuals in the picture were born after World War II concluded?"
+    },
+    {
+        "pid": "799",
+        "question": "What is the total amount of money Ruth requires to purchase a baking dish, a casserole dish, and an ice cream scoop? (Unit: $)",
+        "query": "Hint: Provide a whole number as your answer and clearly state the final amount at the end, such as 1, 2, or 3.  \nQuestion: What is the total amount of money Ruth needs to purchase a baking dish, a casserole dish, and an ice cream scoop? (Currency: $)"
+    },
+    {
+        "pid": "801",
+        "question": "A gymnast recorded the number of cartwheels she performed each day. What is the mode of those numbers?",
+        "query": "Hint: Please provide an integer as your answer and state the final number at the end, such as 1, 2, or 3.  \nQuestion: A gymnast recorded the number of cartwheels she performed each day. What is the most frequently occurring number in her records?"
+    },
+    {
+        "pid": "802",
+        "question": "Karen purchased 4 pounds of silk remnants and 4 pounds of canvas remnants. What was the total amount she paid? (Unit: $)",
+        "query": "Hint: Make sure to give a whole number as your answer and present the final value at the end, such as 1, 2, or 3. \nQuestion: Karen purchased 4 pounds of silk remnants and 4 pounds of canvas remnants. What was her total expenditure? (Unit: $)"
+    },
+    {
+        "pid": "803",
+        "question": "What is the value of the smallest individual bar in the entire chart?",
+        "query": "Hint: Please provide an integer as your answer and include the final number, such as 1, 2, or 3, at the end.  \nQuestion: What is the value of the shortest bar in the entire chart?"
+    },
+    {
+        "pid": "808",
+        "question": "Remove all the large purple spheres and all the small gray objects. How many items remain?",
+        "query": "Hint: Please provide an integer as your final answer, such as 1, 2, or 3.  \nQuestion: Remove all the large purple spheres and all the small gray objects. How many items remain?"
+    },
+    {
+        "pid": "810",
+        "question": "Remove all the yellow metal balls and all the small yellow shiny objects. How many items do you have remaining?",
+        "query": "Hint: Please provide an integer answer to the question and state the final value at the end, such as 1, 2, or 3.  \nQuestion: Remove all the yellow metallic balls and all small yellow shiny items. How many objects remain?"
+    },
+    {
+        "pid": "811",
+        "question": "A machine in the candy factory distributed varying quantities of lemon-flavored candies into different bags. What is the minimum number of lemon-flavored candies dispensed? (Unit: lemon-flavored candies)",
+        "query": "Hint: Respond to the question that needs a whole number answer and give the final answer as a single integer, such as 1, 2, or 3, at the conclusion.  \nQuestion: A machine at the candy factory placed different quantities of lemon-flavored candies into several bags. What is the least amount of lemon-flavored candies? (Unit: lemon-flavored candies)"
+    },
+    {
+        "pid": "813",
+        "question": "What is the maximum value on the X-axis?",
+        "query": "Hint: Kindly provide an integer as your answer and include the final number at the end, like 1, 2, or 3.  \nQuestion: What is the maximum value on the X-axis?"
+    },
+    {
+        "pid": "814",
+        "question": "What is the height of the tallest bar in the entire chart?",
+        "query": "Hint: Please provide an integer as your answer, such as 1, 2, or 3, at the end of your response.  \nQuestion: What is the value of the tallest bar in the entire chart?"
+    },
+    {
+        "pid": "830",
+        "question": "What is the age difference between the two individuals in the picture?",
+        "query": "Hint: Please provide an integer response and include the final figure, such as 1, 2, or 3, at the end.  \nQuestion: How many years is the age difference between the two individuals in the image?"
+    },
+    {
+        "pid": "831",
+        "question": "An author kept track of the number of words she wrote over the last three days. What is the total number of words she wrote on Thursday and Friday? (Unit: words)",
+        "query": "Hint: Please provide a whole number as your answer, such as 1, 2, or 3, at the end of your response. \nQuestion: An author tracked the number of words she wrote over the last three days. What is the total number of words she wrote on Thursday and Friday? (Unit: words)"
+    },
+    {
+        "pid": "832",
+        "question": "What is the value of the function f when the input is 0?",
+        "query": "Hint: Kindly provide an integer as your answer and state the final result, such as 1, 2, or 3, at the end.  \nQuestion: What is the result of f(0)?"
+    },
+    {
+        "pid": "835",
+        "question": "What percentage of people is dressed in blue?",
+        "query": "Hint: Kindly provide an integer as your answer and state the final value clearly at the end, such as 1, 2, or 3.  \nQuestion: What percentage of individuals are wearing blue?"
+    },
+    {
+        "pid": "838",
+        "question": "What is the difference in age between the two people in the image?",
+        "query": "Hint: Kindly provide a whole number as your answer, such as 1, 2, or 3, at the end of your response. \nQuestion: What is the age difference in years between the two individuals shown in the image?"
+    },
+    {
+        "pid": "839",
+        "question": "How many years have a value of less than 10 percent?",
+        "query": "Hint: Kindly respond to the question that asks for an integer answer and state your final value, such as 1, 2, or 3, at the end.  \nQuestion: How many years have a value that is less than 10%?"
+    },
+    {
+        "pid": "841",
+        "question": "A group of friends compared the sizes of their stuffed animal collections. What is the median value of those numbers?",
+        "query": "Hint: Please provide an integer as your answer and state the final value, such as 1, 2, or 3, at the end.  \nQuestion: A group of friends is examining the quantities of their stuffed animal collections. What is the median of these amounts?"
+    },
+    {
+        "pid": "845",
+        "question": "How much older or younger is one person compared to the other in the image?",
+        "query": "Hint: Kindly provide an integer response, such as 1, 2, or 3, at the conclusion of your answer. \nQuestion: How many years apart are these two individuals in the image?"
+    },
+    {
+        "pid": "848",
+        "question": "For how many years has the tuberculosis treatment success rate in Bulgaria been higher than the average success rate for tuberculosis treatment over all years?",
+        "query": "Hint: Please respond with an integer and present the final number at the end, like this: 1, 2, 3, etc. \nQuestion: After how many years does the treatment success rate for tuberculosis in Bulgaria exceed the average success rate for tuberculosis treatment across all years in Bulgaria?"
+    },
+    {
+        "pid": "851",
+        "question": "In how many years did the net concessional disbursements from the IMF exceed 32,000,000 USD?",
+        "query": "Hint: Please respond with an integer value at the end of your answer, such as 1, 2, or 3.  \nQuestion: How many years does it take for the net concessional disbursements from the IMF to exceed 32,000,000 US dollars?"
+    },
+    {
+        "pid": "852",
+        "question": "What number is absent?",
+        "query": "Hint: Please respond to the question that requires an integer solution and give the final number, such as 1, 2, or 3, at the end.  \nQuestion: What is the missing number?"
+    },
+    {
+        "pid": "857",
+        "question": "What is the value of the largest bar?",
+        "query": "Hint: Please respond with an integer value as the answer, such as 1, 2, or 3, and state the final answer at the end.  \nQuestion: What is the value of the highest bar?"
+    },
+    {
+        "pid": "859",
+        "question": "What is the age difference between the two people in the image?",
+        "query": "Hint: Kindly provide an integer as your answer, such as 1, 2, or 3, at the conclusion of your response.  \nQuestion: How many years apart are the ages of the two individuals in the image?"
+    },
+    {
+        "pid": "860",
+        "question": "Miss Foley organized a sit-up contest for her P.E. students and kept track of how many sit-ups each student completed. What was the maximum number of sit-ups performed by a student? (Unit: sit-ups)",
+        "query": "Hint: Kindly provide an integer response and conclude with your final answer, such as 1, 2, or 3. \nQuestion: Miss Foley organized a sit-up contest for her physical education students and kept track of how many sit-ups each student completed. What is the highest number of sit-ups performed? (Unit: sit-ups)"
+    },
+    {
+        "pid": "864",
+        "question": "What is the age difference between the two individuals in the image?",
+        "query": "Please respond to the question that needs an integer answer and state the final value at the end, such as 1, 2, or 3. \nQuestion: How many years is the age difference between the two individuals in the image?"
+    },
+    {
+        "pid": "867",
+        "question": "A researcher in the food industry collected the sales figures from various pizzerias. What was the revenue from pizza sales for Dan's Deep Dish? (Unit: $)",
+        "query": "Hint: Please respond with an integer value for the answer, such as 1, 2, or 3, at the conclusion of your response.  \nQuestion: A researcher in the food industry collected data on the earnings of various pizzerias. What was the revenue generated by Dan's Deep Dish from pizza sales? (Unit: $)"
+    },
+    {
+        "pid": "868",
+        "question": "Remove all the large green cylinders and all the rubber cylinders. How many objects remain?",
+        "query": "Hint: Please provide an integer as your answer at the end, such as 1, 2, or 3. \nQuestion: Remove all large green cylinders and all rubber cylinders. How many objects remain?"
+    },
+    {
+        "pid": "869",
+        "question": "Remove all the large yellow matte cubes and all metal objects. How many items remain?",
+        "query": "Hint: Please respond with a whole number as your answer and state the final result at the end, such as 1, 2, or 3. \nQuestion: Remove all the large yellow matte cubes. Remove all the metal objects. How many objects remain?"
+    },
+    {
+        "pid": "871",
+        "question": "Adjust the ruler to determine the length of the nail, rounding to the nearest inch. The nail is approximately (_) inches long.",
+        "query": "Hint: Kindly respond to the question that asks for a whole number answer and include the final result at the end, for example, 1, 2, 3, etc. \nQuestion: Position the ruler to find the length of the nail rounded to the nearest inch. The nail measures approximately (_) inches long."
+    },
+    {
+        "pid": "873",
+        "question": "What is the number of groups of bars that have at least one bar with a value less than 40?",
+        "query": "Hint: Please provide an integer response to the question and state the final value clearly at the end, such as 1, 2, or 3.  \nQuestion: How many sets of bars include at least one bar that has a value less than 40?"
+    },
+    {
+        "pid": "874",
+        "question": "What is the value of y when x equals -2.5?",
+        "query": "Hint: Please provide an integer value in your answer, such as 1, 2, or 3, at the end of your response. \nQuestion: What is the value of y when x is -2.5?"
+    },
+    {
+        "pid": "875",
+        "question": "Remove all yellow items and all blue cylinders. How many objects remain?",
+        "query": "Hint: Kindly provide an integer response to the question and state the final result, such as 1, 2, or 3. \nQuestion: Remove all yellow items and all blue cylinders. How many objects remain?"
+    },
+    {
+        "pid": "877",
+        "question": "What is the total accuracy of the squad and warm algorithms when combined?",
+        "query": "Hint: Please provide your answer as a whole number. For example, you should respond with a value like 1, 2, or 3 at the end.  \nQuestion: What is the total accuracy of the algorithms named squad and warm?"
+    },
+    {
+        "pid": "879",
+        "question": "Take away all the large gray rubber items and all the small blue balls. How many objects remain?",
+        "query": "Hint: Please provide an integer answer and include the final number, such as 1, 2, or 3, at the end. \nQuestion: Remove all the large gray rubber items. Remove all the small blue balls. How many items remain?"
+    },
+    {
+        "pid": "883",
+        "question": "What is the missing number?",
+        "query": "Hint: Please provide an integer as your answer and include the final number, such as 1, 2, or 3, at the end.  \nQuestion: What is the missing number?"
+    },
+    {
+        "pid": "885",
+        "question": "Grayson tallied the amount of pepperoni slices on each pizza he created. What is the minimum number of pepperoni slices? (Unit: slices of pepperoni)",
+        "query": "Hint: Kindly provide an integer response to the question and state the final number at the end, such as 1, 2, or 3.  \nQuestion: Grayson kept track of how many pepperoni slices he used on each pizza he made. What is the least amount of pepperoni slices he used? (Unit: pieces of pepperoni)"
+    },
+    {
+        "pid": "886",
+        "question": "A newspaper conducted a study to find out the number of grocery stores in each town. What is the median of those numbers?",
+        "query": "Hint: Please give a whole number as your final answer, such as 1, 2, or 3. \nQuestion: A newspaper conducted a study to find out the number of grocery stores in each town. What is the median of these figures?"
+    },
+    {
+        "pid": "888",
+        "question": "Remove all the small green shiny balls and all the small metallic items. How many objects remain?",
+        "query": "Hint: Please provide a whole number as your final answer, such as 1, 2, or 3. \nQuestion: Take away all the small green shiny balls and all the small metallic items. How many objects remain?"
+    },
+    {
+        "pid": "891",
+        "question": "How many algorithms have an accuracy of less than 8 on at least one dataset?",
+        "query": "Hint: Kindly provide an integer as your answer and indicate the final number at the end, such as 1, 2, 3, etc. \nQuestion: What is the count of algorithms that have an accuracy of less than 8 in at least one dataset?"
+    },
+    {
+        "pid": "893",
+        "question": "What value does the blue function approach as x gets closer to negative infinity?",
+        "query": "Hint: Kindly provide an integer answer to the question, and state the final value clearly, such as 1, 2, or 3, at the conclusion. \nQuestion: What is the value that the blue function approaches as x goes to negative infinity?"
+    },
+    {
+        "pid": "894",
+        "question": "What is the total accuracy of the algorithms named fat and acre when added together?",
+        "query": "Hint: Kindly provide an integer as your final answer, such as 1, 2, or 3. \nQuestion: What is the total accuracy of the algorithms named fat and acre?"
+    },
+    {
+        "pid": "899",
+        "question": "What is the next number in the sequence?",
+        "query": "Hint: Please provide an integer as your answer and indicate the final value, such as 1, 2, or 3, at the end. \nQuestion: What is the next number in the sequence?"
+    },
+    {
+        "pid": "901",
+        "question": "Remove all the shiny spheres and all the large red matte spheres. How many objects remain?",
+        "query": "Hint: Provide an integer answer for the question and include the final number, such as 1, 2, or 3, at the end. \nQuestion: Remove all shiny spheres and all large red matte spheres. What is the total number of objects remaining?"
+    },
+    {
+        "pid": "904",
+        "question": "Complete the sentence to explain the model. The model consists of 9 dots that are separated into 3 equal groups. Each group contains (_) dots.",
+        "query": "Hint: Please provide an integer answer and present the final value at the end, such as 1, 2, or 3.  \nQuestion: Complete the sentence describing the model. The model consists of 9 dots arranged into 3 equal groups. Each group contains (_) dots."
+    },
+    {
+        "pid": "907",
+        "question": "When was the military spending less than 0.2%?",
+        "query": "Please provide an integer response to the question about when military spending was less than 0.2%, and include the final number (like 1, 2, or 3) at the end."
+    },
+    {
+        "pid": "910",
+        "question": "Remove all the blue metal balls and all the large matte items. How many objects remain?",
+        "query": "Hint: Please provide an integer as your answer and state the final number, such as 1, 2, or 3, at the conclusion. \nQuestion: Remove all the blue metal balls and all the large matte items. How many objects do you have remaining?"
+    },
+    {
+        "pid": "912",
+        "question": "How many individuals in the picture were born after World War II concluded?",
+        "query": "Hint: Kindly provide an integer response to the question, and make sure to present the final number clearly, such as 1, 2, or 3. \nQuestion: How many individuals in the image were born following the conclusion of World War II?"
+    },
+    {
+        "pid": "914",
+        "question": "Remove all the small shiny purple cubes and all the large purple balls. How many objects remain?",
+        "query": "Hint: Please provide an integer solution to the question and indicate the final answer clearly, such as 1, 2, or 3, at the end. \nQuestion: Remove all of the small purple shiny cubes and all of the large purple balls. What is the total number of objects remaining?"
+    },
+    {
+        "pid": "917",
+        "question": "What is the comparison of the number of steps required to register a business in 2004 compared to those in 2007?",
+        "query": "Hint: Please provide an integer response, such as 1, 2, or 3, as your final answer. \nQuestion: What is the comparison of the number of steps needed to register a business in 2004 versus that in 2007?"
+    },
+    {
+        "pid": "918",
+        "question": "Find the missing item.",
+        "query": "Hint: Kindly provide an integer as your answer and state the final value clearly, such as 1, 2, or 3, at the end. \nQuestion: Find the missing value."
+    },
+    {
+        "pid": "919",
+        "question": "What is the number of items that were sold in quantities greater than 3 units in at least one store?",
+        "query": "Hint: Provide an integer as your answer to the question, such as 1, 2, or 3, at the end.  \nQuestion: What is the number of items that were sold in quantities greater than 3 units in at least one store?"
+    },
+    {
+        "pid": "920",
+        "question": "The measure of angle BAC is equal to x degrees. What is the value of x?",
+        "query": "Hint: Please provide an integer as your answer, such as 1, 2, or 3, at the end of your response.  \nQuestion: The angle measure of BAC is x degrees. What is the value of x?"
+    },
+    {
+        "pid": "922",
+        "question": "What is the value of the lowest single element in the entire chart?",
+        "query": "Hint: Please respond with an integer value as the answer and list the final number at the end, such as 1, 2, or 3. \nQuestion: What is the value of the smallest single element in the entire chart?"
+    },
+    {
+        "pid": "928",
+        "question": "What is the price difference between a navy blue bath mat and a yellow bath towel? (Unit: $)",
+        "query": "Hint: Kindly give an integer answer to the question and include the final amount at the end, such as 1, 2, or 3. \nQuestion: What is the price difference between a navy blue bath mat and a yellow bath towel in dollars?"
+    },
+    {
+        "pid": "929",
+        "question": "What is the total amount of money Tim requires to purchase a mystery game and a toy rocket? (Unit: $)",
+        "query": "Hint: Please provide an integer response to the question and include the final amount, such as 1, 2, or 3, at the end. \nQuestion: What is the total amount of money Tim needs to purchase a mystery game and a toy rocket? (Unit: $)"
+    },
+    {
+        "pid": "933",
+        "question": "What is the total amount of money Hector needs to purchase both a vacation package to Europe and a vacation package to Australia? (Unit: $)",
+        "query": "Hint: Make sure to provide an integer as your final answer, such as 1, 2, or 3. \nQuestion: What is the total amount of money Hector needs to purchase both a vacation package to Europe and a vacation package to Australia? (Unit: $)"
+    },
+    {
+        "pid": "934",
+        "question": "What is the value of the biggest bar?",
+        "query": "Hint: Please provide an integer value as your answer, such as 1, 2, or 3, at the end. \nQuestion: What is the value of the tallest bar?"
+    },
+    {
+        "pid": "936",
+        "question": "How many individuals in the picture were born after World War II concluded?",
+        "query": "Hint: Please respond to the question that needs a whole number as an answer, and include the final number, such as 1, 2, or 3, at the end. \nQuestion: How many individuals in the picture were born after World War II ended?"
+    },
+    {
+        "pid": "940",
+        "question": "Remove all the large red objects and all the metallic objects. How many objects remain?",
+        "query": "Hint: Please give an integer as your final answer, such as 1, 2, or 3. \nQuestion: Remove all large red items and all metallic items. How many items remain?"
+    },
+    {
+        "pid": "941",
+        "question": "What number comes next in the sequence?",
+        "query": "Hint: Kindly provide an integer response to the question, and make sure to present the final answer clearly at the end, such as 1, 2, or 3.  \nQuestion: What is the next number in the sequence?"
+    },
+    {
+        "pid": "942",
+        "question": "What is the value of the function f when the input is 0?",
+        "query": "Hint: Kindly provide an integer answer to the question and include the final result, such as 1, 2, or 3, at the end. \nQuestion: What is the value of f(0)?"
+    },
+    {
+        "pid": "943",
+        "question": "What is the difference in value between two adjacent major ticks on the Y-axis?",
+        "query": "Hint: Please respond with an integer value to the question and state your final answer clearly, such as 1, 2, or 3 at the end. \nQuestion: What is the space between two adjacent major ticks on the Y-axis?"
+    },
+    {
+        "pid": "944",
+        "question": "What is the total distance around the shape?",
+        "query": "Hint: Provide a numerical answer without decimals, such as 1, 2, or 3, at the end.  \nQuestion: What is the total distance around the shape?"
+    },
+    {
+        "pid": "945",
+        "question": "What is the age difference between the two individuals in the picture?",
+        "query": "Please provide an integer answer that represents the age difference between the two individuals in the image, such as 1, 2, or 3, at the end of your response."
+    },
+    {
+        "pid": "946",
+        "question": "What is the age difference between the two individuals in the picture?",
+        "query": "Hint: Please provide an integer response to the question, and include the final number at the end, such as 1, 2, or 3.  \nQuestion: How many years apart are the ages of the two individuals in the image?"
+    },
+    {
+        "pid": "948",
+        "question": "A group of students measured the distance from their homes to the school in blocks. What is the average of these distances?",
+        "query": "Hint: Please give a whole number as your answer and state the final value, such as 1, 2, or 3, at the end. \nQuestion: A group of students looked at the distance, in blocks, from their homes to the school. What is the average of those distances?"
+    },
+    {
+        "pid": "949",
+        "question": "What is the total percentage of the Lowest ROI and Medium ROI in search engine optimization?",
+        "query": "Hint: Kindly provide an integer response for the question and state the final value at the end, such as 1, 2, or 3.  \nQuestion: What is the total percentage of the Lowest ROI and Medium ROI in SEO?"
+    },
+    {
+        "pid": "953",
+        "question": "What fraction of trees have leaves?",
+        "query": "Hint: Please respond with a whole number as your answer, and state the final value clearly, such as 1, 2, or 3, at the end. \nQuestion: What percentage of trees possess leaves?"
+    },
+    {
+        "pid": "956",
+        "question": "Remove all the small blue rubber items and all the brown shiny balls. How many objects do you have remaining?",
+        "query": "Hint: Provide a whole number as your answer, for example, 1, 2, or 3, at the end.  \nQuestion: Remove all the small blue rubber items and all the brown shiny balls. How many objects remain?"
+    },
+    {
+        "pid": "959",
+        "question": "The teachers at an elementary school tallied the number of desks in their classrooms. What is the median of these amounts?",
+        "query": "Hint: Please respond with an integer value as the final answer, such as 1, 2, or 3.  \nQuestion: The teachers at an elementary school tallied the number of desks in each classroom. What is the median of these numbers?"
+    },
+    {
+        "pid": "960",
+        "question": "What is the age difference between the two people in the picture?",
+        "query": "Hint: Kindly provide an integer answer to the question and state the final result at the end, for example, 1, 2, or 3.  \nQuestion: How many years apart are the ages of the two people in the image?"
+    },
+    {
+        "pid": "961",
+        "question": "What is the minimum value in the blue bar?",
+        "query": "Tip: Make sure to provide a whole number as your answer and include the final number at the end, such as 1, 2, or 3.  \nQuestion: What is the minimum value shown in the blue bar?"
+    },
+    {
+        "pid": "963",
+        "question": "At what value of x does the function f attain its local maximum?",
+        "query": "Hint: Please provide an integer value as your answer, such as 1, 2, or 3, at the end. \nQuestion: At what value of x does the function f have its local maximum?"
+    },
+    {
+        "pid": "964",
+        "question": "Adjust the ruler to determine the length of the line, rounded to the nearest centimeter. The line measures approximately (_) centimeters.",
+        "query": "Hint: Kindly respond to the question that expects a whole number and include the final answer, such as 1, 2, or 3, at the end.  \nQuestion: Adjust the ruler to determine the length of the line, rounding to the nearest centimeter. The line measures approximately (_) centimeters."
+    },
+    {
+        "pid": "965",
+        "question": "What is the closest yard line that you can see?",
+        "query": "Hint: Kindly provide an integer for the answer, such as 1, 2, or 3, at the end of your response.  \nQuestion: What is the lowest yard line visible?"
+    },
+    {
+        "pid": "966",
+        "question": "Adjust the ruler to determine the pencil's length rounded to the nearest inch. The pencil measures approximately (_) inches in length.",
+        "query": "Hint: Kindly provide an integer response and state the final number at the end, such as 1, 2, or 3. \nQuestion: Adjust the ruler to determine the pencil's length rounded to the nearest inch. The pencil is approximately (_) inches long."
+    },
+    {
+        "pid": "967",
+        "question": "In how many years does the revenue generated from domestic visitors exceed the average revenue generated from domestic visitors across all years?",
+        "query": "Hint: Please respond to the question that asks for an integer answer and include the final numerical value at the end, such as 1, 2, 3, etc. \nQuestion: After how many years does the amount earned from national visitors exceed the average amount earned from national visitors over all the years?"
+    },
+    {
+        "pid": "968",
+        "question": "Remove all the blue balls and all the large yellow rubber balls. How many items remain?",
+        "query": "Hint: Please provide an integer for your final answer, such as 1, 2, or 3. \nQuestion: Remove all the blue balls and all the large yellow rubber balls. How many items remain?"
+    },
+    {
+        "pid": "973",
+        "question": "How many roots does this function have?",
+        "query": "Hint: Kindly provide an integer answer to the question and include the final value, such as 1, 2, or 3, at the end. \nQuestion: How many zeros does this function have?"
+    },
+    {
+        "pid": "975",
+        "question": "Remove all the brown matte items and all the blue metallic items. How many items remain?",
+        "query": "Hint: Provide a whole number as your answer and present the final result, such as 1, 2, or 3, at the end. \nQuestion: Remove all the brown matte items. Remove all the blue metallic items. What is the total number of items remaining?"
+    },
+    {
+        "pid": "978",
+        "question": "Allie maintained a record of the miles she biked over the last week. What is the range of those distances?",
+        "query": "Hint: Please provide an integer as your final answer, such as 1, 2, or 3. \nQuestion: Allie maintained a record of the miles she biked over the last week. What is the range of those values?"
+    },
+    {
+        "pid": "979",
+        "question": "What is the number displayed?",
+        "query": "Hint: Kindly provide an integer as your answer and include the final number, such as 1, 2, or 3, at the end. \nQuestion: What number is displayed?"
+    },
+    {
+        "pid": "980",
+        "question": "What is the largest number displayed?",
+        "query": "Hint: Kindly provide an integer as your answer and include the final result at the end, such as 1, 2, or 3. \nQuestion: What is the largest number displayed?"
+    },
+    {
+        "pid": "983",
+        "question": "What is the maximum accuracy shown in the entire chart?",
+        "query": "Hint: Please respond to the question that asks for an integer value and include the final answer at the end, like 1, 2, or 3.  \nQuestion: What is the maximum accuracy indicated in the entire chart?"
+    },
+    {
+        "pid": "985",
+        "question": "What is the lowest percentage shown in the chart?",
+        "query": "Hint: Please give an integer response and indicate the final value at the end, such as 1, 2, or 3. \nQuestion: What is the lowest percentage shown in the chart?"
+    },
+    {
+        "pid": "987",
+        "question": "A cross-section of an airplane wing has been provided, with measurements of its thickness, in centimeters, taken at intervals of 20 centimeters. The thickness values recorded are as follows: 5.8, 20.3, 26.7, 29.0, 27.6, 27.3, 23.8, 20.5, 15.1, 8.7, and 2.8. Apply the Midpoint Rule to calculate an estimate of the area of the wing's cross-section.",
+        "query": "Hint: Provide an integer answer based on your calculations, and make sure to state the final value clearly, such as 1, 2, or 3 at the end."
+    },
+    {
+        "pid": "988",
+        "question": "How much older or younger is one person compared to the other in the image?",
+        "query": "Hint: Kindly provide an integer as your answer, such as 1, 2, or 3, at the conclusion. \nQuestion: How many years apart in age are the two individuals shown in the image?"
+    },
+    {
+        "pid": "989",
+        "question": "What is the number of people who like the most favored item in the entire chart?",
+        "query": "Hint: Please provide a whole number as your answer and include the final value, such as 1, 2, or 3, at the end.   \nQuestion: How many individuals have a preference for the most favored item in the entire chart?"
+    },
+    {
+        "pid": "993",
+        "question": "Remove all the small yellow matte cylindrical shapes and all the small blue rubber spherical shapes. How many objects remain?",
+        "query": "Hint: Please provide an integer as your answer, such as 1, 2, or 3, at the end. \nQuestion: Remove all the small yellow matte cylinders and all the small blue rubber spheres. How many objects remain?"
+    },
+    {
+        "pid": "996",
+        "question": "If you take away all the large shiny balls and all the blue rubber blocks, how many objects remain?",
+        "query": "Hint: Please respond with an integer value as your answer and include the final number, such as 1, 2, or 3, at the end.  \nQuestion: Remove all the large shiny balls and all the blue rubber blocks. How many objects remain?"
+    },
+    {
+        "pid": "1000",
+        "question": "Remove all the brown matte cylinders and all the large purple matte items. How many objects do you have remaining?",
+        "query": "Hint: Please provide a whole number as your answer and include the final result at the end, such as 1, 2, or 3. \nQuestion: Remove all the brown matte cylinders and all the large purple matte items. What is the total number of objects remaining?"
+    }
+]
