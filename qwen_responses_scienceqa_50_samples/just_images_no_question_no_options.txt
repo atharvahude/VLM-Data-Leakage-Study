@@ -1,0 +1,226 @@
+Index: 1
+Question: Which of the following could Gordon's test show?
+Actual Choices: ['if the spacecraft was damaged when using a parachute with a 1 m vent going 200 km per hour', 'how steady a parachute with a 1 m vent was at 200 km per hour', 'whether a parachute with a 1 m vent would swing too much at 400 km per hour']
+Model Output: The image shows a large, spherical object that appears to be a model or a representation of a spacecraft or satellite. The object has a reflective surface with a yellow and orange stripe, and it is suspended in a modern, well-lit indoor environment, possibly a museum or exhibition hall. The background features modern architecture with large windows and a high ceiling.
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 2
+Question: What is the name of the colony shown?
+Actual Choices: ['Maryland', 'New Hampshire', 'Rhode Island', 'Vermont']
+Model Output: The state highlighted in green on the map is New Hampshire.
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 3
+Question: Which of these organisms contains matter that was once part of the lichen?
+Actual Choices: ['bilberry', 'mushroom']
+Model Output: This is a food web diagram depicting the relationships between various organisms in a tundra ecosystem. Here is a detailed description of the organisms and their interactions:
+
+1. **Grizzly Bear**:
+   - Eats: Barren-ground caribou.
+   - Depicted in the top right corner.
+
+2. **Barren-ground Caribou**:
+   - Eats: Lichen.
+   - Depicted in the middle right.
+
+3. **Arctic Fox**:
+   - Eats: Collared lemming.
+   - Depicted in the bottom left.
+
+4. **Collared Lemming**:
+   - E
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 4
+Question: What is the expected ratio of offspring with a woolly fleece to offspring with a hairy fleece? Choose the most likely ratio.
+Actual Choices: ['0:4', '4:0', '2:2', '1:3', '3:1']
+Model Output: The image shows a 2x2 grid with the following arrangement:
+
+- The top row has two 'f's.
+- The bottom row has two 'ff's.
+
+The grid looks like this:
+
+```
+f
+f
+ff
+ff
+```
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 5
+Question: Which property do these three objects have in common?
+Actual Choices: ['shiny', 'slippery', 'opaque']
+Model Output: The image shows three items with their corresponding labels:
+
+1. A tortoise shell
+2. A crown
+3. A basketball
+Correct Answer Index: 2
+--------------------------------------------------
+Index: 6
+Question: Think about the magnetic force between the magnets in each pair. Which of the following statements is true?
+Actual Choices: ['The magnitude of the magnetic force is the same in both pairs.', 'The magnitude of the magnetic force is smaller in Pair 1.', 'The magnitude of the magnetic force is smaller in Pair 2.']
+Model Output: To determine which pair of magnets will attract each other, we need to consider the orientation of the magnetic poles. Magnets attract opposite poles (North to South and South to North).
+
+Let's analyze each pair:
+
+### Pair 1:
+- The first magnet has its North pole facing up and its South pole facing down.
+- The second magnet has its South pole facing up and its North pole facing down.
+
+Since the North pole of the first magnet is facing the South pole of the second magnet, these poles will attract each other.
+
+### Pair 2:
+- The first magnet has its North pole facing up and its South pole facing down.
+
+Correct Answer Index: 2
+--------------------------------------------------
+Index: 7
+Question: What is the capital of Wyoming?
+Actual Choices: ['Phoenix', 'Baton Rouge', 'Honolulu', 'Cheyenne']
+Model Output: The state highlighted in green on the map is Wyoming.
+Correct Answer Index: 3
+--------------------------------------------------
+Index: 8
+Question: Is the following statement about our solar system true or false?
+The largest planet is made mainly of ice.
+Actual Choices: ['true', 'false']
+Model Output: The table shows the volume and primary composition of the planets in our solar system. The volume of each planet is given in billions of cubic kilometers (km³). The primary composition of each planet is also listed.
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 9
+Question: Which of the following organisms is the primary consumer in this food web?
+Actual Choices: ['copepod', 'black crappie', 'bacteria']
+Model Output: This image depicts a food web in an aquatic ecosystem. The food web includes various organisms and their feeding relationships. Here is a breakdown of the interactions shown:
+
+1. **Golden Algae**:
+   - **Consumers**: Copepods and rotifers.
+   - **Producers**: Golden algae.
+
+2. **Copepods**:
+   - **Consumers**: Rotifers.
+   - **Producers**: Golden algae.
+   - **Consumers**: Shiner.
+
+3. **Rotifers**:
+   - **Consumers**: Copepods.
+   - **Producers**: Golden algae.
+   - **
+Correct Answer Index: 0
+--------------------------------------------------
+Index: 10
+Question: Think about the magnetic force between the magnets in each pair. Which of the following statements is true?
+Actual Choices: ['The magnetic force is stronger in Pair 2.', 'The magnetic force is stronger in Pair 1.', 'The strength of the magnetic force is the same in both pairs.']
+Model Output: The image shows two pairs of magnets, labeled as Pair 1 and Pair 2. Each pair consists of two magnets, one with the north (N) pole on the left and the south (S) pole on the right, and the other with the south (S) pole on the left and the north (N) pole on the right. The distance between the magnets in each pair is indicated.
+
+- **Pair 1**: The distance between the magnets is 16 mm.
+- **Pair 2**: The distance between the magnets is 30 mm.
+
+The image is used to compare the magnetic attraction between the two
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 11
+Question: Which better describes the Daintree rain forest ecosystem?
+Actual Choices: ['It has year-round rain. It also has soil that is poor in nutrients.', 'It has cold winters. It also has many different types of organisms.']
+Model Output: The image depicts a lush, dense forest with a variety of green foliage. The prominent feature is a large, fan-shaped leaf, which is characteristic of certain tropical plants, possibly a type of palm or fern. The forest is rich with various shades of green, indicating a healthy, thriving ecosystem. The background is filled with dense trees and undergrowth, suggesting a tropical or subtropical climate.
+Correct Answer Index: 0
+--------------------------------------------------
+Index: 12
+Question: What is the capital of Delaware?
+Actual Choices: ['Montpelier', 'Trenton', 'Dover', 'Georgetown']
+Model Output: The map shows the United States of America with all states colored green. The state of Maryland is highlighted in blue.
+Correct Answer Index: 2
+--------------------------------------------------
+Index: 13
+Question: Which of these states is farthest north?
+Actual Choices: ['Maine', 'South Carolina', 'Kansas', 'Delaware']
+Model Output: The map shows the United States with states highlighted in green. The states highlighted are Kansas, Delaware, and South Carolina.
+Correct Answer Index: 0
+--------------------------------------------------
+Index: 14
+Question: What can Greta and Allie trade to each get what they want?
+Actual Choices: ["Greta can trade her tomatoes for Allie's sandwich.", "Allie can trade her broccoli for Greta's oranges.", "Allie can trade her almonds for Greta's tomatoes.", "Greta can trade her tomatoes for Allie's broccoli."]
+Model Output: To determine who has the healthier lunch, let's analyze the contents of each lunch box:
+
+**Greta's Lunch:**
+- A sandwich (possibly with meat or cheese)
+- Oranges
+- Cherry tomatoes
+
+**Allie's Lunch:**
+- A sandwich (possibly with meat or cheese)
+- Broccoli
+- Carrots
+- Almonds
+- Blueberries
+- Strawberries
+- A bottle of water
+
+**Analysis:**
+- **Greta's Lunch:**
+  - The sandwich could potentially be high in calories and fat depending on the ingredients.
+  - Oranges and cherry tomatoes are good sources of vitamins and
+Correct Answer Index: 3
+--------------------------------------------------
+Index: 15
+Question: What is the capital of Colorado?
+Actual Choices: ['Boulder', 'Phoenix', 'Colorado Springs', 'Denver']
+Model Output: The state highlighted on the map is Colorado.
+Correct Answer Index: 3
+--------------------------------------------------
+Index: 16
+Question: Which continent is highlighted?
+Actual Choices: ['Africa', 'North America', 'South America', 'Asia']
+Model Output: The image is a world map with countries colored in green and dark green. The countries colored in green are those that are not part of the dark green region, which appears to be a specific area in Asia. The dark green region includes countries such as China, Japan, and parts of Southeast Asia. The countries colored in green include most of the world, excluding the dark green region.
+Correct Answer Index: 3
+--------------------------------------------------
+Index: 17
+Question: Identify the question that Chase's experiment can best answer.
+Actual Choices: ['Do cardinals eat more seeds per visit from feeders containing sunflower seeds compared to feeders containing flax seeds?', 'Do cardinals visit feeders containing sunflower seeds more often than feeders containing flax seeds?']
+Model Output: The image shows a cardinal perched on a bird feeder. The feeder is filled with sunflower seeds, and the cardinal is facing the camera with its vibrant red plumage and distinctive black mask around its eyes. The background is blurred, focusing attention on the bird and the feeder.
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 18
+Question: Which material is this path made of?
+Actual Choices: ['plastic', 'brick']
+Model Output: 这是一张铺装路面的图片。路面由不同颜色的砖块铺成，呈现出弯曲的路径。砖块的颜色包括红色、灰色和黑色，路面整体看起来非常整齐和美观。
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 19
+Question: Select the bird below.
+Actual Choices: ['cane toad', 'ostrich']
+Model Output: The image shows a bird perched on a branch with red berries. The bird has a distinctive orange-red breast and a grayish back, with a yellow beak. The background features more red berries, creating a vibrant and natural setting.
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 20
+Question: Which property do these three objects have in common?
+Actual Choices: ['blue', 'hard', 'sticky']
+Model Output: The image shows three items labeled as "toothpaste," "soccer shorts," and "water slide."
+Correct Answer Index: 0
+--------------------------------------------------
+Index: 21
+Question: Which of the following was a dependent variable in this experiment?
+Actual Choices: ['the temperature of the heating pad', 'the number of days until a seed germinated']
+Model Output: The image shows a tray of seedlings. Each cell in the tray contains a small plant with green leaves, indicating that they are young seedlings. The soil in each cell is dark brown, suggesting that the plants are being grown in a controlled environment, likely for transplanting into larger pots or the garden.
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 22
+Question: What is the capital of Mississippi?
+Actual Choices: ['Detroit', 'Jackson', 'Biloxi', 'Topeka']
+Model Output: The state highlighted in green on the map is Mississippi.
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 23
+Question: Which property matches this object?
+Actual Choices: ['stretchy', 'blue']
+Model Output: The image shows a hand holding a stick with a melted marshmallow on it. The marshmallow appears to be golden brown, indicating it has been toasted.
+Correct Answer Index: 0
+--------------------------------------------------
+Index: 24
+Question: Is Rafflesia arnoldii made up of many cells?
+Actual Choices: ['yes', 'no']
+Model Output: The image shows a Rafflesia, a type of flowering plant known for producing the largest individual flowers in the world. Rafflesias are native to the rainforests of Malaysia and Indonesia. They are unique because they do not produce leaves, stems, or roots, and instead rely on other plants for nutrients. The flower is typically red or orange and can reach up to 1 meter in diameter.
+Correct Answer Index: 0
+--------------------------------------------------

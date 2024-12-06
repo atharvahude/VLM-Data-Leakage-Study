@@ -1,0 +1,169 @@
+Index: 1
+Question: Which of the following could Gordon's test show?
+Incomplete Question: Which of the following could
+Actual Choices: ['if the spacecraft was damaged when using a parachute with a 1 m vent going 200 km per hour', 'how steady a parachute with a 1 m vent was at 200 km per hour', 'whether a parachute with a 1 m vent would swing too much at 400 km per hour']
+Model Output: The parachute is (attached to the spacecraft).
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 2
+Question: What is the name of the colony shown?
+Incomplete Question: What is the name of
+Actual Choices: ['Maryland', 'New Hampshire', 'Rhode Island', 'Vermont']
+Model Output: New England
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 3
+Question: Which of these organisms contains matter that was once part of the lichen?
+Incomplete Question: Which of these organisms contains
+Actual Choices: ['bilberry', 'mushroom']
+Model Output: collared lemming
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 4
+Question: What is the expected ratio of offspring with a woolly fleece to offspring with a hairy fleece? Choose the most likely ratio.
+Incomplete Question: What is the expected ratio
+Actual Choices: ['0:4', '4:0', '2:2', '1:3', '3:1']
+Model Output: 1:1
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 5
+Question: Which property do these three objects have in common?
+Incomplete Question: Which property do these three
+Actual Choices: ['shiny', 'slippery', 'opaque']
+Model Output: round
+Correct Answer Index: 2
+--------------------------------------------------
+Index: 6
+Question: Think about the magnetic force between the magnets in each pair. Which of the following statements is true?
+Incomplete Question: Think about the magnetic force
+Actual Choices: ['The magnitude of the magnetic force is the same in both pairs.', 'The magnitude of the magnetic force is smaller in Pair 1.', 'The magnitude of the magnetic force is smaller in Pair 2.']
+Model Output: The magnetic force is strongest between the two magnets in Pair 1.
+Correct Answer Index: 2
+--------------------------------------------------
+Index: 7
+Question: What is the capital of Wyoming?
+Incomplete Question: What is the capital of
+Actual Choices: ['Phoenix', 'Baton Rouge', 'Honolulu', 'Cheyenne']
+Model Output: Cheyenne
+Correct Answer Index: 3
+--------------------------------------------------
+Index: 8
+Question: Is the following statement about our solar system true or false?
+The largest planet is made mainly of ice.
+Incomplete Question: Is the following statement about
+Actual Choices: ['true', 'false']
+Model Output: The volume of Earth is greater than the volume of Mars.
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 9
+Question: Which of the following organisms is the primary consumer in this food web?
+Incomplete Question: Which of the following organisms
+Actual Choices: ['copepod', 'black crappie', 'bacteria']
+Model Output: rotifer
+Correct Answer Index: 0
+--------------------------------------------------
+Index: 10
+Question: Think about the magnetic force between the magnets in each pair. Which of the following statements is true?
+Incomplete Question: Think about the magnetic force
+Actual Choices: ['The magnetic force is stronger in Pair 2.', 'The magnetic force is stronger in Pair 1.', 'The strength of the magnetic force is the same in both pairs.']
+Model Output: The magnetic force is stronger in pair 1 than in pair 2.
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 11
+Question: Which better describes the Daintree rain forest ecosystem?
+Incomplete Question: Which better describes the Daintree
+Actual Choices: ['It has year-round rain. It also has soil that is poor in nutrients.', 'It has cold winters. It also has many different types of organisms.']
+Model Output: The Daintree is a rainforest.
+Correct Answer Index: 0
+--------------------------------------------------
+Index: 12
+Question: What is the capital of Delaware?
+Incomplete Question: What is the capital of
+Actual Choices: ['Montpelier', 'Trenton', 'Dover', 'Georgetown']
+Model Output: The capital of Maryland is Annapolis.
+Correct Answer Index: 2
+--------------------------------------------------
+Index: 13
+Question: Which of these states is farthest north?
+Incomplete Question: Which of these states is
+Actual Choices: ['Maine', 'South Carolina', 'Kansas', 'Delaware']
+Model Output: South Carolina
+Correct Answer Index: 0
+--------------------------------------------------
+Index: 14
+Question: What can Greta and Allie trade to each get what they want?
+Incomplete Question: What can Greta and Allie
+Actual Choices: ["Greta can trade her tomatoes for Allie's sandwich.", "Allie can trade her broccoli for Greta's oranges.", "Allie can trade her almonds for Greta's tomatoes.", "Greta can trade her tomatoes for Allie's broccoli."]
+Model Output: eat their sandwiches?
+Correct Answer Index: 3
+--------------------------------------------------
+Index: 15
+Question: What is the capital of Colorado?
+Incomplete Question: What is the capital of
+Actual Choices: ['Boulder', 'Phoenix', 'Colorado Springs', 'Denver']
+Model Output: Denver
+Correct Answer Index: 3
+--------------------------------------------------
+Index: 16
+Question: Which continent is highlighted?
+Incomplete Question: Which continent is highlighted?
+Actual Choices: ['Africa', 'North America', 'South America', 'Asia']
+Model Output: Asia
+Correct Answer Index: 3
+--------------------------------------------------
+Index: 17
+Question: Identify the question that Chase's experiment can best answer.
+Incomplete Question: Identify the question that Chase's
+Actual Choices: ['Do cardinals eat more seeds per visit from feeders containing sunflower seeds compared to feeders containing flax seeds?', 'Do cardinals visit feeders containing sunflower seeds more often than feeders containing flax seeds?']
+Model Output: The question is: "Chase's (Complete the sentence)?"
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 18
+Question: Which material is this path made of?
+Incomplete Question: Which material is this path
+Actual Choices: ['plastic', 'brick']
+Model Output: brick
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 19
+Question: Select the bird below.
+Incomplete Question: Select the bird below.
+Actual Choices: ['cane toad', 'ostrich']
+Model Output: The bird is a robin.
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 20
+Question: Which property do these three objects have in common?
+Incomplete Question: Which property do these three
+Actual Choices: ['blue', 'hard', 'sticky']
+Model Output: color
+Correct Answer Index: 0
+--------------------------------------------------
+Index: 21
+Question: Which of the following was a dependent variable in this experiment?
+Incomplete Question: Which of the following was
+Actual Choices: ['the temperature of the heating pad', 'the number of days until a seed germinated']
+Model Output: The plants are growing in a tray.
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 22
+Question: What is the capital of Mississippi?
+Incomplete Question: What is the capital of
+Actual Choices: ['Detroit', 'Jackson', 'Biloxi', 'Topeka']
+Model Output: The capital of Mississippi is Jackson.
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 23
+Question: Which property matches this object?
+Incomplete Question: Which property matches this object?
+Actual Choices: ['stretchy', 'blue']
+Model Output: melted marshmallow
+Correct Answer Index: 0
+--------------------------------------------------
+Index: 24
+Question: Is Rafflesia arnoldii made up of many cells?
+Incomplete Question: Is Rafflesia arnoldii made up
+Actual Choices: ['yes', 'no']
+Model Output: Yes, Rafflesia arnoldii is made up of many petals.
+Correct Answer Index: 0
+--------------------------------------------------

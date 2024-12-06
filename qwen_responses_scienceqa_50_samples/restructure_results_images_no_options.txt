@@ -1,0 +1,170 @@
+Index: 1
+Question: Which of the following could Gordon's test show?
+Actual Choices: ['if the spacecraft was damaged when using a parachute with a 1 m vent going 200 km per hour', 'how steady a parachute with a 1 m vent was at 200 km per hour', 'whether a parachute with a 1 m vent would swing too much at 400 km per hour']
+Model Output: The image shows a large, inflated balloon-like structure, which appears to be a model of a spacecraft or a space capsule. This type of model is often used in space exploration and testing. Given the context of the question, it is likely that the model is related to a spacecraft or space capsule.
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 2
+Question: What is the name of the colony shown?
+Actual Choices: ['Maryland', 'New Hampshire', 'Rhode Island', 'Vermont']
+Model Output: The image shows a map of the United States during the colonial period, specifically highlighting the New England region. The colonies shown are New Hampshire (dark green), Massachusetts (light green), Rhode Island (light green), Connecticut (light green), New York (light green), New Jersey (light green), Delaware (light green), Maryland (light green), Virginia (light green), North Carolina (light green), South Carolina (light green), Georgia (light green), and the colonies of the Middle Atlantic region (light green).
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 3
+Question: Which of these organisms contains matter that was once part of the lichen?
+Actual Choices: ['bilberry', 'mushroom']
+Model Output: The lichen contains the remains of organisms that once lived.
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 4
+Question: What is the expected ratio of offspring with a woolly fleece to offspring with a hairy fleece? Choose the most likely ratio.
+Actual Choices: ['0:4', '4:0', '2:2', '1:3', '3:1']
+Model Output: To determine the expected ratio of offspring with fleece to those without fleece, we need to analyze the genotypes of the parents and the possible offspring genotypes.
+
+1. The parents are both "ff" (hairy).
+2. When two "ff" parents mate, all of their offspring will inherit one "f" allele from each parent.
+3. Therefore, all offspring will be "ff" (hairy).
+
+Since all offspring will be "ff" (hairy), there will be no offspring with fleece.
+
+The expected ratio of offspring with fleece to those without fleece is 0:4, or 0/4.
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 5
+Question: Which property do these three objects have in common?
+Actual Choices: ['shiny', 'slippery', 'opaque']
+Model Output: The objects that share the property of being round are the tortoise shell, the crown, and the basketball.
+Correct Answer Index: 2
+--------------------------------------------------
+Index: 6
+Question: Think about the magnetic force between the magnets in each pair. Which of the following statements is true?
+Actual Choices: ['The magnitude of the magnetic force is the same in both pairs.', 'The magnitude of the magnetic force is smaller in Pair 1.', 'The magnitude of the magnetic force is smaller in Pair 2.']
+Model Output: The force between the magnets in Pair 1 is attractive.
+Correct Answer Index: 2
+--------------------------------------------------
+Index: 7
+Question: What is the capital of Wyoming?
+Actual Choices: ['Phoenix', 'Baton Rouge', 'Honolulu', 'Cheyenne']
+Model Output: Cheyenne
+Correct Answer Index: 3
+--------------------------------------------------
+Index: 8
+Question: Is the following statement about our solar system true or false?
+The largest planet is made mainly of ice.
+Actual Choices: ['true', 'false']
+Model Output: Yes.
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 9
+Question: Which of the following organisms is the primary consumer in this food web?
+Actual Choices: ['copepod', 'black crappie', 'bacteria']
+Model Output: The black crappie is a consumer of the primary organisms in the food web. It feeds on the shiner, which in turn feeds on the copepod and water flea.
+Correct Answer Index: 0
+--------------------------------------------------
+Index: 10
+Question: Think about the magnetic force between the magnets in each pair. Which of the following statements is true?
+Actual Choices: ['The magnetic force is stronger in Pair 2.', 'The magnetic force is stronger in Pair 1.', 'The strength of the magnetic force is the same in both pairs.']
+Model Output: Pair 1
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 11
+Question: Which better describes the Daintree rain forest ecosystem?
+Actual Choices: ['It has year-round rain. It also has soil that is poor in nutrients.', 'It has cold winters. It also has many different types of organisms.']
+Model Output: The Daintree Rainforest is a tropical rainforest located in Queensland, Australia. It is known for its diverse plant and animal life, including a variety of trees, ferns, and other vegetation. The forest is characterized by its dense canopy and lush undergrowth, which provide a habitat for many species of birds, mammals, and insects. The Daintree Rainforest is also home to a number of rare and endangered species, making it an important area for conservation efforts.
+Correct Answer Index: 0
+--------------------------------------------------
+Index: 12
+Question: What is the capital of Delaware?
+Actual Choices: ['Montpelier', 'Trenton', 'Dover', 'Georgetown']
+Model Output: city
+Correct Answer Index: 2
+--------------------------------------------------
+Index: 13
+Question: Which of these states is farthest north?
+Actual Choices: ['Maine', 'South Carolina', 'Kansas', 'Delaware']
+Model Output: Maine
+Correct Answer Index: 0
+--------------------------------------------------
+Index: 14
+Question: What can Greta and Allie trade to each get what they want?
+Actual Choices: ["Greta can trade her tomatoes for Allie's sandwich.", "Allie can trade her broccoli for Greta's oranges.", "Allie can trade her almonds for Greta's tomatoes.", "Greta can trade her tomatoes for Allie's broccoli."]
+Model Output: To determine what Greta and Allie can trade for each other, let's analyze the contents of their lunches:
+
+- **Greta's lunch**: 
+  - A sandwich
+  - Tomatoes
+  - Oranges
+  - A bottle of water
+
+- **Allie's lunch**: 
+  - A sandwich
+  - Broccoli
+  - Carrots
+  - Almonds
+  - Blueberries
+  - Strawberries
+  - A bottle of water
+
+Both Greta and Allie have sandwiches, so they can trade their sandwiches with each other. Additionally, Greta has tomatoes and Allie has broccoli
+Correct Answer Index: 3
+--------------------------------------------------
+Index: 15
+Question: What is the capital of Colorado?
+Actual Choices: ['Boulder', 'Phoenix', 'Colorado Springs', 'Denver']
+Model Output: Denver
+Correct Answer Index: 3
+--------------------------------------------------
+Index: 16
+Question: Which continent is highlighted?
+Actual Choices: ['Africa', 'North America', 'South America', 'Asia']
+Model Output: Asia
+Correct Answer Index: 3
+--------------------------------------------------
+Index: 17
+Question: Identify the question that Chase's experiment can best answer.
+Actual Choices: ['Do cardinals eat more seeds per visit from feeders containing sunflower seeds compared to feeders containing flax seeds?', 'Do cardinals visit feeders containing sunflower seeds more often than feeders containing flax seeds?']
+Model Output: The image shows a cardinal bird perched on a bird feeder filled with sunflower seeds. The bird is red with a black mask around its eyes.
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 18
+Question: Which material is this path made of?
+Actual Choices: ['plastic', 'brick']
+Model Output: brick
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 19
+Question: Select the bird below.
+Actual Choices: ['cane toad', 'ostrich']
+Model Output: bird(10,355),(894,996)
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 20
+Question: Which property do these three objects have in common?
+Actual Choices: ['blue', 'hard', 'sticky']
+Model Output: The common property among the three objects (toothpaste, soccer shorts, and water slide) is that they are all blue.
+Correct Answer Index: 0
+--------------------------------------------------
+Index: 21
+Question: Which of the following was a dependent variable in this experiment?
+Actual Choices: ['the temperature of the heating pad', 'the number of days until a seed germinated']
+Model Output: The image shows a group of seedlings growing in a tray, which could be part of an experiment to study plant growth under different conditions. The variable in this experiment could be the type of soil, the amount of water, the light exposure, or other environmental factors. The dependent variable would be the growth of the seedlings, which can be measured by factors such as height, leaf size, or overall health.
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 22
+Question: What is the capital of Mississippi?
+Actual Choices: ['Detroit', 'Jackson', 'Biloxi', 'Topeka']
+Model Output: Jackson
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 23
+Question: Which property matches this object?
+Actual Choices: ['stretchy', 'blue']
+Model Output: melted marshmallow
+Correct Answer Index: 0
+--------------------------------------------------
+Index: 24
+Question: Is Rafflesia arnoldii made up of many cells?
+Actual Choices: ['yes', 'no']
+Model Output: The Rafflesia arnoldii is a parasitic plant that grows on the roots of other plants. It is known for its large, red flowers that can reach up to 3 feet in diameter. The flowers are made up of many cells, and the exact number of cells can vary depending on the size of the flower. However, it is estimated that a single Rafflesia arnoldii flower can contain up to 400 million cells.
+Correct Answer Index: 0
+--------------------------------------------------

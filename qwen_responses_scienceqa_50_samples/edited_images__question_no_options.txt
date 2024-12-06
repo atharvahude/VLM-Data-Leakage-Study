@@ -1,0 +1,154 @@
+Index: 1
+Question: Which of the following could Gordon's test show?
+Actual Choices: ['if the spacecraft was damaged when using a parachute with a 1 m vent going 200 km per hour', 'how steady a parachute with a 1 m vent was at 200 km per hour', 'whether a parachute with a 1 m vent would swing too much at 400 km per hour']
+Model Output: The image shows a test of a parachute, which is part of a space capsule. Therefore, the test could show the parachute's performance and functionality.
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 2
+Question: What is the name of the colony shown?
+Actual Choices: ['Maryland', 'New Hampshire', 'Rhode Island', 'Vermont']
+Model Output: New Hampshire
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 3
+Question: Which of these organisms contains matter that was once part of the lichen?
+Actual Choices: ['bilberry', 'mushroom']
+Model Output: To determine which organism contains matter that was once part of the lichen, we need to follow the food web and the flow of energy through the ecosystem.
+
+1. The lichen is at the bottom of the food web, providing energy to the small mammal.
+2. The small mammal eats the lichen.
+3. The small mammal is then eaten by the Arctic fox.
+4. The Arctic fox is then eaten by the grizzly bear.
+
+Therefore, the grizzly bear contains matter that was once part of the lichen.
+
+The correct answer is: Grizzly bear.
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 4
+Question: What is the expected ratio of offspring with a woolly fleece to offspring with a hairy fleece? Choose the most likely ratio.
+Actual Choices: ['0:4', '4:0', '2:2', '1:3', '3:1']
+Model Output: 3:1
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 5
+Question: Which property do these three objects have in common?
+Actual Choices: ['shiny', 'slippery', 'opaque']
+Model Output: round
+Correct Answer Index: 2
+--------------------------------------------------
+Index: 6
+Question: Think about the magnetic force between the magnets in each pair. Which of the following statements is true?
+Actual Choices: ['The magnitude of the magnetic force is the same in both pairs.', 'The magnitude of the magnetic force is smaller in Pair 1.', 'The magnitude of the magnetic force is smaller in Pair 2.']
+Model Output: In Pair 1, the magnets are attracting each other. In Pair 2, the magnets are repelling each other.
+Correct Answer Index: 2
+--------------------------------------------------
+Index: 7
+Question: What is the capital of Wyoming?
+Actual Choices: ['Phoenix', 'Baton Rouge', 'Honolulu', 'Cheyenne']
+Model Output: Cheyenne
+Correct Answer Index: 3
+--------------------------------------------------
+Index: 8
+Question: Is the following statement about our solar system true or false?
+The largest planet is made mainly of ice.
+Actual Choices: ['true', 'false']
+Model Output: False
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 9
+Question: Which of the following organisms is the primary consumer in this food web?
+Actual Choices: ['copepod', 'black crappie', 'bacteria']
+Model Output: water flea, copepod, rotifer
+Correct Answer Index: 0
+--------------------------------------------------
+Index: 10
+Question: Think about the magnetic force between the magnets in each pair. Which of the following statements is true?
+Actual Choices: ['The magnetic force is stronger in Pair 2.', 'The magnetic force is stronger in Pair 1.', 'The strength of the magnetic force is the same in both pairs.']
+Model Output: In pair 1, the like poles are repelling each other. In pair 2, the unlike poles are attracting each other.
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 11
+Question: Which better describes the Daintree rain forest ecosystem?
+Actual Choices: ['It has year-round rain. It also has soil that is poor in nutrients.', 'It has cold winters. It also has many different types of organisms.']
+Model Output: The Daintree rain forest is a tropical rain forest located in Queensland, Australia. It is known for its diverse plant and animal life, including many species of trees, ferns, and other vegetation. The forest is home to a variety of birds, mammals, reptiles, and amphibians, as well as numerous insects and other invertebrates. The Daintree rain forest is also known for its unique ecosystem, which includes a variety of soil types, water sources, and microclimates.
+Correct Answer Index: 0
+--------------------------------------------------
+Index: 12
+Question: What is the capital of Delaware?
+Actual Choices: ['Montpelier', 'Trenton', 'Dover', 'Georgetown']
+Model Output: Dover
+Correct Answer Index: 2
+--------------------------------------------------
+Index: 13
+Question: Which of these states is farthest north?
+Actual Choices: ['Maine', 'South Carolina', 'Kansas', 'Delaware']
+Model Output: Maine
+Correct Answer Index: 0
+--------------------------------------------------
+Index: 14
+Question: What can Greta and Allie trade to each get what they want?
+Actual Choices: ["Greta can trade her tomatoes for Allie's sandwich.", "Allie can trade her broccoli for Greta's oranges.", "Allie can trade her almonds for Greta's tomatoes.", "Greta can trade her tomatoes for Allie's broccoli."]
+Model Output: Greta can trade her tomatoes for Allie's almonds.
+Correct Answer Index: 3
+--------------------------------------------------
+Index: 15
+Question: What is the capital of Colorado?
+Actual Choices: ['Boulder', 'Phoenix', 'Colorado Springs', 'Denver']
+Model Output: Denver
+Correct Answer Index: 3
+--------------------------------------------------
+Index: 16
+Question: Which continent is highlighted?
+Actual Choices: ['Africa', 'North America', 'South America', 'Asia']
+Model Output: Asia
+Correct Answer Index: 3
+--------------------------------------------------
+Index: 17
+Question: Identify the question that Chase's experiment can best answer.
+Actual Choices: ['Do cardinals eat more seeds per visit from feeders containing sunflower seeds compared to feeders containing flax seeds?', 'Do cardinals visit feeders containing sunflower seeds more often than feeders containing flax seeds?']
+Model Output: What is the effect of different types of bird feeders on the number of birds that visit?
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 18
+Question: Which material is this path made of?
+Actual Choices: ['plastic', 'brick']
+Model Output: brick
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 19
+Question: Select the bird below.
+Actual Choices: ['cane toad', 'ostrich']
+Model Output: American Robin
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 20
+Question: Which property do these three objects have in common?
+Actual Choices: ['blue', 'hard', 'sticky']
+Model Output: blue
+Correct Answer Index: 0
+--------------------------------------------------
+Index: 21
+Question: Which of the following was a dependent variable in this experiment?
+Actual Choices: ['the temperature of the heating pad', 'the number of days until a seed germinated']
+Model Output: seedling growth
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 22
+Question: What is the capital of Mississippi?
+Actual Choices: ['Detroit', 'Jackson', 'Biloxi', 'Topeka']
+Model Output: Jackson
+Correct Answer Index: 1
+--------------------------------------------------
+Index: 23
+Question: Which property matches this object?
+Actual Choices: ['stretchy', 'blue']
+Model Output: melted
+Correct Answer Index: 0
+--------------------------------------------------
+Index: 24
+Question: Is Rafflesia arnoldii made up of many cells?
+Actual Choices: ['yes', 'no']
+Model Output: Yes, Rafflesia arnoldii is made up of many cells.
+Correct Answer Index: 0
+--------------------------------------------------
