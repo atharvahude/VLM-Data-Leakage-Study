@@ -1,0 +1,12 @@
+File,Modified Accuracy,Original  Accuracy
+horizontal_flip,64,64
+restructured_add_patches,57.99999999999999,64
+paraphrased_add_patches,56.00000000000001,64
+restructured_horizontal_flip,54,64
+restructured,60,64
+add_patches,64,64
+paraphrased_rotate_45,68,64
+paraphrased_horizontal_flip,56.00000000000001,64
+para,64,64
+restructured_rotate_45,60,64
+rotate_45,76,64
