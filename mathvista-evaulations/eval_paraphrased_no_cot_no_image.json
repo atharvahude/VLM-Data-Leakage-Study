@@ -1,0 +1,2510 @@
+[
+    {
+        "pid": "2",
+        "Ground Truth": "1000",
+        "Prediction": "The total volume of the measuring cup is 500 grams.",
+        "eval": "False"
+    },
+    {
+        "pid": "4",
+        "Ground Truth": "4",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "11",
+        "Ground Truth": "5",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "13",
+        "Ground Truth": "0",
+        "Prediction": "0",
+        "eval": "True"
+    },
+    {
+        "pid": "16",
+        "Ground Truth": "2",
+        "Prediction": "2",
+        "eval": "True"
+    },
+    {
+        "pid": "19",
+        "Ground Truth": "400",
+        "Prediction": "The maximum measurement recorded by this class is 3.",
+        "eval": "False"
+    },
+    {
+        "pid": "21",
+        "Ground Truth": "2",
+        "Prediction": "The model contains 4 dots separated into 2 equal groups. There are 2 dots in each group.",
+        "eval": "True"
+    },
+    {
+        "pid": "22",
+        "Ground Truth": "0",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "27",
+        "Ground Truth": "11",
+        "Prediction": "The age difference between the two individuals in the image is 2 years.",
+        "eval": "False"
+    },
+    {
+        "pid": "29",
+        "Ground Truth": "4",
+        "Prediction": "I'm sorry, but I cannot provide an answer to this question as it involves personal information that I cannot access or disclose.",
+        "eval": "False"
+    },
+    {
+        "pid": "36",
+        "Ground Truth": "9",
+        "Prediction": "The age difference between the two individuals in the image is 2 years.",
+        "eval": "False"
+    },
+    {
+        "pid": "37",
+        "Ground Truth": "3",
+        "Prediction": "The limit of the function as x approaches -1 is 2.",
+        "eval": "False"
+    },
+    {
+        "pid": "38",
+        "Ground Truth": "0",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "40",
+        "Ground Truth": "7",
+        "Prediction": "To answer this question, I would need to know the original number of objects and the number of brown blocks and large blue rubber items. Without that information, I cannot provide an integer as the final answer. Could you please provide more details or clarify the question?",
+        "eval": "False"
+    },
+    {
+        "pid": "41",
+        "Ground Truth": "7",
+        "Prediction": "The age difference between the two individuals in the image is 2 years.",
+        "eval": "False"
+    },
+    {
+        "pid": "42",
+        "Ground Truth": "8",
+        "Prediction": "I'm sorry, but I cannot provide an answer to that question as it involves personal information.",
+        "eval": "False"
+    },
+    {
+        "pid": "44",
+        "Ground Truth": "18",
+        "Prediction": "To answer this question, I would need to know the cost per kilogram of the oval beads and the star-shaped beads. Without this information, I cannot calculate the total cost. Could you please provide the cost per kilogram for each type of bead?",
+        "eval": "False"
+    },
+    {
+        "pid": "45",
+        "Ground Truth": "-3",
+        "Prediction": "The change in wait time between August and September is -2.",
+        "eval": "False"
+    },
+    {
+        "pid": "47",
+        "Ground Truth": "6",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "49",
+        "Ground Truth": "0",
+        "Prediction": "The answer is: 6",
+        "eval": "False"
+    },
+    {
+        "pid": "52",
+        "Ground Truth": "6",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "53",
+        "Ground Truth": "1",
+        "Prediction": "I'm sorry, but I cannot provide that information as it is not relevant to the task at hand.",
+        "eval": "False"
+    },
+    {
+        "pid": "56",
+        "Ground Truth": "6",
+        "Prediction": "To find the perimeter of a rectangle, you need to add up the lengths of all four sides. The formula for the perimeter of a rectangle is P = 2L + 2W, where L is the length and W is the width. \nLet's say the length of the rectangle is 8 units and the width is 4 units. \nUsing the formula, we can calculate the perimeter as follows: \nP = 2(8) + 2(4) \nP = 16 + 8 \nP = 24 \nTherefore, the perimeter of the rectangle is 24 units.",
+        "eval": "False"
+    },
+    {
+        "pid": "57",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "60",
+        "Ground Truth": "22",
+        "Prediction": "I'm sorry, but I cannot provide that information as it involves personal and sensitive information.",
+        "eval": "False"
+    },
+    {
+        "pid": "63",
+        "Ground Truth": "7",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "67",
+        "Ground Truth": "16",
+        "Prediction": "The perimeter of a square is the total distance around it. To find the perimeter of a square, you need to know the length of one side. Let's say the length of one side of the square is 5 units. \nTo find the perimeter, you need to add up the lengths of all four sides. Since all sides of a square are equal in length, you can simply multiply the length of one side by 4. \nSo, the perimeter of the square is 5 x 4 = 20 units. \nThe final result is 20.",
+        "eval": "False"
+    },
+    {
+        "pid": "69",
+        "Ground Truth": "7",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "70",
+        "Ground Truth": "8",
+        "Prediction": "The age difference between the two individuals in the image is 2 years.",
+        "eval": "False"
+    },
+    {
+        "pid": "71",
+        "Ground Truth": "18",
+        "Prediction": "The perimeter of a rectangle is calculated by adding the lengths of all four sides. If the length of the rectangle is L and the width is W, then the perimeter is given by the formula:\nP = 2L + 2W\nSo, the total distance around the rectangle, or the perimeter, is 2 times the length plus 2 times the width.",
+        "eval": "False"
+    },
+    {
+        "pid": "72",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "77",
+        "Ground Truth": "2019",
+        "Prediction": "To answer this question, we need to calculate the difference between the two lines for each year and find the year with the greatest difference. \nHere are the data points for the two lines:\nYear | Line 1 | Line 2\n-----|--------|-------\n2000 | 10     | 15\n2001 | 12     | 18\n2002 | 14     | 21\n2003 | 16     | 24\n2004 | 18     | 27\n2005 | 20     | 30\n2006 | 22     | 33\n2007 | 24     | 36\n2008 | 26     | 39\n2009 | 28     | 42\n2010 | 30     | 45\n2011 | 32     | 48\n2012 | 34     | 51\n2013 | 36     | 54\n2014 | 38     | 57\n2015 | 40     | 60\n2016 | 42     | 63\n2017 | 44     | 66\n2018 | 46     | 69\n2019 | 48     | 72\n2020 | 50     | 75\n2021 | 52     | 78\n2022 | 54     | 81\n2023 | 56     | 84\n2024 | 58     | 87\n2025 | 60     | 90\n2026 | 62     | 93\n2027 | 64     | 96\n2028 | 66     | 99\n2029 | 68     | 102\n2030 | 70     | 105\n2031 | 72",
+        "eval": "False"
+    },
+    {
+        "pid": "78",
+        "Ground Truth": "8",
+        "Prediction": "I'm sorry, but I need more information or context to determine the unknown value. Could you please provide more details or clarify the question?",
+        "eval": "False"
+    },
+    {
+        "pid": "81",
+        "Ground Truth": "-1",
+        "Prediction": "The value of r when theta is equal to 3\u03c0/2 is 1.",
+        "eval": "False"
+    },
+    {
+        "pid": "85",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "88",
+        "Ground Truth": "30",
+        "Prediction": "The value of x is 3.",
+        "eval": "False"
+    },
+    {
+        "pid": "89",
+        "Ground Truth": "25",
+        "Prediction": "The average fuel efficiency of a city bus is 3 miles per gallon.",
+        "eval": "False"
+    },
+    {
+        "pid": "90",
+        "Ground Truth": "5",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "97",
+        "Ground Truth": "0",
+        "Prediction": "0",
+        "eval": "True"
+    },
+    {
+        "pid": "98",
+        "Ground Truth": "2",
+        "Prediction": "To determine the value represented by the square in the diagram, we need to analyze the diagram and look for any patterns or relationships between the elements. Unfortunately, without the actual diagram, I cannot provide a specific answer. Could you please provide the diagram or more information about it?",
+        "eval": "False"
+    },
+    {
+        "pid": "100",
+        "Ground Truth": "12",
+        "Prediction": "The total of all the values in the governing group is 6.",
+        "eval": "False"
+    },
+    {
+        "pid": "102",
+        "Ground Truth": "6",
+        "Prediction": "The area of the figure is 4.",
+        "eval": "False"
+    },
+    {
+        "pid": "103",
+        "Ground Truth": "2",
+        "Prediction": "0",
+        "eval": "False"
+    },
+    {
+        "pid": "106",
+        "Ground Truth": "0",
+        "Prediction": "0",
+        "eval": "True"
+    },
+    {
+        "pid": "109",
+        "Ground Truth": "5",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "111",
+        "Ground Truth": "5",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "113",
+        "Ground Truth": "20",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "115",
+        "Ground Truth": "3",
+        "Prediction": "The age difference between the two individuals in the image is 2 years.",
+        "eval": "False"
+    },
+    {
+        "pid": "118",
+        "Ground Truth": "1",
+        "Prediction": "To determine the highest value that this function can reach, we need to know the function itself. Could you please provide the function or more information about it?",
+        "eval": "False"
+    },
+    {
+        "pid": "120",
+        "Ground Truth": "3",
+        "Prediction": "The highest power of the variable in the function is 2. The final value at the end is 1. Therefore, the degree of this function is 2.",
+        "eval": "False"
+    },
+    {
+        "pid": "121",
+        "Ground Truth": "5",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "126",
+        "Ground Truth": "9",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "127",
+        "Ground Truth": "5",
+        "Prediction": "To answer this question, we need to know the accuracy of each algorithm. Could you please provide that information?",
+        "eval": "False"
+    },
+    {
+        "pid": "128",
+        "Ground Truth": "6",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "129",
+        "Ground Truth": "3",
+        "Prediction": "To answer this question, you would need to physically measure the twig with a ruler and then round the measurement to the nearest inch. Since I cannot perform physical actions, I cannot provide an exact measurement. However, if you were to measure the twig and find that it is, for example, 3.7 inches long, you would round this to the nearest inch, which would be 4 inches. So the answer would be 4 inches.",
+        "eval": "False"
+    },
+    {
+        "pid": "130",
+        "Ground Truth": "0",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "131",
+        "Ground Truth": "3",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "133",
+        "Ground Truth": "4",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "136",
+        "Ground Truth": "64",
+        "Prediction": "The difference between the maximum and minimum values of the blue bar is 2.",
+        "eval": "False"
+    },
+    {
+        "pid": "145",
+        "Ground Truth": "10",
+        "Prediction": "I'm sorry, but I need more information to help you identify the missing term. Could you please provide the sequence of terms or the context in which the missing term appears?",
+        "eval": "False"
+    },
+    {
+        "pid": "146",
+        "Ground Truth": "4",
+        "Prediction": "To answer this question, I would need the specific numbers of science articles that Kimberly's classmates have read. Could you please provide those numbers?",
+        "eval": "False"
+    },
+    {
+        "pid": "156",
+        "Ground Truth": "4",
+        "Prediction": "The limit as x approaches 1 from the left is 1.",
+        "eval": "False"
+    },
+    {
+        "pid": "157",
+        "Ground Truth": "9335",
+        "Prediction": "I'm sorry, but I don't have any information about a number being displayed. Could you please provide more context or clarify your question?",
+        "eval": "False"
+    },
+    {
+        "pid": "158",
+        "Ground Truth": "7",
+        "Prediction": "I'm sorry, but I cannot provide that information as it is not relevant to the task you have assigned.",
+        "eval": "False"
+    },
+    {
+        "pid": "159",
+        "Ground Truth": "100",
+        "Prediction": "The gap between two successive major ticks on the Y-axis is 10.",
+        "eval": "False"
+    },
+    {
+        "pid": "161",
+        "Ground Truth": "71",
+        "Prediction": "The two numbers shown in the image are 4 and 5. The total of these two numbers is 9.",
+        "eval": "False"
+    },
+    {
+        "pid": "162",
+        "Ground Truth": "4",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "163",
+        "Ground Truth": "7519",
+        "Prediction": "4",
+        "eval": "False"
+    },
+    {
+        "pid": "165",
+        "Ground Truth": "6",
+        "Prediction": "I'm sorry, but I don't understand the question. Could you please provide more context or clarify the question?",
+        "eval": "False"
+    },
+    {
+        "pid": "167",
+        "Ground Truth": "2",
+        "Prediction": "To answer this question, I would need to know the specific function you are referring to. Could you please provide the function or more information about it?",
+        "eval": "False"
+    },
+    {
+        "pid": "169",
+        "Ground Truth": "5",
+        "Prediction": "The distance between two adjacent major ticks on the Y-axis is 2.",
+        "eval": "False"
+    },
+    {
+        "pid": "171",
+        "Ground Truth": "20",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "175",
+        "Ground Truth": "24",
+        "Prediction": "To answer this question, we need to know the accuracy of the liver algorithm across all datasets. Without this information, we cannot provide an integer answer. Could you please provide the accuracy values for each dataset?",
+        "eval": "False"
+    },
+    {
+        "pid": "180",
+        "Ground Truth": "6",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "183",
+        "Ground Truth": "4",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "184",
+        "Ground Truth": "0",
+        "Prediction": "0",
+        "eval": "True"
+    },
+    {
+        "pid": "187",
+        "Ground Truth": "9015",
+        "Prediction": "I'm sorry, but I don't have any information about a number being displayed. Could you please provide more context or clarify your question?",
+        "eval": "False"
+    },
+    {
+        "pid": "188",
+        "Ground Truth": "3",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "189",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "190",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "191",
+        "Ground Truth": "4",
+        "Prediction": "To answer this question, we need to calculate the average volume of air carriers in Ethiopia over all the years and compare it to the volume of air carriers in each year. \n\nFirst, we need to gather data on the volume of air carriers in Ethiopia for each year. This data can be obtained from various sources such as government reports, industry publications, and news articles. \n\nOnce we have the data, we can calculate the average volume of air carriers in Ethiopia by adding up the volume for each year and dividing by the total number of years. \n\nNext, we can compare the volume of air carriers in each year to the average volume calculated above. If the volume in a particular year is higher than the average, we can count that year as one year where the volume exceeds the average. \n\nFinally, we can count the number of years where the volume exceeds the average and provide the answer as a whole number. \n\nWithout the specific data, it is not possible to provide an exact answer to this question. However, the process outlined above can be used to calculate the answer once the data is available.",
+        "eval": "False"
+    },
+    {
+        "pid": "193",
+        "Ground Truth": "3",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "194",
+        "Ground Truth": "50",
+        "Prediction": "The average capacity for commuters on this vehicle is 2.",
+        "eval": "False"
+    },
+    {
+        "pid": "197",
+        "Ground Truth": "2",
+        "Prediction": "0",
+        "eval": "False"
+    },
+    {
+        "pid": "201",
+        "Ground Truth": "19",
+        "Prediction": "The border group consists of the numbers 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, and 20. \nThe total of all the numbers in the border group is 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12 + 13 + 14 + 15 + 16 + 17 + 18 + 19 + 20 = 136.",
+        "eval": "False"
+    },
+    {
+        "pid": "202",
+        "Ground Truth": "3",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "204",
+        "Ground Truth": "12",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "205",
+        "Ground Truth": "24",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "207",
+        "Ground Truth": "5",
+        "Prediction": "The total accuracy of the magic and secure algorithms combined is 5.",
+        "eval": "True"
+    },
+    {
+        "pid": "208",
+        "Ground Truth": "5",
+        "Prediction": "The age difference between the oldest person on the left and the oldest person on the right is 2 years.",
+        "eval": "False"
+    },
+    {
+        "pid": "210",
+        "Ground Truth": "0",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "211",
+        "Ground Truth": "6",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "213",
+        "Ground Truth": "2001",
+        "Prediction": "1980",
+        "eval": "False"
+    },
+    {
+        "pid": "214",
+        "Ground Truth": "2",
+        "Prediction": "To answer this question, we need to calculate the average percentage of revenue generated from merchandise imports in Canada across all years and then compare it to the percentage of revenue generated from merchandise imports in each year.\n\nFirst, let's calculate the average percentage of revenue generated from merchandise imports in Canada across all years:\n\n(10 + 12 + 14 + 16 + 18 + 20 + 22 + 24 + 26 + 28 + 30 + 32 + 34 + 36 + 38 + 40 + 42 + 44 + 46 + 48 + 50 + 52 + 54 + 56 + 58 + 60 + 62 + 64 + 66 + 68 + 70 + 72 + 74 + 76 + 78 + 80 + 82 + 84 + 86 + 88 + 90 + 92 + 94 + 96 + 98 + 100 + 102 + 104 + 106 + 108 + 110 + 112 + 114 + 116 + 118 + 120 + 122 + 124 + 126 + 128 + 130 + 132 + 134 + 136 + 138 + 140 + 142 + 144 + 146 + 148 + 150 + 152 + 154 + 156 + 158 + 160 + 162 + 164 + 166 + 168 + 170 + 172 + 174 + 176 + 178 + 180 + 182 + 184 + 186 + 188 + 190 + 192 + 194 + 19",
+        "eval": "False"
+    },
+    {
+        "pid": "215",
+        "Ground Truth": "8",
+        "Prediction": "To answer this question, I would need to know the specific mileage numbers that Layla recorded each day. Without that information, I cannot calculate the range of the numbers. Could you please provide the mileage numbers?",
+        "eval": "False"
+    },
+    {
+        "pid": "216",
+        "Ground Truth": "90",
+        "Prediction": "37%",
+        "eval": "False"
+    },
+    {
+        "pid": "217",
+        "Ground Truth": "2",
+        "Prediction": "The degree of a polynomial function is the highest power of the variable in the function. For example, in the function f(x) = 3x^4 + 2x^2 - 1, the degree is 4 because the highest power of x is 4. In the function f(x) = x^3 + 2x^2 - 3x + 4, the degree is 3 because the highest power of x is 3. In the function f(x) = 5x^2 + 2x - 1, the degree is 2 because the highest power of x is 2. In the function f(x) = 2x + 1, the degree is 1 because the highest power of x is 1. In the function f(x) = 3, the degree is 0 because there is no x in the function. So, the degree of a polynomial function is always an integer.",
+        "eval": "False"
+    },
+    {
+        "pid": "218",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "219",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "222",
+        "Ground Truth": "3",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "230",
+        "Ground Truth": "0",
+        "Prediction": "0",
+        "eval": "True"
+    },
+    {
+        "pid": "233",
+        "Ground Truth": "2",
+        "Prediction": "The length of the nail is approximately 1 inch.",
+        "eval": "False"
+    },
+    {
+        "pid": "240",
+        "Ground Truth": "1",
+        "Prediction": "I'm sorry, but I cannot provide personal information about the individuals in the image.",
+        "eval": "False"
+    },
+    {
+        "pid": "241",
+        "Ground Truth": "11",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "243",
+        "Ground Truth": "5",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "245",
+        "Ground Truth": "24",
+        "Prediction": "To answer this question, I would need to know the price of a grilled steak and a mushroom pizza. Without that information, I cannot provide an accurate answer. Could you please provide the prices of the two items?",
+        "eval": "False"
+    },
+    {
+        "pid": "246",
+        "Ground Truth": "13",
+        "Prediction": "To estimate the increase in the amount of water vapor in the atmosphere with a temperature increase of 2.0 K, we can use the Clausius-Clapeyron relation, which describes the relationship between temperature and vapor pressure. The Clausius-Clapeyron equation is given by:\n\n\n\\[ \\frac{d(ln P)}{d(ln T)} = \\frac{A}{R} \\]\n\n\nwhere \\( P \\) is the vapor pressure, \\( T \\) is the temperature, \\( A \\) is the heat of vaporization, and \\( R \\) is the ideal gas constant.\n\n\nThe heat of vaporization (\\( A \\)) for water is approximately \\( 2.267 \\times 10^6 \\mathrm{~J/kg} \\). The ideal gas constant (\\( R \\)) is \\( 8.314 \\mathrm{~J/(mol\u00b7K)} \\).\n\n\nFirst, we need to convert the temperature increase from Kelvin to Celsius:\n\n\n\\[ 2.0 \\mathrm{~K} = 2.0 \\mathrm{~C} \\]\n\n\nNext, we calculate the natural logarithm of the equilibrium vapor pressure at the initial temperature (290 K):\n\n\n\\[ ln(P_{initial}) = ln(0.0189) \\]\n\n\n\\[ ln(P_{initial}) \\approx -4.435 \\]\n\n\nNow, we calculate the natural logarithm of the equilibrium vapor pressure at the final temperature (292 K):\n\n\n\\[ ln(P_{final}) = ln(0.0189) \\]\n\n\n\\[ ln(P_{final}) \\approx -4.435 \\]\n\n\nSince the natural logarithm of the vapor pressure is constant for a given temperature, the vapor pressure at 292 K is the same as at 290 K. Therefore, the relative increase in vapor pressure is:\n\n\n\\[ \\frac{P_{final} - P_{initial}}{P_{initial}} = 0 \\]\n\n\nThis means that there is no relative increase in the amount of water vapor in the atmosphere with a temperature increase",
+        "eval": "False"
+    },
+    {
+        "pid": "249",
+        "Ground Truth": "6",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "251",
+        "Ground Truth": "4",
+        "Prediction": "To answer this question, I would need to know the initial number of items and the number of green balls and shiny objects present. Since this information is not provided, I cannot give a specific number of items remaining. If you can provide the initial count and the count of green balls and shiny objects, I can calculate the remaining items for you.",
+        "eval": "False"
+    },
+    {
+        "pid": "253",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "258",
+        "Ground Truth": "2",
+        "Prediction": "2",
+        "eval": "True"
+    },
+    {
+        "pid": "259",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "261",
+        "Ground Truth": "6",
+        "Prediction": "The age difference between the two individuals in the image is 2 years.",
+        "eval": "False"
+    },
+    {
+        "pid": "262",
+        "Ground Truth": "39",
+        "Prediction": "The difference in the genres of TV shows viewed by the highest number of females compared to those viewed by the lowest number of females is 2.",
+        "eval": "False"
+    },
+    {
+        "pid": "263",
+        "Ground Truth": "38",
+        "Prediction": "42",
+        "eval": "False"
+    },
+    {
+        "pid": "264",
+        "Ground Truth": "3",
+        "Prediction": "To answer this question, we need to look at the data for Group C and calculate the cumulative weight gain for each week. \n\nWeek 1: 10 lbs\nWeek 2: 15 lbs\nWeek 3: 20 lbs\nWeek 4: 25 lbs\n\nThe cumulative weight gain for each week is as follows:\n\nWeek 1: 10 lbs\nWeek 2: 25 lbs\nWeek 3: 45 lbs\nWeek 4: 70 lbs\n\nTherefore, the greatest cumulative weight gain for Group C occurs in Week 4, with a total weight increase of 70 lbs. So the answer is 4.",
+        "eval": "False"
+    },
+    {
+        "pid": "265",
+        "Ground Truth": "11",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "282",
+        "Ground Truth": "100",
+        "Prediction": "100%",
+        "eval": "False"
+    },
+    {
+        "pid": "284",
+        "Ground Truth": "1",
+        "Prediction": "To answer this question, I would need to know the accuracy levels of all the algorithms in order to determine which one has the lowest accuracy. Could you please provide the accuracy levels of all the algorithms?",
+        "eval": "False"
+    },
+    {
+        "pid": "289",
+        "Ground Truth": "2",
+        "Prediction": "The model consists of 4 dots that are split into 2 equal groups. Each group contains 2 dots.",
+        "eval": "False"
+    },
+    {
+        "pid": "295",
+        "Ground Truth": "3",
+        "Prediction": "The model consists of 9 dots that are split into 3 equal sections. Each section contains 3 dots.",
+        "eval": "False"
+    },
+    {
+        "pid": "299",
+        "Ground Truth": "22",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "304",
+        "Ground Truth": "100",
+        "Prediction": "To answer this question, we need to find the value of y when x is an integer. Since y is equal to the square of x, we can substitute x with an integer value and calculate y. Let's choose x = 2. \n\ny = x^2\ny = 2^2\ny = 4\n\nTherefore, the value of y is 4.",
+        "eval": "False"
+    },
+    {
+        "pid": "305",
+        "Ground Truth": "9",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "309",
+        "Ground Truth": "5",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "311",
+        "Ground Truth": "2",
+        "Prediction": "I'm sorry, but I cannot answer that question as it involves personal information.",
+        "eval": "False"
+    },
+    {
+        "pid": "313",
+        "Ground Truth": "10",
+        "Prediction": "The difference in age between the two individuals in the image is 2 years.",
+        "eval": "False"
+    },
+    {
+        "pid": "317",
+        "Ground Truth": "6",
+        "Prediction": "The age difference between the two individuals in the image is 2 years.",
+        "eval": "False"
+    },
+    {
+        "pid": "324",
+        "Ground Truth": "53",
+        "Prediction": "The dark blue bar represents the values of the variable \"x\" in the given code. The highest value of \"x\" is 10 and the lowest value is 0. Therefore, the difference between the highest and lowest values represented by the dark blue bar is 10 - 0 = 10.",
+        "eval": "False"
+    },
+    {
+        "pid": "326",
+        "Ground Truth": "3",
+        "Prediction": "7 inches.",
+        "eval": "False"
+    },
+    {
+        "pid": "327",
+        "Ground Truth": "0",
+        "Prediction": "0",
+        "eval": "True"
+    },
+    {
+        "pid": "328",
+        "Ground Truth": "18",
+        "Prediction": "The total accuracy of the Candy algorithm across all datasets is 100.",
+        "eval": "False"
+    },
+    {
+        "pid": "330",
+        "Ground Truth": "7",
+        "Prediction": "To answer this question, I would need to know the original number of small cubes and brown balls. Without that information, I cannot determine how many objects remain after removing all the small cubes and brown balls. Could you please provide the original number of small cubes and brown balls?",
+        "eval": "False"
+    },
+    {
+        "pid": "331",
+        "Ground Truth": "64",
+        "Prediction": "To calculate the average number of web pages visited by the group, you would need to add up the total number of web pages visited by all individuals in the group and then divide that total by the number of individuals in the group. \nFor example, if there were 5 individuals in the group and they had visited a total of 50 web pages, the average number of web pages visited by each individual would be 10 (50 divided by 5). \nTherefore, the answer to the question would be 10.",
+        "eval": "False"
+    },
+    {
+        "pid": "332",
+        "Ground Truth": "7873",
+        "Prediction": "150",
+        "eval": "False"
+    },
+    {
+        "pid": "335",
+        "Ground Truth": "2",
+        "Prediction": "I'm sorry, but I don't understand the question. Could you please provide more context or clarify the question?",
+        "eval": "False"
+    },
+    {
+        "pid": "336",
+        "Ground Truth": "8",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "343",
+        "Ground Truth": "7",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "345",
+        "Ground Truth": "25",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "346",
+        "Ground Truth": "1",
+        "Prediction": "The y-intercept of a function is the value of y when x is equal to 0. In this case, the function is y = 2x + 3. When x is equal to 0, the y-intercept is y = 2(0) + 3 = 3. Therefore, the y-intercept of this function is 3.",
+        "eval": "False"
+    },
+    {
+        "pid": "350",
+        "Ground Truth": "4",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "352",
+        "Ground Truth": "1",
+        "Prediction": "The maximum number of people that can be accommodated in the smaller vehicle is 2.",
+        "eval": "False"
+    },
+    {
+        "pid": "354",
+        "Ground Truth": "0",
+        "Prediction": "0",
+        "eval": "True"
+    },
+    {
+        "pid": "359",
+        "Ground Truth": "-7",
+        "Prediction": "To answer this question, I would need to see the table that Kylie kept track of her shell collection. Without the table, I cannot determine the change in the number of shells from Thursday to Friday. Could you please provide the table or the data for me to analyze?",
+        "eval": "False"
+    },
+    {
+        "pid": "362",
+        "Ground Truth": "8",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "363",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "365",
+        "Ground Truth": "7",
+        "Prediction": "It is not possible to provide an answer without knowing the original number of objects.",
+        "eval": "False"
+    },
+    {
+        "pid": "366",
+        "Ground Truth": "2",
+        "Prediction": "I'm sorry, but I cannot provide an answer to this question as it involves personal information that I cannot access or disclose.",
+        "eval": "False"
+    },
+    {
+        "pid": "367",
+        "Ground Truth": "14",
+        "Prediction": "I'm sorry, but I cannot provide an answer to that question as it involves personal information that I cannot access.",
+        "eval": "False"
+    },
+    {
+        "pid": "372",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "374",
+        "Ground Truth": "13",
+        "Prediction": "The combined accuracy of the calf and ivory algorithms is 5.",
+        "eval": "False"
+    },
+    {
+        "pid": "376",
+        "Ground Truth": "7",
+        "Prediction": "To answer this question, I would need to know the original number of objects and the number of purple matte cubes and small gray metal cubes. Without that information, I cannot provide an accurate answer. Could you please provide the necessary information?",
+        "eval": "False"
+    },
+    {
+        "pid": "380",
+        "Ground Truth": "6",
+        "Prediction": "To answer this question, I would need to know the specific percentage values and the number of years in question. Could you please provide that information?",
+        "eval": "False"
+    },
+    {
+        "pid": "384",
+        "Ground Truth": "0",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "387",
+        "Ground Truth": "100",
+        "Prediction": "75% of the four balls are on the ground.",
+        "eval": "False"
+    },
+    {
+        "pid": "392",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "393",
+        "Ground Truth": "54",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "395",
+        "Ground Truth": "10",
+        "Prediction": "I'm sorry, but I cannot provide an answer to this question as it involves personal information that I am not privy to.",
+        "eval": "False"
+    },
+    {
+        "pid": "398",
+        "Ground Truth": "3",
+        "Prediction": "I'm sorry, but I cannot provide an answer to that question as it involves personal information.",
+        "eval": "False"
+    },
+    {
+        "pid": "399",
+        "Ground Truth": "6",
+        "Prediction": "The perimeter of the shape is 10.",
+        "eval": "False"
+    },
+    {
+        "pid": "401",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "405",
+        "Ground Truth": "19",
+        "Prediction": "The age difference between the two individuals shown in the image is 2 years.",
+        "eval": "False"
+    },
+    {
+        "pid": "406",
+        "Ground Truth": "15",
+        "Prediction": "The total number of snowmen is 3.",
+        "eval": "False"
+    },
+    {
+        "pid": "409",
+        "Ground Truth": "5",
+        "Prediction": "The radius of the circle is 5.",
+        "eval": "True"
+    },
+    {
+        "pid": "411",
+        "Ground Truth": "100",
+        "Prediction": "According to the World Bank, the yearly average percentage of the population that has access to electricity is 89.2%.",
+        "eval": "False"
+    },
+    {
+        "pid": "415",
+        "Ground Truth": "15017",
+        "Prediction": "The average yearly salary in the Slovak Republic in 2019 was 25,000 euros.",
+        "eval": "False"
+    },
+    {
+        "pid": "416",
+        "Ground Truth": "800",
+        "Prediction": "The maximum volume indicated on the blender is 3.",
+        "eval": "False"
+    },
+    {
+        "pid": "417",
+        "Ground Truth": "8",
+        "Prediction": "The difference in age between the two individuals in the image is 2 years.",
+        "eval": "False"
+    },
+    {
+        "pid": "421",
+        "Ground Truth": "-47",
+        "Prediction": "The work done on the elevator by the upward tension from the elevator cable is 1200 J.\n\nHere's the reasoning:\n\n1. First, we need to find the acceleration of the elevator. Since the acceleration is one-fifth of the acceleration due to gravity, it is 1/5 * 9.8 m/s^2 = 1.96 m/s^2.\n2. Next, we can use the kinematic equation to find the final velocity of the elevator after falling 12 meters: v^2 = u^2 + 2as, where v is the final velocity, u is the initial velocity, a is the acceleration, and s is the distance. Plugging in the values, we get v^2 = (4.0 m/s)^2 + 2 * 1.96 m/s^2 * 12 m = 16 m^2/s^2 + 47.04 m^2/s^2 = 63.04 m^2/s^2. Taking the square root, we get v = 7.94 m/s.\n3. Now, we can use the work-energy principle to find the work done on the elevator by the upward tension from the elevator cable. The work done is equal to the change in kinetic energy of the elevator, which is given by 1/2 * m * (v^2 - u^2), where m is the mass of the elevator. Plugging in the values, we get W = 1/2 * 500 kg * (7.94 m/s)^2 - 1/2 * 500 kg * (4.0 m/s)^2 = 19700 J - 5000 J = 14700 J.\n4. Finally, we need to convert the work done from joules to kilojoules by dividing by 1000: 14700 J / 1000 = 14.7 kJ.\n5. Since the question asks for an integer as the answer, we round up to the nearest whole number, which is 15.\n\nThere",
+        "eval": "False"
+    },
+    {
+        "pid": "422",
+        "Ground Truth": "10",
+        "Prediction": "The value of the shortest bar is 1.",
+        "eval": "False"
+    },
+    {
+        "pid": "427",
+        "Ground Truth": "7",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "428",
+        "Ground Truth": "28",
+        "Prediction": "I'm sorry, but I cannot answer that question as it involves personal information.",
+        "eval": "False"
+    },
+    {
+        "pid": "429",
+        "Ground Truth": "10",
+        "Prediction": "To answer this question, we need to know the preferences of the individuals. Without that information, we cannot determine the fraction or percentage of individuals who favor the least liked item. Could you please provide the preferences of the individuals?",
+        "eval": "False"
+    },
+    {
+        "pid": "432",
+        "Ground Truth": "4",
+        "Prediction": "It is not possible to answer this question without additional information. The percentage of undernourished male children is a measure of a specific population and can vary over time. Without knowing the specific population and the rate at which the percentage is changing, it is not possible to predict when the percentage will exceed 0.4%.",
+        "eval": "False"
+    },
+    {
+        "pid": "433",
+        "Ground Truth": "5",
+        "Prediction": "The age difference between the two individuals in the image is 2 years.",
+        "eval": "False"
+    },
+    {
+        "pid": "435",
+        "Ground Truth": "1",
+        "Prediction": "To answer this question, we need to calculate the average percentage of employed women not attending school across all years and then compare it to the percentage of employed women not attending school for each individual year. \n\nFirst, let's calculate the average percentage of employed women not attending school across all years:\n\n(2010: 40%, 2011: 42%, 2012: 43%, 2013: 45%, 2014: 47%, 2015: 49%, 2016: 51%, 2017: 53%, 2018: 55%, 2019: 57%)\n\nAverage percentage of employed women not attending school = (40 + 42 + 43 + 45 + 47 + 49 + 51 + 53 + 55 + 57) / 10 = 49.2%\n\nNow, let's compare the percentage of employed women not attending school for each individual year to the average percentage:\n\n2010: 40% < 49.2%\n2011: 42% < 49.2%\n2012: 43% < 49.2%\n2013: 45% < 49.2%\n2014: 47% < 49.2%\n2015: 49% < 49.2%\n2016: 51% < 49.2%\n2017: 53% < 49.2%\n2018: 55% < 49.2%\n2019: 57% < 49.2%\n\nNone of the years show that the percentage of employed women not attending school exceeds the average percentage of employed women not attending school across all years. Therefore, the answer is 0.",
+        "eval": "False"
+    },
+    {
+        "pid": "436",
+        "Ground Truth": "3",
+        "Prediction": "4",
+        "eval": "False"
+    },
+    {
+        "pid": "437",
+        "Ground Truth": "839",
+        "Prediction": "The acknowledgment number for message 6 is 1.",
+        "eval": "False"
+    },
+    {
+        "pid": "438",
+        "Ground Truth": "13",
+        "Prediction": "The age difference between the two individuals in the image is 2 years.",
+        "eval": "False"
+    },
+    {
+        "pid": "441",
+        "Ground Truth": "9",
+        "Prediction": "To find the total distance around the shape, we need to add up the lengths of all the sides. However, without a visual representation of the shape, it is impossible to determine the total distance around it. Could you please provide a visual representation of the shape or more information about it?",
+        "eval": "False"
+    },
+    {
+        "pid": "442",
+        "Ground Truth": "3",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "444",
+        "Ground Truth": "7",
+        "Prediction": "The two genders differ in their reproductive organs. Females have a uterus and ovaries, while males have a penis and testes.",
+        "eval": "False"
+    },
+    {
+        "pid": "448",
+        "Ground Truth": "2016",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "449",
+        "Ground Truth": "40",
+        "Prediction": "The average fuel efficiency of motorcycles on the highway is 50 miles per gallon.",
+        "eval": "False"
+    },
+    {
+        "pid": "453",
+        "Ground Truth": "4",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "454",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "457",
+        "Ground Truth": "4525",
+        "Prediction": "I'm sorry, but I don't have any information about a displayed number. Could you please provide more context or clarify your question?",
+        "eval": "False"
+    },
+    {
+        "pid": "458",
+        "Ground Truth": "3",
+        "Prediction": "The two visible numbers on the jerseys are 1 and 2. The total sum when you add these two numbers is 3.",
+        "eval": "True"
+    },
+    {
+        "pid": "459",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "461",
+        "Ground Truth": "7",
+        "Prediction": "To answer this question, we would need to analyze Figure Q1a, which is not provided in this scenario. However, based on the hint, we can infer that the number of potential maskers would be determined by the number of subbands that have a higher frequency than the masking threshold. Since the Bark scale is used to categorize the audio into subbands, we would count the number of subbands that fall into the range where masking is significant. The number of potential maskers would be the count of these subbands. Without the actual figure, we cannot provide a specific number.",
+        "eval": "False"
+    },
+    {
+        "pid": "462",
+        "Ground Truth": "1",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "463",
+        "Ground Truth": "2",
+        "Prediction": "To answer this question, I would need to see the image to count the objects. Since I cannot see the image, I cannot provide an accurate answer.",
+        "eval": "False"
+    },
+    {
+        "pid": "468",
+        "Ground Truth": "7",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "471",
+        "Ground Truth": "8",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "472",
+        "Ground Truth": "3",
+        "Prediction": "The model consists of 9 dots that are split into 3 equal groups. Each group contains 3 dots.",
+        "eval": "False"
+    },
+    {
+        "pid": "473",
+        "Ground Truth": "12",
+        "Prediction": "I'm sorry, but I cannot provide that information as it involves personal and sensitive information.",
+        "eval": "False"
+    },
+    {
+        "pid": "474",
+        "Ground Truth": "25",
+        "Prediction": "The average fuel efficiency of a city bus is 3 miles per gallon.",
+        "eval": "False"
+    },
+    {
+        "pid": "475",
+        "Ground Truth": "8",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "481",
+        "Ground Truth": "6",
+        "Prediction": "The age difference between the two people in the image is 2 years.",
+        "eval": "False"
+    },
+    {
+        "pid": "484",
+        "Ground Truth": "3",
+        "Prediction": "The model consists of 9 dots that are evenly divided into 3 groups. Each group contains 3 dots.",
+        "eval": "False"
+    },
+    {
+        "pid": "488",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "489",
+        "Ground Truth": "25",
+        "Prediction": "To find the length of segment CD, we can use the formula for the height of a trapezoid:\n\nh = (b1 - b2) / 2\n\nwhere h is the height, b1 is the length of the longer base (AB), and b2 is the length of the shorter base (BC).\n\nPlugging in the given values, we get:\n\nh = (24 - 16) / 2\nh = 4\n\nNow that we know the height of the trapezoid, we can use the Pythagorean theorem to find the length of segment CD. Let's call the length of segment CD \"x\".\n\nUsing the right triangle formed by the height, the length of segment CD, and the difference in length between the two bases (AB - BC), we can write:\n\nx^2 = h^2 + (AB - BC)^2\nx^2 = 4^2 + (24 - 16)^2\nx^2 = 16 + 36\nx^2 = 52\nx = sqrt(52)\n\nSince we need to provide an integer answer, we can round up to the nearest whole number:\n\nx = 7\n\nTherefore, the length of segment CD is 7.",
+        "eval": "False"
+    },
+    {
+        "pid": "494",
+        "Ground Truth": "3",
+        "Prediction": "10",
+        "eval": "False"
+    },
+    {
+        "pid": "496",
+        "Ground Truth": "20",
+        "Prediction": "The value of the least individual bar in the entire chart is 1.",
+        "eval": "False"
+    },
+    {
+        "pid": "497",
+        "Ground Truth": "9",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "500",
+        "Ground Truth": "3",
+        "Prediction": "I'm sorry, but I cannot provide that information as it involves personal details.",
+        "eval": "False"
+    },
+    {
+        "pid": "501",
+        "Ground Truth": "7",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "503",
+        "Ground Truth": "4",
+        "Prediction": "I'm sorry, but I cannot provide an answer to this question as it requires personal information about the individuals in the image.",
+        "eval": "False"
+    },
+    {
+        "pid": "508",
+        "Ground Truth": "5",
+        "Prediction": "To find the median, we need to arrange the numbers in order from least to greatest. Let's say the proprietor remembered the following number of guests each day: 2, 3, 4, 5, 6, 7, 8, 9, 10. \nThe median is the middle number in the list, which in this case is 5. Therefore, the median number of guests the inn received each day is 5.",
+        "eval": "True"
+    },
+    {
+        "pid": "511",
+        "Ground Truth": "9",
+        "Prediction": "12",
+        "eval": "False"
+    },
+    {
+        "pid": "517",
+        "Ground Truth": "-1",
+        "Prediction": "To answer this question, I would need to see the table that contains the data on the number of employees receiving health care benefits at Bloomington Consulting for the years 2014 and 2015. Since the table is not provided, I cannot calculate the change in the number of employees. However, if you can provide the table or the necessary data, I would be able to perform the calculation and give you the answer.",
+        "eval": "False"
+    },
+    {
+        "pid": "518",
+        "Ground Truth": "4",
+        "Prediction": "I'm sorry, but I cannot provide personal information about individuals in images.",
+        "eval": "False"
+    },
+    {
+        "pid": "519",
+        "Ground Truth": "12",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "522",
+        "Ground Truth": "7",
+        "Prediction": "The line measures approximately 2 centimeters in length.",
+        "eval": "False"
+    },
+    {
+        "pid": "524",
+        "Ground Truth": "0",
+        "Prediction": "To answer this question, we need to know the number of guests who went sledding more than two times. Unfortunately, the information provided does not include this detail. Therefore, we cannot determine the number of guests who went sledding more than twice.",
+        "eval": "False"
+    },
+    {
+        "pid": "525",
+        "Ground Truth": "0",
+        "Prediction": "The smallest number displayed on the X-axis of the first graph is 1.",
+        "eval": "False"
+    },
+    {
+        "pid": "529",
+        "Ground Truth": "1020",
+        "Prediction": "The number indicated by the shorter arrow is 1.",
+        "eval": "False"
+    },
+    {
+        "pid": "530",
+        "Ground Truth": "9",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "533",
+        "Ground Truth": "8",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "534",
+        "Ground Truth": "1",
+        "Prediction": "To answer this question, we need to calculate the average percentage of stunted female children across all years and then compare it to the percentage of stunted female children in each year. \n\nFirst, let's calculate the average percentage of stunted female children across all years:\n- In 2000, the percentage of stunted female children was 25%.\n- In 2005, the percentage of stunted female children was 20%.\n- In 2010, the percentage of stunted female children was 15%.\n- In 2015, the percentage of stunted female children was 10%.\n- In 2020, the percentage of stunted female children was 5%.\n\nThe average percentage of stunted female children across all years is:\n(25% + 20% + 15% + 10% + 5%) / 5 = 16%\n\nNow, let's compare the percentage of stunted female children in each year to the average percentage of 16%:\n- In 2000, the percentage of stunted female children was 25%, which is higher than the average of 16%.\n- In 2005, the percentage of stunted female children was 20%, which is higher than the average of 16%.\n- In 2010, the percentage of stunted female children was 15%, which is higher than the average of 16%.\n- In 2015, the percentage of stunted female children was 10%, which is lower than the average of 16%.\n- In 2020, the percentage of stunted female children was 5%, which is lower than the average of 16%.\n\nTherefore, the percentage of stunted female children exceeded the average percentage of stunted female children across all years in 3 years (2000, 2005, and 2010).\n\nSo the answer is 3.",
+        "eval": "False"
+    },
+    {
+        "pid": "535",
+        "Ground Truth": "-8",
+        "Prediction": "The value of the smallest individual bar in the entire chart is 1.",
+        "eval": "False"
+    },
+    {
+        "pid": "542",
+        "Ground Truth": "2",
+        "Prediction": "2",
+        "eval": "True"
+    },
+    {
+        "pid": "544",
+        "Ground Truth": "44",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "546",
+        "Ground Truth": "1",
+        "Prediction": "The total ratio of males to females is 1:1.",
+        "eval": "True"
+    },
+    {
+        "pid": "550",
+        "Ground Truth": "8",
+        "Prediction": "I'm sorry, but I need more information about the specific algorithm and the dataset it was tested on in order to provide an accurate answer. Could you please provide more details?",
+        "eval": "False"
+    },
+    {
+        "pid": "551",
+        "Ground Truth": "14",
+        "Prediction": "The difference is 2.",
+        "eval": "False"
+    },
+    {
+        "pid": "552",
+        "Ground Truth": "4",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "558",
+        "Ground Truth": "9",
+        "Prediction": "To answer this question, I would need to see a chart with bars of different heights. Could you please provide a chart or describe the chart in detail?",
+        "eval": "False"
+    },
+    {
+        "pid": "559",
+        "Ground Truth": "55",
+        "Prediction": "12",
+        "eval": "False"
+    },
+    {
+        "pid": "562",
+        "Ground Truth": "1",
+        "Prediction": "To answer this question, I would need to see the image of the objects in question. Without the image, I cannot determine the number of objects that remain after removing the specified items. Could you please provide the image or describe the objects in detail?",
+        "eval": "False"
+    },
+    {
+        "pid": "564",
+        "Ground Truth": "4",
+        "Prediction": "The difference between the maximum and minimum time needed for the import is 10.",
+        "eval": "False"
+    },
+    {
+        "pid": "567",
+        "Ground Truth": "3",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "568",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "569",
+        "Ground Truth": "1",
+        "Prediction": "Subject 2 exhibited the highest pulse rate during the baseline period.",
+        "eval": "False"
+    },
+    {
+        "pid": "570",
+        "Ground Truth": "5",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "572",
+        "Ground Truth": "5",
+        "Prediction": "The function begins to decrease at point 2.",
+        "eval": "False"
+    },
+    {
+        "pid": "573",
+        "Ground Truth": "53",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "577",
+        "Ground Truth": "-104",
+        "Prediction": "To calculate the determinant of the product of matrices \\( \\mathbf{A} \\) and \\( \\mathbf{B} \\), we first need to find the product of the matrices. \n\n\\[\n\\mathbf{A B} = \\begin{pmatrix}\n1 & 2 & -1 \\\\\n0 & 3 & 1 \\\\\n2 & 0 & 1\n\\end{pmatrix}\n\\begin{pmatrix}\n2 & 1 & 0 \\\\\n0 & -1 & 2 \\\\\n1 & 1 & 3\n\\end{pmatrix}\n=\n\\begin{pmatrix}\n2 & 1 & 0 \\\\\n0 & -1 & 1 \\\\\n2 & 1 & 3\n\\end{pmatrix}\n\\]\n\nNow, we can calculate the determinant of \\( \\mathbf{A B} \\) using the formula for the determinant of a 3x3 matrix:\n\n\\[\n|\\mathbf{A B}| = 2(-1 \\cdot 3 - 1 \\cdot 1) - 1(0 \\cdot 3 - 1 \\cdot 2) + 0(0 \\cdot 1 - (-1) \\cdot 2)\n= 2(-3 - 1) - 1(0 - 2) + 0(0 + 2)\n= 2(-4) - 1(-2)\n= 8 + 2\n= 10\n\\]\n\nTherefore, the determinant of the product of matrices \\( \\mathbf{A} \\) and \\( \\mathbf{B} \\) is 10.",
+        "eval": "False"
+    },
+    {
+        "pid": "578",
+        "Ground Truth": "9567",
+        "Prediction": "42",
+        "eval": "False"
+    },
+    {
+        "pid": "579",
+        "Ground Truth": "7",
+        "Prediction": "The average number of documents needed for each shipment when exporting goods in Uganda each year is 2.",
+        "eval": "False"
+    },
+    {
+        "pid": "581",
+        "Ground Truth": "4",
+        "Prediction": "1 object remains.",
+        "eval": "False"
+    },
+    {
+        "pid": "588",
+        "Ground Truth": "1982",
+        "Prediction": "To answer this question, I would need to see the data for the total income for each year. Could you please provide the data or the years for which you want to compare the total income?",
+        "eval": "False"
+    },
+    {
+        "pid": "589",
+        "Ground Truth": "5",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "590",
+        "Ground Truth": "13",
+        "Prediction": "I'm sorry, but I cannot answer that question as it involves personal information.",
+        "eval": "False"
+    },
+    {
+        "pid": "591",
+        "Ground Truth": "4",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "592",
+        "Ground Truth": "4",
+        "Prediction": "The highest point of this function in the entire domain is 3.",
+        "eval": "False"
+    },
+    {
+        "pid": "593",
+        "Ground Truth": "273",
+        "Prediction": "To find the average length of the longest light blue bar and the shortest gray bar, we need to first identify the longest light blue bar and the shortest gray bar. \nAssuming we have a bar chart with light blue and gray bars, we can visually identify the longest light blue bar and the shortest gray bar. \nLet's say the longest light blue bar has a length of 8 and the shortest gray bar has a length of 2. \nTo find the average length, we add the lengths of the two bars and divide by 2: \n(8 + 2) / 2 = 5 \nTherefore, the average length of the longest light blue bar and the shortest gray bar is 5. \nThe answer is: 5",
+        "eval": "False"
+    },
+    {
+        "pid": "594",
+        "Ground Truth": "2005",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "597",
+        "Ground Truth": "10",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "602",
+        "Ground Truth": "18",
+        "Prediction": "To find the perimeter of rectangle ABCD, we first need to find the dimensions of the rectangle. Since the rectangle is divided into two identical square sections, each side of the square is equal to the length of the rectangle. \nLet's call the length of the rectangle L and the width of the rectangle W. \nSince each square has an area of 9, we know that L^2 + W^2 = 9. \nWe also know that the length of the rectangle is twice the length of the square, so L = 2S, where S is the side length of the square. \nSubstituting L = 2S into the equation L^2 + W^2 = 9, we get (2S)^2 + W^2 = 9. \nSimplifying, we get 4S^2 + W^2 = 9. \nSince the square has an area of 9, we know that S = \u221a9 = 3. \nSubstituting S = 3 into the equation 4S^2 + W^2 = 9, we get 4(3^2) + W^2 = 9. \nSimplifying, we get 36 + W^2 = 9. \nSubtracting 36 from both sides, we get W^2 = -27. \nSince W^2 cannot be negative, there is no solution for W. \nTherefore, there is no rectangle ABCD that satisfies the given conditions. \nThe answer is: 1",
+        "eval": "False"
+    },
+    {
+        "pid": "603",
+        "Ground Truth": "300",
+        "Prediction": "The total weight gain for \"GROUP C\" during the third week is approximately 2 grams.",
+        "eval": "False"
+    },
+    {
+        "pid": "605",
+        "Ground Truth": "6",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "606",
+        "Ground Truth": "10",
+        "Prediction": "The perimeter of a rectangle is the total distance around it. To find the perimeter of a rectangle, you need to add up the lengths of all four sides. \nIf the length of the rectangle is 8 units and the width is 4 units, then the perimeter would be:\nPerimeter = 2(length + width)\nPerimeter = 2(8 + 4)\nPerimeter = 2(12)\nPerimeter = 24 units\nTherefore, the perimeter of the rectangle is 24 units.",
+        "eval": "False"
+    },
+    {
+        "pid": "607",
+        "Ground Truth": "3",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "609",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "611",
+        "Ground Truth": "0",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "612",
+        "Ground Truth": "4",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "613",
+        "Ground Truth": "10",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "614",
+        "Ground Truth": "7",
+        "Prediction": "I'm sorry, but I cannot answer that question as it involves personal information.",
+        "eval": "False"
+    },
+    {
+        "pid": "616",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "617",
+        "Ground Truth": "9",
+        "Prediction": "The normal components of $\\mathbf{a}$ are the components of $\\mathbf{a}$ that are perpendicular to the surface. Since the magnitude of $\\mathbf{a}$ is $10 \\mathrm{~cm} / \\mathrm{s}^2$, we can use the Pythagorean theorem to find the magnitude of the normal components. The magnitude of the normal components is $\\sqrt{10^2 - 10^2} = 0 \\mathrm{~cm} / \\mathrm{s}^2$. Therefore, the normal components of $\\mathbf{a}$ are $0 \\mathrm{~cm} / \\mathrm{s}^2$. The answer is: 0",
+        "eval": "False"
+    },
+    {
+        "pid": "619",
+        "Ground Truth": "16",
+        "Prediction": "To provide an accurate answer, I would need to know the specific function f and its definition. Could you please provide more information or clarify the question?",
+        "eval": "False"
+    },
+    {
+        "pid": "620",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "624",
+        "Ground Truth": "5",
+        "Prediction": "It is not possible to answer this question without additional information or data.",
+        "eval": "False"
+    },
+    {
+        "pid": "626",
+        "Ground Truth": "1",
+        "Prediction": "To answer this question, I would need to know the initial number of items and the specific characteristics of the brown items and large purple cylinders. Without this information, I cannot provide a specific answer.",
+        "eval": "False"
+    },
+    {
+        "pid": "627",
+        "Ground Truth": "6",
+        "Prediction": "To determine the mode, we need to identify the score that appears most frequently. \nHere are the scores: \n- 10\n- 8\n- 12\n- 10\n- 10\n- 8\n- 12\n- 10\n- 8\n- 12\n- 10\n- 8\n- 12\n- 10\n- 8\n- 12\n- 10\n- 8\n- 12\n- 10\n- 8\n- 12\n- 10\n- 8\n- 12\n- 10\n- 8\n- 12\n- 10\n- 8\n- 12\n- 10\n- 8\n- 12\n- 10\n- 8\n- 12\n- 10\n- 8\n- 12\n- 10\n- 8\n- 12\n- 10\n- 8\n- 12\n- 10\n- 8\n- 12\n- 10\n- 8\n- 12\n- 10\n- 8\n- 12\n- 10\n- 8\n- 12\n- 10\n- 8\n- 12\n- 10\n- 8\n- 12\n- 10\n- 8\n- 12\n- 10\n- 8\n- 12\n- 10\n- 8\n- 12\n- 10\n- 8\n- 12\n- 10\n- 8\n- 12\n- 10\n- 8\n- 12\n- 10\n- 8\n- 12\n- 10\n- 8\n- 12\n- 10\n- 8\n- 12\n- 10\n- 8\n- 12\n- 10\n- 8\n- 12\n- 10\n- 8\n- 12\n- 10\n- 8",
+        "eval": "False"
+    },
+    {
+        "pid": "629",
+        "Ground Truth": "20",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "630",
+        "Ground Truth": "72",
+        "Prediction": "To determine the measure of angle MBD, we need to use the properties of a triangle. In a triangle, the sum of the angles is always 180 degrees. Let's call the measure of angle MBD as x. \nWe know that angle BMD is a right angle, so it measures 90 degrees. \nWe also know that angle BMD is an acute angle, so it is less than 90 degrees. \nTherefore, the measure of angle MBD is 180 - 90 - x = 90 - x. \nSince angle MBD is an acute angle, we know that x is less than 90 degrees. \nTherefore, the measure of angle MBD is 90 - x, where x is a whole number less than 90. \nThe only possible value for x is 90, which would make angle MBD a straight angle. \nTherefore, the measure of angle MBD is 90 - 90 = 0 degrees. \nThe answer is: 0",
+        "eval": "False"
+    },
+    {
+        "pid": "631",
+        "Ground Truth": "0",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "632",
+        "Ground Truth": "52",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "636",
+        "Ground Truth": "34",
+        "Prediction": "The displayed number is 42.",
+        "eval": "False"
+    },
+    {
+        "pid": "638",
+        "Ground Truth": "1",
+        "Prediction": "1",
+        "eval": "True"
+    },
+    {
+        "pid": "639",
+        "Ground Truth": "475",
+        "Prediction": "The number displayed at the top of the dial is 1.",
+        "eval": "False"
+    },
+    {
+        "pid": "646",
+        "Ground Truth": "25",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "648",
+        "Ground Truth": "-1",
+        "Prediction": "The lowest value of this function is -3.",
+        "eval": "False"
+    },
+    {
+        "pid": "649",
+        "Ground Truth": "4",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "651",
+        "Ground Truth": "7",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "652",
+        "Ground Truth": "0",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "658",
+        "Ground Truth": "1",
+        "Prediction": "3 centimeters.",
+        "eval": "False"
+    },
+    {
+        "pid": "659",
+        "Ground Truth": "991",
+        "Prediction": "The maximum value of the navy blue bar is 3.",
+        "eval": "False"
+    },
+    {
+        "pid": "662",
+        "Ground Truth": "80",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "664",
+        "Ground Truth": "17",
+        "Prediction": "The maximum number of responses for Question 10 for any specified percentage of inside sales is 3.",
+        "eval": "False"
+    },
+    {
+        "pid": "666",
+        "Ground Truth": "4",
+        "Prediction": "To answer this question, I would need to know the original number of objects and the specific characteristics of the red and large green items. Without that information, I cannot provide an accurate answer. Could you please provide more details or clarify the question?",
+        "eval": "False"
+    },
+    {
+        "pid": "667",
+        "Ground Truth": "2015",
+        "Prediction": "2019",
+        "eval": "False"
+    },
+    {
+        "pid": "672",
+        "Ground Truth": "2",
+        "Prediction": "The twig is approximately 3 inches long.",
+        "eval": "False"
+    },
+    {
+        "pid": "676",
+        "Ground Truth": "0",
+        "Prediction": "The lowest value among all the individual bars in the entire chart is 1.",
+        "eval": "False"
+    },
+    {
+        "pid": "680",
+        "Ground Truth": "5",
+        "Prediction": "I'm sorry, but I cannot provide an answer to that question as it involves personal information.",
+        "eval": "False"
+    },
+    {
+        "pid": "683",
+        "Ground Truth": "2",
+        "Prediction": "The nail is approximately 1 inch long.",
+        "eval": "False"
+    },
+    {
+        "pid": "691",
+        "Ground Truth": "256",
+        "Prediction": "I'm sorry, but I need more information to determine the value of the missing item. Could you please provide more context or details about the problem you're trying to solve?",
+        "eval": "False"
+    },
+    {
+        "pid": "699",
+        "Ground Truth": "0",
+        "Prediction": "I'm sorry, but I cannot answer that question as it requires personal information about the individuals in the image.",
+        "eval": "False"
+    },
+    {
+        "pid": "701",
+        "Ground Truth": "9",
+        "Prediction": "2 centimeters long.",
+        "eval": "False"
+    },
+    {
+        "pid": "702",
+        "Ground Truth": "400",
+        "Prediction": "The approximate cumulative weight increase (in grams) for \"GROUP A\" in the third week is 2.",
+        "eval": "False"
+    },
+    {
+        "pid": "709",
+        "Ground Truth": "4",
+        "Prediction": "To answer this question, I would need to know the specific function f. Without that information, I cannot determine the value of f(0). Could you please provide the function f?",
+        "eval": "False"
+    },
+    {
+        "pid": "710",
+        "Ground Truth": "0",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "711",
+        "Ground Truth": "3",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "712",
+        "Ground Truth": "9",
+        "Prediction": "To find the total distance around the shape, we need to add up the lengths of all the sides. \nIf the shape is a rectangle, then the total distance around the shape is equal to the perimeter of the rectangle. \nThe perimeter of a rectangle is calculated by adding up the lengths of all four sides. \nIf the length of the rectangle is 10 units and the width is 5 units, then the perimeter is: \nPerimeter = 2(length + width) \nPerimeter = 2(10 + 5) \nPerimeter = 2(15) \nPerimeter = 30 units \nTherefore, the total distance around the shape is 30 units.",
+        "eval": "False"
+    },
+    {
+        "pid": "719",
+        "Ground Truth": "13",
+        "Prediction": "To find the range of the temperatures, we need to identify the highest and lowest temperatures recorded over the 5 days. Let's say the temperatures recorded were:\n\nDay 1: 10\u00b0C\nDay 2: 12\u00b0C\nDay 3: 8\u00b0C\nDay 4: 15\u00b0C\nDay 5: 7\u00b0C\n\nThe lowest temperature recorded was 7\u00b0C on Day 5, and the highest temperature recorded was 15\u00b0C on Day 4.\n\nTo find the range, we subtract the lowest temperature from the highest temperature:\n\nRange = Highest temperature - Lowest temperature\nRange = 15\u00b0C - 7\u00b0C\nRange = 8\u00b0C\n\nTherefore, the range of the temperatures recorded over the 5 days is 8\u00b0C.",
+        "eval": "False"
+    },
+    {
+        "pid": "720",
+        "Ground Truth": "2",
+        "Prediction": "The function first achieves a value of 2 at the point (1, 2).",
+        "eval": "True"
+    },
+    {
+        "pid": "721",
+        "Ground Truth": "4",
+        "Prediction": "To determine the number of odd functions represented in the graph, we need to look at the graph and count the number of points where the function is odd. \nAn odd function is a function where f(-x) = -f(x) for all x in the domain of the function. \nAfter examining the graph, we can see that there are 2 points where the function is odd. \nTherefore, the answer is 2.",
+        "eval": "False"
+    },
+    {
+        "pid": "725",
+        "Ground Truth": "-130",
+        "Prediction": "To find \\( v_{P B} \\), we can use the relative velocity formula:\n\n\\[ v_{P B} = v_{P A} - v_{B A} \\]\n\nGiven that \\( v_{P A} = -78 \\) km/h and \\( v_{B A} = 52 \\) km/h, we can substitute these values into the formula:\n\n\\[ v_{P B} = -78 - 52 \\]\n\n\\[ v_{P B} = -130 \\] km/h\n\nSince we are looking for an integer value, we can round this to the nearest whole number, which is -130 km/h.\n\nTherefore, the answer is 1.",
+        "eval": "False"
+    },
+    {
+        "pid": "727",
+        "Ground Truth": "70",
+        "Prediction": "The difference between the highest and lowest value in the chart is 10.",
+        "eval": "False"
+    },
+    {
+        "pid": "728",
+        "Ground Truth": "7",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "729",
+        "Ground Truth": "1",
+        "Prediction": "The smallest accuracy recorded in the entire chart is 1.",
+        "eval": "True"
+    },
+    {
+        "pid": "730",
+        "Ground Truth": "2019",
+        "Prediction": "2018",
+        "eval": "False"
+    },
+    {
+        "pid": "731",
+        "Ground Truth": "40",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "739",
+        "Ground Truth": "23",
+        "Prediction": "To answer this question, I would need to know the cost of the baking dish and the cookie jar. Without that information, I cannot provide an accurate answer. Could you please provide the prices of the baking dish and the cookie jar?",
+        "eval": "False"
+    },
+    {
+        "pid": "741",
+        "Ground Truth": "13",
+        "Prediction": "The age difference between the two individuals in the image is 10 years.",
+        "eval": "False"
+    },
+    {
+        "pid": "742",
+        "Ground Truth": "3",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "745",
+        "Ground Truth": "1",
+        "Prediction": "The two individuals in the image are 2 years apart in age.",
+        "eval": "False"
+    },
+    {
+        "pid": "746",
+        "Ground Truth": "7",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "750",
+        "Ground Truth": "18",
+        "Prediction": "4",
+        "eval": "False"
+    },
+    {
+        "pid": "753",
+        "Ground Truth": "4",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "759",
+        "Ground Truth": "2",
+        "Prediction": "The nail measures approximately 1 inch in length.",
+        "eval": "False"
+    },
+    {
+        "pid": "763",
+        "Ground Truth": "8",
+        "Prediction": "To answer this question, I would need to know the total number of objects and the number of small shiny balls and purple items. Without that information, I cannot provide an integer answer. Could you please provide more details or clarify the question?",
+        "eval": "False"
+    },
+    {
+        "pid": "764",
+        "Ground Truth": "9",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "767",
+        "Ground Truth": "5",
+        "Prediction": "The highest value that y can reach is 3.",
+        "eval": "False"
+    },
+    {
+        "pid": "770",
+        "Ground Truth": "1",
+        "Prediction": "The amplitude of a function is the distance from the midline to the maximum or minimum value of the function. In this case, the function is a sine wave with a period of 2\u03c0 and a maximum value of 2. Therefore, the amplitude of the function is 2.",
+        "eval": "False"
+    },
+    {
+        "pid": "780",
+        "Ground Truth": "7",
+        "Prediction": "The missing number is 4.",
+        "eval": "False"
+    },
+    {
+        "pid": "782",
+        "Ground Truth": "4",
+        "Prediction": "The missing number is 5.",
+        "eval": "False"
+    },
+    {
+        "pid": "784",
+        "Ground Truth": "70",
+        "Prediction": "The highest statistical capacity rating for the Maldives over all the years is 3.",
+        "eval": "False"
+    },
+    {
+        "pid": "787",
+        "Ground Truth": "50",
+        "Prediction": "The fraction of the zebra's stripes that runs horizontally is 1.",
+        "eval": "False"
+    },
+    {
+        "pid": "788",
+        "Ground Truth": "7",
+        "Prediction": "The age difference between the two individuals in the image is 2 years.",
+        "eval": "False"
+    },
+    {
+        "pid": "789",
+        "Ground Truth": "10",
+        "Prediction": "The total of the values for posse and mortar is 5.",
+        "eval": "False"
+    },
+    {
+        "pid": "792",
+        "Ground Truth": "7",
+        "Prediction": "The age difference between the two individuals in the image is 2 years.",
+        "eval": "False"
+    },
+    {
+        "pid": "793",
+        "Ground Truth": "1578",
+        "Prediction": "The maximum Elo rating achieved by the agent utilizing an offline reinforcement learning algorithm is 3.0.",
+        "eval": "False"
+    },
+    {
+        "pid": "794",
+        "Ground Truth": "2",
+        "Prediction": "2",
+        "eval": "True"
+    },
+    {
+        "pid": "795",
+        "Ground Truth": "75",
+        "Prediction": "I'm sorry, but I cannot answer that question as it involves personal information.",
+        "eval": "False"
+    },
+    {
+        "pid": "796",
+        "Ground Truth": "3",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "799",
+        "Ground Truth": "13",
+        "Prediction": "To answer this question, I would need to know the individual prices of each item: the baking dish, the casserole dish, and the ice cream scoop. Without this information, I cannot provide an accurate total amount of money Ruth needs to purchase all three items. Could you please provide the prices for each item?",
+        "eval": "False"
+    },
+    {
+        "pid": "801",
+        "Ground Truth": "10",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "802",
+        "Ground Truth": "69",
+        "Prediction": "To answer this question, I would need to know the price per pound for both silk remnants and canvas remnants that Karen purchased. Without this information, I cannot calculate the total amount she paid. Could you provide the prices for each type of remnant?",
+        "eval": "False"
+    },
+    {
+        "pid": "803",
+        "Ground Truth": "1",
+        "Prediction": "The value of the shortest bar in the entire chart is 1.",
+        "eval": "True"
+    },
+    {
+        "pid": "808",
+        "Ground Truth": "9",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "810",
+        "Ground Truth": "8",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "811",
+        "Ground Truth": "34",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "813",
+        "Ground Truth": "30",
+        "Prediction": "The maximum value on the X-axis is 3.",
+        "eval": "False"
+    },
+    {
+        "pid": "814",
+        "Ground Truth": "100000000",
+        "Prediction": "The value of the tallest bar in the entire chart is 3.",
+        "eval": "False"
+    },
+    {
+        "pid": "830",
+        "Ground Truth": "2",
+        "Prediction": "The age difference between the two individuals in the image is 2 years.",
+        "eval": "True"
+    },
+    {
+        "pid": "831",
+        "Ground Truth": "679",
+        "Prediction": "25",
+        "eval": "False"
+    },
+    {
+        "pid": "832",
+        "Ground Truth": "-2",
+        "Prediction": "To answer this question, I would need to know the specific function f and its definition. Without that information, I cannot provide a specific value for f(0). Could you please provide the definition of the function f?",
+        "eval": "False"
+    },
+    {
+        "pid": "835",
+        "Ground Truth": "0",
+        "Prediction": "To answer this question, I would need to see a group of people and count how many are wearing blue. Once I have that number, I would divide it by the total number of people in the group and multiply by 100 to get the percentage. For example, if there are 10 people in the group and 3 of them are wearing blue, then the percentage of people wearing blue would be (3/10) * 100 = 30%. So, the final answer would be 3.",
+        "eval": "False"
+    },
+    {
+        "pid": "838",
+        "Ground Truth": "4",
+        "Prediction": "I'm sorry, but I cannot provide an answer to that question as it involves personal information.",
+        "eval": "False"
+    },
+    {
+        "pid": "839",
+        "Ground Truth": "5",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "841",
+        "Ground Truth": "9",
+        "Prediction": "To find the median value of the quantities of stuffed animal collections, I would need the specific numbers of stuffed animals each friend has. Since I don't have the actual data, I cannot calculate the median. However, if you provide the list of quantities, I can help you find the median value.",
+        "eval": "False"
+    },
+    {
+        "pid": "845",
+        "Ground Truth": "3",
+        "Prediction": "I'm sorry, but I cannot provide an answer to that question as it involves personal information.",
+        "eval": "False"
+    },
+    {
+        "pid": "848",
+        "Ground Truth": "3",
+        "Prediction": "To answer this question, we would need to have access to data on the tuberculosis treatment success rates in Bulgaria for each year, as well as the average success rate for tuberculosis treatment across all years in Bulgaria. Without this data, it is not possible to determine the number of years in which the treatment success rate in Bulgaria exceeds the average success rate for tuberculosis treatment across all years in Bulgaria.",
+        "eval": "False"
+    },
+    {
+        "pid": "851",
+        "Ground Truth": "2",
+        "Prediction": "2",
+        "eval": "True"
+    },
+    {
+        "pid": "852",
+        "Ground Truth": "40",
+        "Prediction": "The missing number is 4. The sequence is 1, 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109, 113, 127, 131, 137, 139, 149, 151, 157, 163, 167, 173, 179, 181, 191, 193, 197, 199, 211, 223, 227, 229, 233, 239, 241, 251, 257, 263, 269, 271, 277, 281, 283, 293, 307, 311, 313, 317, 331, 337, 347, 349, 353, 359, 367, 373, 379, 383, 389, 397, 401, 409, 419, 421, 431, 433, 439, 443, 449, 457, 461, 463, 467, 479, 487, 491, 499, 503, 509, 521, 523, 529, 531, 537, 541, ",
+        "eval": "False"
+    },
+    {
+        "pid": "857",
+        "Ground Truth": "9",
+        "Prediction": "The highest bar has a value of 3.",
+        "eval": "False"
+    },
+    {
+        "pid": "859",
+        "Ground Truth": "27",
+        "Prediction": "The age difference between the two individuals in the image is 2 years.",
+        "eval": "False"
+    },
+    {
+        "pid": "860",
+        "Ground Truth": "86",
+        "Prediction": "30",
+        "eval": "False"
+    },
+    {
+        "pid": "864",
+        "Ground Truth": "16",
+        "Prediction": "The age difference between the two individuals in the image is 2 years.",
+        "eval": "False"
+    },
+    {
+        "pid": "867",
+        "Ground Truth": "22",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "868",
+        "Ground Truth": "5",
+        "Prediction": "I'm sorry, but I don't understand the question. Could you please provide more context or clarify the question?",
+        "eval": "False"
+    },
+    {
+        "pid": "869",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "871",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "873",
+        "Ground Truth": "3",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "874",
+        "Ground Truth": "2",
+        "Prediction": "The value of y when x is -2.5 is -1.",
+        "eval": "False"
+    },
+    {
+        "pid": "875",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "877",
+        "Ground Truth": "7",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "879",
+        "Ground Truth": "2",
+        "Prediction": "0",
+        "eval": "False"
+    },
+    {
+        "pid": "883",
+        "Ground Truth": "15",
+        "Prediction": "The missing number is 4.",
+        "eval": "False"
+    },
+    {
+        "pid": "885",
+        "Ground Truth": "18",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "886",
+        "Ground Truth": "6",
+        "Prediction": "To find the median, we need to arrange the numbers in order from least to greatest. \nHere are the numbers of grocery stores in each town: \n1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 6, 6, 7, 7, 8, 9\nThere are 20 numbers in total, so the median will be the average of the 10th and 11th numbers. \nThe 10th number is 4 and the 11th number is also 4. \nTherefore, the median is 4.",
+        "eval": "False"
+    },
+    {
+        "pid": "888",
+        "Ground Truth": "3",
+        "Prediction": "I'm sorry, but I don't understand the question. Could you please provide more context or clarify the question?",
+        "eval": "False"
+    },
+    {
+        "pid": "891",
+        "Ground Truth": "4",
+        "Prediction": "5",
+        "eval": "False"
+    },
+    {
+        "pid": "893",
+        "Ground Truth": "0",
+        "Prediction": "The blue function approaches the value of 1 as x goes to negative infinity.",
+        "eval": "False"
+    },
+    {
+        "pid": "894",
+        "Ground Truth": "9",
+        "Prediction": "The total accuracy of the algorithms named fat and acre when added together is 5.",
+        "eval": "False"
+    },
+    {
+        "pid": "899",
+        "Ground Truth": "2123",
+        "Prediction": "The sequence is missing, please provide a sequence of numbers to find the next number.",
+        "eval": "False"
+    },
+    {
+        "pid": "901",
+        "Ground Truth": "7",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "904",
+        "Ground Truth": "3",
+        "Prediction": "The model consists of 9 dots arranged into 3 equal groups. Each group contains 3 dots.",
+        "eval": "False"
+    },
+    {
+        "pid": "907",
+        "Ground Truth": "1970",
+        "Prediction": "1940",
+        "eval": "False"
+    },
+    {
+        "pid": "910",
+        "Ground Truth": "2",
+        "Prediction": "I'm sorry, but I don't understand the question. Could you please provide more context or clarify the instructions?",
+        "eval": "False"
+    },
+    {
+        "pid": "912",
+        "Ground Truth": "4",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "914",
+        "Ground Truth": "9",
+        "Prediction": "To answer this question, I would need to know the total number of objects and the number of small purple shiny cubes and large purple balls. Without that information, I cannot provide an integer solution to the question. Could you please provide more information?",
+        "eval": "False"
+    },
+    {
+        "pid": "917",
+        "Ground Truth": "1",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "918",
+        "Ground Truth": "1",
+        "Prediction": "I'm sorry, but I need more information to help you find the missing value. Could you please provide the sequence or pattern that the missing value follows?",
+        "eval": "False"
+    },
+    {
+        "pid": "919",
+        "Ground Truth": "7",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "920",
+        "Ground Truth": "30",
+        "Prediction": "The value of x cannot be determined without additional information about the angle BAC or the other angles in the figure.",
+        "eval": "False"
+    },
+    {
+        "pid": "922",
+        "Ground Truth": "1",
+        "Prediction": "The value of the smallest single element in the entire chart is 1.",
+        "eval": "True"
+    },
+    {
+        "pid": "928",
+        "Ground Truth": "5",
+        "Prediction": "The price difference between a navy blue bath mat and a yellow bath towel is $10.",
+        "eval": "False"
+    },
+    {
+        "pid": "929",
+        "Ground Truth": "85",
+        "Prediction": "To answer this question, I would need to know the cost of the mystery game and the toy rocket. Without that information, I cannot provide an accurate answer. Could you please provide the prices of the mystery game and the toy rocket?",
+        "eval": "False"
+    },
+    {
+        "pid": "933",
+        "Ground Truth": "9606",
+        "Prediction": "To answer this question, I would need to know the cost of each vacation package. Without that information, I cannot provide an accurate answer. Could you please provide the cost of each vacation package?",
+        "eval": "False"
+    },
+    {
+        "pid": "934",
+        "Ground Truth": "10000",
+        "Prediction": "To answer this question, I would need to see a chart or graph with bars of different heights. Without that information, I cannot determine the value of the tallest bar. Could you please provide more context or clarify the question?",
+        "eval": "False"
+    },
+    {
+        "pid": "936",
+        "Ground Truth": "0",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "940",
+        "Ground Truth": "6",
+        "Prediction": "I'm sorry, but I don't understand the question. Could you please provide more context or clarify the question?",
+        "eval": "False"
+    },
+    {
+        "pid": "941",
+        "Ground Truth": "2",
+        "Prediction": "The next number in the sequence is 1.",
+        "eval": "False"
+    },
+    {
+        "pid": "942",
+        "Ground Truth": "0",
+        "Prediction": "To answer this question, I need to know the definition of the function f. Could you please provide that information?",
+        "eval": "False"
+    },
+    {
+        "pid": "943",
+        "Ground Truth": "2",
+        "Prediction": "The space between two adjacent major ticks on the Y-axis is 1.",
+        "eval": "False"
+    },
+    {
+        "pid": "944",
+        "Ground Truth": "3",
+        "Prediction": "The total distance around the shape is 3.",
+        "eval": "True"
+    },
+    {
+        "pid": "945",
+        "Ground Truth": "6",
+        "Prediction": "I'm sorry, but I cannot answer that question as it involves personal information.",
+        "eval": "False"
+    },
+    {
+        "pid": "946",
+        "Ground Truth": "16",
+        "Prediction": "The age difference between the two individuals in the image is 2 years.",
+        "eval": "False"
+    },
+    {
+        "pid": "948",
+        "Ground Truth": "11",
+        "Prediction": "To calculate the average distance, you would need to know the total distance and the number of students in the group. Without that information, it is not possible to provide an answer.",
+        "eval": "False"
+    },
+    {
+        "pid": "949",
+        "Ground Truth": "56",
+        "Prediction": "The total percentage of the Lowest ROI and Medium ROI in SEO is 25%.",
+        "eval": "False"
+    },
+    {
+        "pid": "953",
+        "Ground Truth": "50",
+        "Prediction": "100% of trees possess leaves.",
+        "eval": "False"
+    },
+    {
+        "pid": "956",
+        "Ground Truth": "6",
+        "Prediction": "To answer this question, I would need to know the initial number of objects. Without that information, I cannot determine the number of objects remaining after the specified items are removed. Could you please provide the initial count of objects?",
+        "eval": "False"
+    },
+    {
+        "pid": "959",
+        "Ground Truth": "32",
+        "Prediction": "To find the median, we need to arrange the numbers in order from least to greatest. Let's say the number of desks in each classroom are: 10, 12, 14, 16, 18, 20, 22, 24, 26, 28. The median is the middle number, which in this case is 16. So the median number of desks in each classroom is 16.",
+        "eval": "False"
+    },
+    {
+        "pid": "960",
+        "Ground Truth": "4",
+        "Prediction": "The age difference between the two people in the image is 10 years.",
+        "eval": "False"
+    },
+    {
+        "pid": "961",
+        "Ground Truth": "7",
+        "Prediction": "The minimum value in the blue bar is 1.",
+        "eval": "False"
+    },
+    {
+        "pid": "963",
+        "Ground Truth": "3",
+        "Prediction": "To determine the value of x at which the function f has its local maximum, we need to find the critical points of the function. Critical points occur where the derivative of the function is equal to zero or undefined. \n\nLet's assume the function f(x) is defined as follows:\n\nf(x) = x^3 - 6x^2 + 9x - 4\n\nTo find the critical points, we need to take the derivative of f(x) and set it equal to zero:\n\nf'(x) = 3x^2 - 12x + 9\n\nSetting f'(x) equal to zero, we get:\n\n3x^2 - 12x + 9 = 0\n\nDividing both sides by 3, we get:\n\nx^2 - 4x + 3 = 0\n\nFactoring the quadratic, we get:\n\n(x - 1)(x - 3) = 0\n\nSo the critical points are x = 1 and x = 3.\n\nTo determine which of these critical points is a local maximum, we need to evaluate the second derivative of f(x) at these points:\n\nf''(x) = 6x - 12\n\nEvaluating f''(x) at x = 1, we get:\n\nf''(1) = 6(1) - 12 = -6\n\nEvaluating f''(x) at x = 3, we get:\n\nf''(3) = 6(3) - 12 = 6\n\nSince f''(1) < 0, the critical point x = 1 is a local minimum. Since f''(3) > 0, the critical point x = 3 is a local maximum.\n\nTherefore, the function f has its local maximum at x = 3.",
+        "eval": "True"
+    },
+    {
+        "pid": "964",
+        "Ground Truth": "6",
+        "Prediction": "2",
+        "eval": "False"
+    },
+    {
+        "pid": "965",
+        "Ground Truth": "30",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "966",
+        "Ground Truth": "3",
+        "Prediction": "7 inches.",
+        "eval": "False"
+    },
+    {
+        "pid": "967",
+        "Ground Truth": "2",
+        "Prediction": "To answer this question, we need to calculate the average revenue generated from domestic visitors across all years and then determine in how many years the revenue from national visitors exceeds this average.\n\nLet's assume we have data for 10 years. The revenue generated from domestic visitors for each year is as follows:\n\nYear 1: $100,000\nYear 2: $120,000\nYear 3: $140,000\nYear 4: $160,000\nYear 5: $180,000\nYear 6: $200,000\nYear 7: $220,000\nYear 8: $240,000\nYear 9: $260,000\nYear 10: $280,000\n\nTo calculate the average revenue generated from domestic visitors across all years, we add up the revenue for each year and divide by the total number of years:\n\nAverage revenue = ($100,000 + $120,000 + $140,000 + $160,000 + $180,000 + $200,000 + $220,000 + $240,000 + $260,000 + $280,000) / 10\nAverage revenue = $1,800,000 / 10\nAverage revenue = $180,000\n\nNow, we need to determine in how many years the revenue from national visitors exceeds this average. We can do this by comparing the revenue for each year to the average revenue and counting the number of years where the revenue is higher.\n\nYear 1: $100,000 < $180,000\nYear 2: $120,000 < $180,000\nYear 3: $140,000 < $180,000\nYear 4: $160,00",
+        "eval": "False"
+    },
+    {
+        "pid": "968",
+        "Ground Truth": "6",
+        "Prediction": "To answer this question, I would need to know the total number of balls and the number of blue balls and large yellow rubber balls. Without that information, I cannot provide an integer for the final answer. Could you please provide more details or clarify the question?",
+        "eval": "False"
+    },
+    {
+        "pid": "973",
+        "Ground Truth": "1",
+        "Prediction": "I'm sorry, but I need more information about the function you're referring to in order to answer your question. Could you please provide the equation or describe the function in more detail?",
+        "eval": "False"
+    },
+    {
+        "pid": "975",
+        "Ground Truth": "6",
+        "Prediction": "I'm sorry, but I don't understand the question. Could you please provide more context or clarify the question?",
+        "eval": "False"
+    },
+    {
+        "pid": "978",
+        "Ground Truth": "7",
+        "Prediction": "To determine the range of the distances Allie biked over the last week, we need to know the specific distances she biked each day. Without that information, we cannot calculate the range. Could you please provide the distances for each day?",
+        "eval": "False"
+    },
+    {
+        "pid": "979",
+        "Ground Truth": "9079",
+        "Prediction": "The number displayed is 42.",
+        "eval": "False"
+    },
+    {
+        "pid": "980",
+        "Ground Truth": "12",
+        "Prediction": "The largest number displayed is 9.",
+        "eval": "False"
+    },
+    {
+        "pid": "983",
+        "Ground Truth": "8",
+        "Prediction": "The maximum accuracy indicated in the entire chart is 3.",
+        "eval": "False"
+    },
+    {
+        "pid": "985",
+        "Ground Truth": "5",
+        "Prediction": "The lowest percentage shown in the chart is 1.",
+        "eval": "False"
+    },
+    {
+        "pid": "987",
+        "Ground Truth": "4232",
+        "Prediction": "To apply the Midpoint Rule, we need to find the midpoints of each interval and then multiply each midpoint by the thickness at that midpoint, and finally sum up all these products.\n\n\nThe intervals are:\n\n1. 0-20 cm: midpoint is 10 cm, thickness is 20.3 cm\n\n2. 20-40 cm: midpoint is 30 cm, thickness is 26.7 cm\n\n3. 40-60 cm: midpoint is 50 cm, thickness is 29.0 cm\n\n4. 60-80 cm: midpoint is 70 cm, thickness is 27.6 cm\n\n5. 80-100 cm: midpoint is 90 cm, thickness is 27.3 cm\n\n6. 100-120 cm: midpoint is 110 cm, thickness is 23.8 cm\n\n7. 120-140 cm: midpoint is 130 cm, thickness is 20.5 cm\n\n8. 140-160 cm: midpoint is 150 cm, thickness is 15.1 cm\n\n9. 160-180 cm: midpoint is 170 cm, thickness is 8.7 cm\n\n10. 180-200 cm: midpoint is 190 cm, thickness is 2.8 cm\n\n\nNow, we calculate the area using the Midpoint Rule:\n\nArea \u2248 (10 * 20.3 + 30 * 26.7 + 50 * 29.0 + 70 * 27.6 + 90 * 27.3 + 110 * 23.8 + 130 * 20.5 + 150 * 15.1 + 170 * 8.7 + 190 * 2.8) cm\u00b2\n\nArea \u2248 (203 + 801 + 1450 + 19",
+        "eval": "False"
+    },
+    {
+        "pid": "988",
+        "Ground Truth": "1",
+        "Prediction": "I'm sorry, but I cannot provide an answer to that question as it involves personal information that I cannot access.",
+        "eval": "False"
+    },
+    {
+        "pid": "989",
+        "Ground Truth": "9",
+        "Prediction": "3",
+        "eval": "False"
+    },
+    {
+        "pid": "993",
+        "Ground Truth": "9",
+        "Prediction": "0",
+        "eval": "False"
+    },
+    {
+        "pid": "996",
+        "Ground Truth": "2",
+        "Prediction": "1",
+        "eval": "False"
+    },
+    {
+        "pid": "1000",
+        "Ground Truth": "9",
+        "Prediction": "I'm sorry, but I don't understand the question. Could you please provide more context or clarify the instructions?",
+        "eval": "False"
+    }
+]
